@@ -1,0 +1,11 @@
+101 Rock/Pop/Jazz/Electrónica
+102 Hip_Hop/Reggae/Soul/Funk
+103 Clásica/Ópera/Folk
+104 Metal/Punk/Grunge
+105 Salsa/Merengue/Cumbia/Bachata
+106 Country/Blues/Gospel
+107 Techno/House/Trance
+108 Reggaeton/Trap/Dembow
+109 Indie/Alternativo/Shoegaze
+110 Flamenco/Bolero/Rancheras
+

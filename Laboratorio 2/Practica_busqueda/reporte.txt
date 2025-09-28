@@ -1,0 +1,14 @@
+Para el codigo: 101
+---------------------------- 
+DNI: 74258521
+Nombre: Juan_Perez
+DNI: 75849302
+Nombre: Carlos_Lopez
+Para el codigo: 102
+---------------------------- 
+DNI: 76123456
+Nombre: Ana_Silva
+Para el codigo: 103
+---------------------------- 
+DNI: 74258521
+Nombre: Juan_Perez

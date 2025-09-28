@@ -1,0 +1,5 @@
+Al menos funciona esto?
+Papeleta Num:1 : 
+Fecha: 20240507
+DNI: 64432010
+--------------------------------------------

@@ -1,0 +1,76 @@
+====================================================================================================================================================================================
+ALUMNOS: 20227341 - DIAZ ANTEZANO MAGALI SILVANA                                                         ESCALA: D
+ALUMNOS: 20238246 - RUIZ GORDILLO CAROLA ERIKA                                                           ESCALA: C
+ALUMNOS: 20218255 - MEJIA DIAZ BLANCA MILAGROS                                                           ESCALA: B
+ALUMNOS: 20221316 - RAFFO CHUNG ADRIA GLORIA                                                             ESCALA: A
+ALUMNOS: 20198237 - CASTRO SUAREZ ROLANDO                                                                ESCALA: C
+ALUMNOS: 20229400 - DELGADO GONZALES GUILLERMO ALFONSO                                                   ESCALA: A
+ALUMNOS: 20202756 - PRADO FALCON EDGAR RICHARD                                                           ESCALA: D
+ALUMNOS: 20216298 - MALDONADO RAMIREZ SILVANA                                                            ESCALA: E
+ALUMNOS: 20225162 - PISCOYA BRAVO CESAR BRUNO                                                            ESCALA: C
+ALUMNOS: 20197480 - CERNA HIJAR JOSE ROLANDO                                                             ESCALA: A
+ALUMNOS: 20238549 - JUSTINO FORZANI ERICKA VICTORIA                                                      ESCALA: A
+ALUMNOS: 20205830 - FERNANDEZ ORTEGA ELIZABETH ELIZABETH                                                 ESCALA: A
+ALUMNOS: 20205844 - VILLA YALLICO TATIANA NANCY                                                          ESCALA: A
+ALUMNOS: 20193373 - VASQUEZ PAZ ALEX MARTIN                                                              ESCALA: C
+ALUMNOS: 20198922 - PAIRAZAMAN ALAMO MOISES MIGUEL                                                       ESCALA: E
+ALUMNOS: 20209968 - PRADO VERGEL CARLOS JULIAN                                                           ESCALA: D
+ALUMNOS: 20193769 - NORABUENA PRECIADO CINTHIA                                                           ESCALA: B
+ALUMNOS: 20226271 - VELASQUEZ HUAYANAY EDGARD HENRY                                                      ESCALA: C
+ALUMNOS: 20239652 - INGA FLORES CESAR ADOLFO                                                             ESCALA: E
+ALUMNOS: 20194050 - CORRALES TSUKAZAN IRMA LOURDES                                                       ESCALA: A
+ALUMNOS: 20195340 - CERNA DURAND MARTIN                                                                  ESCALA: D
+ALUMNOS: 20236102 - SALAS AGUERO DANIEL                                                                  ESCALA: B
+ALUMNOS: 20202031 - AQUINO TORO VALENTINA ROCIO                                                          ESCALA: B
+ALUMNOS: 20195979 - MEJIA DE LA HAZA FRANCISCO EDGAR                                                     ESCALA: E
+ALUMNOS: 20224223 - PASQUEL QUIO SURAMI JANET                                                            ESCALA: E
+ALUMNOS: 20218679 - AURIS ZIMIC JAVIER DANIEL                                                            ESCALA: D
+ALUMNOS: 20207053 - LOZADA YINO MARTHA                                                                   ESCALA: C
+ALUMNOS: 20202687 - MORALES VALVERDE INES MARTHA                                                         ESCALA: A
+ALUMNOS: 20236453 - ARCA AMEZQUITA EDRIC RONALD                                                          ESCALA: B
+ALUMNOS: 20193984 - PAREDES PATINO CHRISTIAN                                                             ESCALA: A
+ALUMNOS: 20198845 - LANDEO SUELDO ADOLFO                                                                 ESCALA: E
+ALUMNOS: 20233583 - PALOMARES VERA HENRRY HUMBERTO                                                       ESCALA: B
+ALUMNOS: 20227724 - CORONEL CHUMPITAZ HELI                                                               ESCALA: D
+ALUMNOS: 20226455 - HENRIQUEZ ESPINO BEATRIZ                                                             ESCALA: B
+ALUMNOS: 20207741 - CABRERA CANALES GUILLERMO EDRIC                                                      ESCALA: E
+ALUMNOS: 20236905 - LAURA WONG MELVIN HENRRY                                                             ESCALA: A
+ALUMNOS: 20197557 - CARO POLO SANDRO                                                                     ESCALA: D
+ALUMNOS: 20235440 - PORTUGAL BENAVENTE JOHANA GLORIA                                                     ESCALA: D
+ALUMNOS: 20197155 - JUSTINO CRUZ WILLIAMS                                                                ESCALA: A
+ALUMNOS: 20193891 - CAMACHO AGUERO ELIA ROSA                                                             ESCALA: D
+ALUMNOS: 20218376 - LANDA PISCOYA CHRISTIAN                                                              ESCALA: A
+ALUMNOS: 20196536 - BENAVENTE AYALA VIRGINIA IRMA                                                        ESCALA: B
+ALUMNOS: 20224165 - MIYAKE MEREL MADELEINE YLIANA                                                        ESCALA: A
+ALUMNOS: 20219566 - MEDINA VELASQUEZ MILENA JENNY                                                        ESCALA: C
+ALUMNOS: 20192298 - CORREA VIZCARDO MIGUEL                                                               ESCALA: C
+ALUMNOS: 20198069 - AMEZQUITA EPIQUEN EVERT ROBERTO                                                      ESCALA: E
+ALUMNOS: 20229272 - CRUZ FUENTES JOHANA YDALI                                                            ESCALA: E
+ALUMNOS: 20222575 - YOSHINARI RIVERA PAUL                                                                ESCALA: B
+ALUMNOS: 20193573 - ASMAD ACUNA ANNIE OFELIA                                                             ESCALA: A
+ALUMNOS: 20198434 - CHAVEZ PRADO SILVANA                                                                 ESCALA: D
+ALUMNOS: 20193012 - DE LA CUBA ALBERTO PAIRAZAMAN                                                        ESCALA: C
+ALUMNOS: 20198608 - GORDILLO YINO YVONNE ROSARIO                                                         ESCALA: B
+ALUMNOS: 20231938 - MARTEL ASMAD BRUNO ROBERTO                                                           ESCALA: E
+ALUMNOS: 20208175 - HIJAR YEP WILLIAMS CHRISTIAN                                                         ESCALA: A
+ALUMNOS: 20237059 - CALDERON ORTEGA GUILLERMO                                                            ESCALA: D
+ALUMNOS: 20208971 - SUAREZ BOLANOS RAFAEL                                                                ESCALA: C
+ALUMNOS: 20216619 - IBEROS VALDERRAMA RAFAEL                                                             ESCALA: D
+ALUMNOS: 20197374 - VILCARA CORREA VICTOR                                                                ESCALA: D
+ALUMNOS: 20233816 - VALVERDE BERROCAL RONY GONZALO                                                       ESCALA: E
+ALUMNOS: 20221873 - HENRIQUEZ PORTUGAL ALEX                                                              ESCALA: B
+ALUMNOS: 20211892 - GONZALES ARIAS HENRY                                                                 ESCALA: B
+ALUMNOS: 20212697 - RETAMOSO BARRERA OSCAR                                                               ESCALA: C
+ALUMNOS: 20205864 - MALDONADO FLORIAN JOHANA                                                             ESCALA: D
+ALUMNOS: 20219990 - ACUNA YINO ROCIO YOLANDA                                                             ESCALA: A
+ALUMNOS: 20197378 - VILLEGAS PALOMINO DORIS FREYSA                                                       ESCALA: B
+ALUMNOS: 20208940 - BARRIOS TOMASICHE CARLOS ALBERTO                                                     ESCALA: B
+ALUMNOS: 20215248 - MEJIA HUAYANAY CHRISTIAN ALONSO                                                      ESCALA: A
+ALUMNOS: 20213075 - FLORIAN MORALES YDALI                                                                ESCALA: E
+ALUMNOS: 20191754 - MOYA ARANDA JOHNNY                                                                   ESCALA: D
+ALUMNOS: 20195244 - CORTEZ SEGURA CARMELA INES                                                           ESCALA: A
+ALUMNOS: 20196245 - VEGA MUNOZ GONZALO                                                                   ESCALA: D
+ALUMNOS: 20231152 - HIJAR PAIRAZAMAN JENNY DELICIA                                                       ESCALA: E
+ALUMNOS: 20217328 - ALAMO PAIRAZAMAN MIGUEL ROBERTO                                                      ESCALA: A
+ALUMNOS: 20193490 - CORONADO FIGUEROA JOHAN                                                              ESCALA: C
+ALUMNOS: 20195764 - CALIXTO TOMASICHE MONICA DORIS                                                       ESCALA: A

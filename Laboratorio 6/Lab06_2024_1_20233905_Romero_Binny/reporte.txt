@@ -1,0 +1,23 @@
+                                                                    INSTITUCION EDUCATIVA_TP
+                                                         PROMEDIO PONDERADO DE LOS ALUMNOS MATRICULADOS
+                                                                         CICLO: 2024-1
+                                                                     FACULTAD ARQUITECTURA
+================================================================================================================================================================
+    ALUMNO                                          No. de Cursos             Suma Ponderada            No. de Creditos           Prom Ponderado            
+================================================================================================================================================================
+20238549 - Ericka Victoria Justino Forzani             12                        56                        160                       13.3333                   
+20205830 - Elizabeth Elizabeth Fernandez Ortega        14                        59.75                     186                       13.2857                   
+20205844 - Tatiana Nancy Villa Yallico                 16                        74.75                     223                       13.9375                   
+20193769 - Cinthia Norabuena Preciado                  25                        120                       299                       11.96                     
+20226271 - Edgard Henry Velasquez Huayanay             17                        77.5                      212                       12.4706                   
+20207053 - Marthavaleria Lozada Yino                   19                        92.5                      228                       12                        
+20202687 - Ines Martha Morales Valverde                18                        80.25                     246                       13.6667                   
+20219566 - Milena Jenny Medina Velasquez               25                        113                       327                       13.08                     
+20229272 - Johana Dali Cruz Fuentes                    23                        106                       324                       14.087                    
+20222575 - Paul Yoshinari Rivera                       21                        96                        269                       12.8095                   
+20208175 - Williams Christian Hijar Yep                20                        91.5                      266                       13.3                      
+20237059 - Guillermo Jorge Calderon Ortega             11                        51.75                     133                       12.0909                   
+20208971 - Rafael Flavio Suarez Bolanos                15                        66.75                     202                       13.4667                   
+20233816 - Rony Gonzalo Valverde Berrocal              17                        80.25                     215                       12.6471                   
+20208940 - Carlos Alberto Barrios Tomasiche            16                        76.25                     204                       12.75                     
+================================================================================================================================================================

@@ -1,0 +1,1670 @@
+                                                                          REPORTE DE CANTANTES SIN REPETIR
+                                          NOMBRE DEL ARTISTA                                    NUMERO DE REPRODUCCIONES                                                    BAILABLE
+         1) Sisqo                                                       527959                                                      1.452                                                       
+Generos:  pop/hip hop/pop/R&B
+         2) Eminem                                                      5939050                                                     15.603                                                      
+Generos:  rock/pop/hip hop
+         3) Robbie Williams                                             1443069                                                     3.819                                                       
+Generos:  pop/country/pop/rock
+         4) Destiny's Child                                             2442863                                                     7.162                                                       
+Generos:  rock/metal/pop/R&B
+         5) Modjo                                                       307153                                                      0.72                                                        
+Generos:  pop
+         6) Gigi D'Agostino                                             524185                                                      1.357                                                       
+Generos:  hip hop/pop/R&B/rock/pop
+         7) Eiffel 65                                                   268863                                                      0.745                                                       
+Generos:  hip hop
+         8) Bomfunk MC's                                                306333                                                      0.822                                                       
+Generos:  pop/rock
+         9) Sting                                                       285960                                                      0.586                                                       
+Generos:  pop/R&B
+        10) Melanie C                                                   646373                                                      1.211                                                       
+Generos:  Dance/Electronic/hip hop
+        11) Aaliyah                                                     1034612                                                     2.686                                                       
+Generos:  pop/hip hop/pop/R&B
+        12) Anastacia                                                   715092                                                      2.022                                                       
+Generos:  pop
+        13) Alice Deejay                                                214883                                                      0.671                                                       
+Generos:  pop
+        14) Dr. Dre                                                     667532                                                      2.44                                                        
+Generos:  pop/Dance/Electronic/hip hop
+        15) Linkin Park                                                 1849704                                                     4.971                                                       
+Generos:  hip hop/pop/R&B/rock/metal
+        16) Tom Jones                                                   211893                                                      0.801                                                       
+Generos:  pop
+        17) Sonique                                                     240866                                                      0.634                                                       
+Generos:  pop
+        18) M.O.P.                                                      244466                                                      0.656                                                       
+Generos:  pop
+        19) Limp Bizkit                                                 804773                                                      1.623                                                       
+Generos:  rock/metal
+        20) Darude                                                      225493                                                      0.528                                                       
+Generos:  rock/Folk/Acoustic/easy listening
+        21) Da Brat                                                     221160                                                      0.879                                                       
+Generos:  pop
+        22) Moloko                                                      318280                                                      0.682                                                       
+Generos:  hip hop
+        23) Chicane                                                     210786                                                      0.644                                                       
+Generos:  pop/Dance/Electronic
+        24) DMX                                                         486452                                                      1.271                                                       
+Generos:  metal/hip hop/pop
+        25) Debelah Morgan                                              220106                                                      0.85                                                        
+Generos:  pop/Dance/Electronic
+        26) Britney Spears                                              4149701                                                     13.457                                                      
+Generos:  hip hop/pop/R&B
+        27) blink 182                                                   167066                                                      0.434                                                       
+Generos:  pop/Dance/Electronic
+        28) Faith Hill                                                  472666                                                      0.85                                                        
+Generos:  Dance/Electronic/pop/country
+        29) Bon Jovi                                                    224493                                                      0.551                                                       
+Generos:  hip hop/pop
+        30) *NSYNC                                                      937200                                                      2.702                                                       
+Generos:  pop/R&B
+        31) Madonna                                                     2154051                                                     5.686                                                       
+Generos:  pop
+        32) Ruff Endz                                                   242560                                                      0.839                                                       
+Generos:  R&B
+        33) Montell Jordan                                              276266                                                      0.813                                                       
+Generos:  hip hop/pop/R&B
+        34) Kylie Minogue                                               1474410                                                     4.782                                                       
+Generos:  pop/Dance/Electronic
+        35) JAY                                                         3045356                                                     8.462                                                       
+Generos:  hip hop
+        36) LeAnn Rimes                                                 445332                                                      1.106                                                       
+Generos:  pop/country
+        37) Avant                                                       519106                                                      1.553                                                       
+Generos:  pop/R&B
+        38) Enrique Iglesias                                            1984997                                                     6.392                                                       
+Generos:  pop/latin
+        39) Toni Braxton                                                261933                                                      0.739                                                       
+Generos:  pop/R&B
+        40) Bow Wow                                                     868492                                                      3.153                                                       
+Generos:  hip hop/pop/R&B
+        41) Missy Elliott                                               1957153                                                     6.494                                                       
+Generos:  hip hop/pop/R&B
+        42) Backstreet Boys                                             704639                                                      1.642                                                       
+Generos:  pop
+        43) Samantha Mumba                                              201946                                                      0.729                                                       
+Generos:  pop
+        44) Mya                                                         236906                                                      0.772                                                       
+Generos:  pop/R&B
+        45) Mary Mary                                                   198346                                                      0.779                                                       
+Generos:  R&B
+        46) Next                                                        243666                                                      0.829                                                       
+Generos:  hip hop/pop/R&B
+        47) Janet Jackson                                               594959                                                      1.524                                                       
+Generos:  pop/R&B
+        48) Ricky Martin                                                533332                                                      1.265                                                       
+Generos:  pop/latin
+        49) Jagged Edge                                                 723346                                                      2.068                                                       
+Generos:  hip hop/pop/R&B
+        50) Mariah Carey                                                1771572                                                     5.337                                                       
+Generos:  pop/R&B
+        51) Baha Men                                                    198400                                                      0.869                                                       
+Generos:  R&B
+        52) Donell Jones                                                497359                                                      1.518                                                       
+Generos:  pop/R&B
+        53) Oasis                                                       278666                                                      0.408                                                       
+Generos:  Folk/Acoustic/rock
+        54) DJ Atzi                                                     219240                                                      0.666                                                       
+Generos:  pop/easy listening/Dance/Electronic
+        55) P!nk                                                        3349969                                                     9.918                                                       
+Generos:  pop
+        56) Craig David                                                 1280745                                                     3.064                                                       
+Generos:  hip hop/pop/R&B
+        57) Christina Aguilera                                          1965130                                                     5.67                                                        
+Generos:  pop
+        58) Red Hot Chili Peppers                                       1640532                                                     3.193                                                       
+Generos:  rock
+        59) Sammie                                                      251040                                                      0.826                                                       
+Generos:  hip hop/pop/R&B
+        60) Santana                                                     484413                                                      1.372                                                       
+Generos:  rock/blues/latin
+        61) Kandi                                                       243533                                                      0.859                                                       
+Generos:  pop/R&B
+        62) Vengaboys                                                   214819                                                      0.751                                                       
+Generos:  pop
+        63) Ronan Keating                                               662105                                                      1.751                                                       
+Generos:  pop/rock
+        64) Madison Avenue                                              228140                                                      0.808                                                       
+Generos:  Dance/Electronic
+        65) Celine Dion                                                 501146                                                      1.208                                                       
+Generos:  pop
+        66) 3 Doors Down                                                1218012                                                     2.639                                                       
+Generos:  pop/rock/metal
+        67) Carl Thomas                                                 226760                                                      0.736                                                       
+Generos:  pop/R&B
+        68) Mystikal                                                    256973                                                      0.914                                                       
+Generos:  hip hop/pop
+        69) Fuel                                                        236866                                                      0.313                                                       
+Generos:  rock/pop/metal
+        70) Savage Garden                                               281466                                                      0.581                                                       
+Generos:  pop
+        71) Westlife                                                    891252                                                      1.339                                                       
+Generos:  pop
+        72) All Saints                                                  268746                                                      0.631                                                       
+Generos:  pop
+        73) Erykah Badu                                                 348893                                                      0.724                                                       
+Generos:  hip hop/R&B
+        74) Marc Anthony                                                347106                                                      0.578                                                       
+Generos:  pop/latin
+        75) Matchbox Twenty                                             484839                                                      0.774                                                       
+Generos:  pop/rock
+        76) Gabrielle                                                   635172                                                      1.626                                                       
+Generos:  pop/R&B
+        77) Creed                                                       1128133                                                     1.569                                                       
+Generos:  pop/rock/metal
+        78) The Corrs                                                   207506                                                      0.607                                                       
+Generos:  pop/Folk/Acoustic
+        79) Joe                                                         509719                                                      1.492                                                       
+Generos:  pop/R&B
+        80) Wheatus                                                     241666                                                      0.625                                                       
+Generos:  pop
+        81) Nelly                                                       3002712                                                     8.077                                                       
+Generos:  hip hop/pop/R&B
+        82) Shaggy                                                      227600                                                      0.853                                                       
+Generos:  hip hop/pop
+        83) Nelly Furtado                                               1243532                                                     3.685                                                       
+Generos:  hip hop/pop/latin
+        84) Shakira                                                     1040078                                                     3.793                                                       
+Generos:  pop/latin
+        85) Jimmy Eat World                                             165853                                                      0.643                                                       
+Generos:  rock/pop
+        86) Train                                                       455906                                                      1.246                                                       
+Generos:  pop
+        87) Geri Halliwell                                              254640                                                      0.637                                                       
+Generos:  pop
+        88) Blu Cantrell                                                250706                                                      0.667                                                       
+Generos:  pop/R&B
+        89) Mary J. Blige                                               1617411                                                     3.969                                                       
+Generos:  pop/R&B
+        90) Faithless                                                   222435                                                      0.645                                                       
+Generos:  pop/Dance/Electronic
+        91) Lasgo                                                       220973                                                      0.643                                                       
+Generos:  pop
+        92) iio                                                         253586                                                      0.661                                                       
+Generos:  Dance/Electronic
+        93) Emma Bunton                                                 241000                                                      0.668                                                       
+Generos:  pop
+        94) 112                                                         458026                                                      1.337                                                       
+Generos:  hip hop/pop/R&B
+        95) Blue                                                        1070758                                                     3.15                                                        
+Generos:  pop
+        96) Jessica Simpson                                             385852                                                      1.21                                                        
+Generos:  pop/R&B
+        97) Crazy Town                                                  216733                                                      0.736                                                       
+Generos:  rock/metal
+        98) Michael Jackson                                             337733                                                      0.854                                                       
+Generos:  pop/R&B
+        99) Eve                                                         469399                                                      1.631                                                       
+Generos:  hip hop/pop/R&B
+       100) Jennifer Lopez                                              2303223                                                     7.508                                                       
+Generos:  hip hop/pop/R&B
+       101) Brandy                                                      773759                                                      1.997                                                       
+Generos:  hip hop/pop/R&B
+       102) Nickelback                                                  2092264                                                     4.458                                                       
+Generos:  rock/metal
+       103) Daft Punk                                                   922663                                                      2.239                                                       
+Generos:  hip hop/Dance/Electronic
+       104) Outkast                                                     1269065                                                     4.126                                                       
+Generos:  hip hop/pop
+       105) Fragma                                                      213346                                                      0.682                                                       
+Generos:  pop/Dance/Electronic
+       106) Dido                                                        698440                                                      1.749                                                       
+Generos:  pop
+       107) P.O.D.                                                      256240                                                      0.563                                                       
+Generos:  rock/metal
+       108) Christina Milian                                            650945                                                      2.579                                                       
+Generos:  hip hop/pop/R&B
+       109) Roger Sanchez                                               452906                                                      0.61                                                        
+Generos:  Dance/Electronic
+       110) Gorillaz                                                    808559                                                      2.241                                                       
+Generos:  hip hop
+       111) 2Pac                                                        504559                                                      1.551                                                       
+Generos:  hip hop
+       112) Tamia                                                       285386                                                      0.676                                                       
+Generos:  pop/R&B
+       113) Jamiroquai                                                  295400                                                      0.878                                                       
+Generos:  pop
+       114) Case                                                        284666                                                      0.612                                                       
+Generos:  hip hop/pop/R&B
+       115) Five                                                        218626                                                      0.631                                                       
+Generos:  pop
+       116) Rui Da Silva                                                213133                                                      0.464                                                       
+Generos:  Dance/Electronic
+       117) Alien Ant Farm                                              209266                                                      0.653                                                       
+Generos:  rock/metal
+       118) Erick Sermon                                                223133                                                      0.897                                                       
+Generos:  hip hop/pop
+       119) D12                                                         852812                                                      2.376                                                       
+Generos:  hip hop/pop/rock
+       120) Usher                                                       2607451                                                     7.828                                                       
+Generos:  hip hop/pop/R&B
+       121) Atomic Kitten                                               586612                                                      2.108                                                       
+Generos:  pop
+       122) Afroman                                                     197760                                                      0.802                                                       
+Generos:  hip hop
+       123) S Club 7                                                    435159                                                      1.407                                                       
+Generos:  pop
+       124) The Supermen Lovers                                         234400                                                      0.739                                                       
+Generos:  Dance/Electronic
+       125) Mis                                                         446240                                                      1.529                                                       
+Generos:  pop/Dance/Electronic
+       126) Enya                                                        218546                                                      0.418                                                       
+Generos:  World/Traditional/Folk/Acoustic
+       127) Steps                                                       197360                                                      0.573                                                       
+Generos:  pop/Dance/Electronic
+       128) Sunshine Anderson                                           295826                                                      0.697                                                       
+Generos:  pop/R&B
+       129) Lenny Kravitz                                               231666                                                      0.55                                                        
+Generos:  rock/pop
+       130) Daniel Bedingfield                                          837625                                                      3.05                                                        
+Generos:  pop
+       131) DB Boulevard                                                231166                                                      0.676                                                       
+Generos:  Dance/Electronic
+       132) Ja Rule                                                     780892                                                      2.482                                                       
+Generos:  hip hop/pop/R&B
+       133) DJ Pied Piper                                               217120                                                      0.847                                                       
+Generos:  Dance/Electronic
+       134) Musiq Soulchild                                             559159                                                      0.981                                                       
+Generos:  pop/R&B
+       135) So Solid Crew                                               302826                                                      0.607                                                       
+Generos:  Dance/Electronic
+       136) Basement Jaxx                                               499799                                                      1.284                                                       
+Generos:  pop/Dance/Electronic
+       137) Ludacris                                                    2302597                                                     5.949                                                       
+Generos:  hip hop/pop
+       138) Trick Daddy                                                 254400                                                      0.933                                                       
+Generos:  hip hop/pop
+       139) Travis                                                      228800                                                      0.33                                                        
+Generos:  rock/pop
+       140) OPM                                                         257426                                                      0.743                                                       
+Generos:  rock
+       141) K                                                           262773                                                      0.68                                                        
+Generos:  pop/R&B
+       142) Staind                                                      264706                                                      0.509                                                       
+Generos:  rock/metal
+       143) 3LW                                                         263440                                                      0.721                                                       
+Generos:  pop/R&B
+       144) Ginuwine                                                    508839                                                      1.253                                                       
+Generos:  hip hop/pop/R&B
+       145) Lifehouse                                                   216360                                                      0.537                                                       
+Generos:  pop/rock/metal
+       146) Avril Lavigne                                               2220290                                                     4.892                                                       
+Generos:  pop
+       147) Vanessa Carlton                                             237493                                                      0.56                                                        
+Generos:  Folk/Acoustic/pop
+       148) The Calling                                                 208600                                                      0.558                                                       
+Generos:  pop
+       149) No Doubt                                                    1204452                                                     3.429                                                       
+Generos:  rock/pop
+       150) Truth Hurts                                                 226440                                                      0.701                                                       
+Generos:  pop/R&B
+       151) Busta Rhymes                                                1102172                                                     2.651                                                       
+Generos:  hip hop/pop
+       152) Diddy                                                       1069865                                                     2.584                                                       
+Generos:  hip hop/pop/hip hop/pop/R&B
+       153) Angie Martinez                                              244466                                                      0.583                                                       
+Generos:  pop
+       154) Las Ketchup                                                 213973                                                      0.607                                                       
+Generos:  pop
+       155) Holly Valance                                               204400                                                      0.705                                                       
+Generos:  pop/Dance/Electronic
+       156) Sugababes                                                   1556344                                                     4.76                                                        
+Generos:  pop/R&B
+       157) Marilyn Manson                                              200426                                                      0.622                                                       
+Generos:  rock/metal
+       158) Chad Kroeger                                                200480                                                      0.427                                                       
+Generos:  metal
+       159) Scooter                                                     442565                                                      1.013                                                       
+Generos:  pop/Dance/Electronic
+       160) Disturbing Tha Peace                                        272293                                                      0.777                                                       
+Generos:  hip hop/pop
+       161) Khia                                                        222560                                                      0.859                                                       
+Generos:  pop/R&B
+       162) Tweet                                                       237800                                                      0.66                                                        
+Generos:  hip hop/pop/R&B
+       163) Gareth Gates                                                461532                                                      1.068                                                       
+Generos:  pop
+       164) B2K                                                         506066                                                      1.69                                                        
+Generos:  hip hop/pop/R&B
+       165) Dirty Vegas                                                 432146                                                      0.786                                                       
+Generos:  Dance/Electronic
+       166) Fat Joe                                                     725826                                                      2.484                                                       
+Generos:  hip hop/pop
+       167) Liberty X                                                   237359                                                      0.786                                                       
+Generos:  pop
+       168) LL Cool J                                                   788293                                                      2.211                                                       
+Generos:  hip hop/pop/R&B
+       169) Sean Paul                                                   2070013                                                     7.107                                                       
+Generos:  hip hop/pop
+       170) Faith Evans                                                 267160                                                      0.489                                                       
+Generos:  hip hop/pop/R&B
+       171) Charli Baltimore                                            318213                                                      0.64                                                        
+Generos:  pop
+       172) N.O.R.E.                                                    264653                                                      0.791                                                       
+Generos:  hip hop/pop
+       173) Big Brovaz                                                  201480                                                      0.783                                                       
+Generos:  pop
+       174) Ashanti                                                     1448704                                                     3.876                                                       
+Generos:  hip hop/pop/R&B
+       175) Sophie Ellis                                                230013                                                      0.734                                                       
+Generos:  pop/Dance/Electronic
+       176) Justin Timberlake                                           3826584                                                     9.065                                                       
+Generos:  pop
+       177) A1                                                          206466                                                      0.519                                                       
+Generos:  pop
+       178) Delta Goodrem                                               499826                                                      1.123                                                       
+Generos:  pop
+       179) Alicia Keys                                                 1680519                                                     3.434                                                       
+Generos:  pop/R&B
+       180) Coldplay                                                    3422737                                                     6.325                                                       
+Generos:  rock/pop
+       181) Big Tymers                                                  335613                                                      0.675                                                       
+Generos:  hip hop/pop
+       182) DJ Sammy                                                    233600                                                      0.571                                                       
+Generos:  pop
+       183) Camron                                                      204706                                                      0.754                                                       
+Generos:  hip hop/pop
+       184) Elvis Presley                                               211506                                                      0.597                                                       
+Generos:  rock/easy listening
+       185) Alanis Morissette                                           269400                                                      0.513                                                       
+Generos:  pop/Folk/Acoustic
+       186) The Goo Goo Dolls                                           238173                                                      0.338                                                       
+Generos:  pop/rock
+       187) Puddle Of Mudd                                              520680                                                      1.012                                                       
+Generos:  rock/metal
+       188) Blazin' Squad                                               188693                                                      0.661                                                       
+Generos:  pop
+       189) Default                                                     268693                                                      0.443                                                       
+Generos:  rock/pop/metal
+       190) Michelle Branch                                             217680                                                      0.499                                                       
+Generos:  pop/Folk/Acoustic
+       191) 50 Cent                                                     2043276                                                     6.489                                                       
+Generos:  hip hop/pop
+       192) Beyonce                                                     3805221                                                     10.257                                                      
+Generos:  pop/R&B
+       193) Counting Crows                                              225426                                                      0.669                                                       
+Generos:  rock/pop
+       194) Black Eyed Peas                                             3609716                                                     10.572                                                      
+Generos:  hip hop/pop
+       195) t.A.T.u.                                                    214440                                                      0.527                                                       
+Generos:  pop
+       196) Benny Benassi                                               285570                                                      0.793                                                       
+Generos:  pop/Dance/Electronic
+       197) Panjabi MC                                                  244666                                                      0.778                                                       
+Generos:  World/Traditional/hip hop
+       198) Jamelia                                                     215480                                                      0.801                                                       
+Generos:  pop
+       199) Evanescence                                                 713132                                                      0.971                                                       
+Generos:  metal
+       200) Three Days Grace                                            231480                                                      0.498                                                       
+Generos:  rock/metal
+       201) Lil Jon & The East Side Boyz                                585200                                                      1.455                                                       
+Generos:  hip hop/pop
+       202) Baby Bash                                                   697972                                                      2.223                                                       
+Generos:  hip hop/pop/R&B/latin
+       203) The White Stripes                                           231920                                                      0.741                                                       
+Generos:  rock/blues
+       204) Youngbloodz                                                 298600                                                      0.772                                                       
+Generos:  hip hop/pop
+       205) Lil' Kim                                                    594773                                                      1.702                                                       
+Generos:  hip hop/pop/R&B
+       206) Trapt                                                       285569                                                      0.492                                                       
+Generos:  rock/metal
+       207) Simply Red                                                  199040                                                      0.791                                                       
+Generos:  rock/R&B/Folk/Acoustic/pop
+       208) Lumidee                                                     184906                                                      0.811                                                       
+Generos:  pop/R&B
+       209) Girls Aloud                                                 848736                                                      2.57                                                        
+Generos:  pop/Dance/Electronic
+       210) Room 5                                                      212413                                                      0.883                                                       
+Generos:  Dance/Electronic
+       211) Fatman Scoop                                                164506                                                      0.649                                                       
+Generos:  hip hop
+       212) Pharrell Williams                                           469226                                                      1.541                                                       
+Generos:  hip hop/pop
+       213) Chingy                                                      1076079                                                     3.227                                                       
+Generos:  hip hop/pop/R&B
+       214) Maya                                                        209533                                                      0.831                                                       
+Generos:  pop/R&B
+       215) Ultrabeat                                                   201920                                                      0.553                                                       
+Generos:  pop/Dance/Electronic
+       216) Frankie J                                                   245293                                                      0.655                                                       
+Generos:  hip hop/pop/R&B
+       217) Snoop Dogg                                                  1716930                                                     5.901                                                       
+Generos:  hip hop/pop
+       218) Floetry                                                     268373                                                      0.747                                                       
+Generos:  hip hop/pop/R&B
+       219) Electric Six                                                214600                                                      0.66                                                        
+Generos:  rock
+       220) Rachel Stevens                                              208386                                                      0.85                                                        
+Generos:  pop/Dance/Electronic
+       221) Nas                                                         253720                                                      0.837                                                       
+Generos:  hip hop
+       222) Tyrese                                                      294693                                                      0.733                                                       
+Generos:  hip hop/pop/R&B
+       223) Amanda Perez                                                218760                                                      0.638                                                       
+Generos:  pop/R&B
+       224) Kelly Rowland                                               905879                                                      2.676                                                       
+Generos:  hip hop/pop/R&B
+       225) Junior Senior                                               181826                                                      0.747                                                       
+Generos:  pop
+       226) Audioslave                                                  293960                                                      0.614                                                       
+Generos:  rock/metal
+       227) Jaheim                                                      245773                                                      0.649                                                       
+Generos:  pop/R&B
+       228) Monica                                                      242773                                                      0.618                                                       
+Generos:  pop/R&B
+       229) The Roots                                                   267933                                                      0.758                                                       
+Generos:  hip hop
+       230) Fabolous                                                    1004892                                                     2.588                                                       
+Generos:  hip hop/pop/R&B
+       231) Kelly Clarkson                                              1537198                                                     3.75                                                        
+Generos:  pop/R&B
+       232) Switchfoot                                                  201373                                                      0.397                                                       
+Generos:  rock/pop
+       233) Good Charlotte                                              190173                                                      0.62                                                        
+Generos:  rock/metal
+       234) Wayne Wonder                                                202013                                                      0.496                                                       
+Generos:  hip hop/R&B
+       235) The Strokes                                                 219826                                                      0.489                                                       
+Generos:  rock
+       236) Will Young                                                  429466                                                      1.282                                                       
+Generos:  pop
+       237) Maroon 5                                                    2851222                                                     9.146                                                       
+Generos:  pop
+       238) Hoobastank                                                  232800                                                      0.472                                                       
+Generos:  pop/rock/metal
+       239) Daddy Yankee                                                586306                                                      2.377                                                       
+Generos:  latin
+       240) O'Zone                                                      215431                                                      0.809                                                       
+Generos:  pop
+       241) Terror Squad                                                247426                                                      0.783                                                       
+Generos:  hip hop
+       242) Gwen Stefani                                                1093091                                                     3.923                                                       
+Generos:  pop/R&B
+       243) The Rasmus                                                  257920                                                      0.6                                                         
+Generos:  metal
+       244) Houston                                                     236520                                                      0.797                                                       
+Generos:  hip hop/pop
+       245) Lloyd Banks                                                 187280                                                      0.759                                                       
+Generos:  hip hop/pop
+       246) Akon                                                        2015583                                                     6.501                                                       
+Generos:  pop
+       247) Jay Sean                                                    825011                                                      2.971                                                       
+Generos:  hip hop/pop/R&B
+       248) Mario Winans                                                257333                                                      0.833                                                       
+Generos:  pop
+       249) Eric Prydz                                                  527359                                                      1.739                                                       
+Generos:  pop/Dance/Electronic
+       250) Ciara                                                       1902371                                                     6.397                                                       
+Generos:  pop/R&B
+       251) Kelis                                                       887638                                                      3.437                                                       
+Generos:  pop/R&B/Dance/Electronic
+       252) Spiderbait                                                  205973                                                      0.562                                                       
+Generos:  rock
+       253) George Michael                                              265826                                                      0.805                                                       
+Generos:  pop
+       254) Nina Sky                                                    232000                                                      0.87                                                        
+Generos:  pop/R&B
+       255) Petey Pablo                                                 235186                                                      0.737                                                       
+Generos:  hip hop/pop
+       256) Juanes                                                      216706                                                      0.751                                                       
+Generos:  pop/latin
+       257) Ying Yang Twins                                             431600                                                      1.817                                                       
+Generos:  hip hop/pop
+       258) JoJo                                                        466426                                                      1.191                                                       
+Generos:  hip hop/pop/R&B
+       259) The Shapeshifters                                           207066                                                      0.748                                                       
+Generos:  Dance/Electronic
+       260) Kevin Lyttle                                                192106                                                      0.677                                                       
+Generos:  hip hop
+       261) T.I.                                                        1967557                                                     4.133                                                       
+Generos:  hip hop/pop
+       262) DJ Casper                                                   222146                                                      0.853                                                       
+Generos:  pop
+       263) Twista                                                      775426                                                      2.313                                                       
+Generos:  hip hop/pop/R&B
+       264) N.E.R.D                                                     213786                                                      0.766                                                       
+Generos:  hip hop
+       265) U2                                                          498600                                                      0.946                                                       
+Generos:  World/Traditional/rock
+       266) Franz Ferdinand                                             452026                                                      0.689                                                       
+Generos:  rock
+       267) J                                                           247106                                                      0.925                                                       
+Generos:  hip hop/pop
+       268) G                                                           1525130                                                     3.857                                                       
+Generos:  hip hop/pop
+       269) Lil' Flip                                                   225173                                                      0.814                                                       
+Generos:  hip hop/pop
+       270) Kanye West                                                  4116114                                                     10.658                                                      
+Generos:  hip hop
+       271) Lemar                                                       229080                                                      0.706                                                       
+Generos:  R&B
+       272) Green Day                                                   758705                                                      1.138                                                       
+Generos:  rock
+       273) Scissor Sisters                                             554400                                                      1.51                                                        
+Generos:  pop/rock/Dance/Electronic
+       274) Special D.                                                  185133                                                      0.739                                                       
+Generos:  pop
+       275) Eamon                                                       225106                                                      0.828                                                       
+Generos:  pop
+       276) Katie Melua                                                 449626                                                      1.096                                                       
+Generos:  pop/easy listening/jazz
+       277) Lloyd                                                       760506                                                      1.922                                                       
+Generos:  hip hop/pop/R&B
+       278) LMC                                                         171546                                                      0.668                                                       
+Generos:  Dance/Electronic
+       279) The Streets                                                 254266                                                      0.68                                                        
+Generos:  hip hop/Dance/Electronic
+       280) JUVENILE                                                    248200                                                      0.713                                                       
+Generos:  hip hop/pop
+       281) Gary Jules                                                  189506                                                      0.345                                                       
+Generos:  pop
+       282) Ashlee Simpson                                              217440                                                      0.505                                                       
+Generos:  pop
+       283) Mario                                                       505759                                                      1.096                                                       
+Generos:  pop/R&B
+       284) Rihanna                                                     5887298                                                     16.482                                                      
+Generos:  hip hop/pop/R&B
+       285) James Blunt                                                 986172                                                      2.402                                                       
+Generos:  pop
+       286) The Pussycat Dolls                                          1824492                                                     5.657                                                       
+Generos:  pop/R&B
+       287) Daniel Powter                                               233640                                                      0.599                                                       
+Generos:  pop
+       288) Crazy Frog                                                  168879                                                      0.86                                                        
+Generos:  pop
+       289) The Chemical Brothers                                       393813                                                      0.745                                                       
+Generos:  Dance/Electronic
+       290) Fort Minor                                                  462359                                                      1.372                                                       
+Generos:  hip hop/pop/rock
+       291) The Game                                                    762826                                                      2.337                                                       
+Generos:  hip hop/pop
+       292) Chris Brown                                                 4042793                                                     11.652                                                      
+Generos:  hip hop/pop/R&B
+       293) Bodyrockers                                                 200053                                                      0.642                                                       
+Generos:  rock/Dance/Electronic
+       294) Jeezy                                                       601306                                                      1.338                                                       
+Generos:  hip hop/pop
+       295) David Banner                                                230133                                                      0.837                                                       
+Generos:  hip hop/pop
+       296) Trillville                                                  283454                                                      0.9                                                         
+Generos:  hip hop/pop
+       297) D4L                                                         448506                                                      1.782                                                       
+Generos:  hip hop/pop
+       298) Rob Thomas                                                  226640                                                      0.551                                                       
+Generos:  pop/Folk/Acoustic
+       299) Brian McFadden                                              229826                                                      0.561                                                       
+Generos:  pop
+       300) Bobby V.                                                    258666                                                      0.568                                                       
+Generos:  hip hop/pop/R&B
+       301) Pretty Ricky                                                720359                                                      2.242                                                       
+Generos:  hip hop/pop/R&B
+       302) Amerie                                                      238746                                                      0.636                                                       
+Generos:  hip hop/pop/R&B
+       303) Natalie Imbruglia                                           222653                                                      0.489                                                       
+Generos:  pop/Folk/Acoustic
+       304) Thirty Seconds To Mars                                      231533                                                      0.179                                                       
+Generos:  rock
+       305) Will Smith                                                  197666                                                      0.873                                                       
+Generos:  hip hop/pop
+       306) Kaiser Chiefs                                               655092                                                      1.336                                                       
+Generos:  rock
+       307) Ray J                                                       541680                                                      1.1                                                         
+Generos:  hip hop/pop/R&B
+       308) Papa Roach                                                  208199                                                      0.455                                                       
+Generos:  rock/metal
+       309) Arctic Monkeys                                              982196                                                      2.542                                                       
+Generos:  rock
+       310) Shayne Ward                                                 442666                                                      0.786                                                       
+Generos:  pop
+       311) T                                                           1236959                                                     3.227                                                       
+Generos:  hip hop/pop/R&B
+       312) Ryan Cabrera                                                204173                                                      0.598                                                       
+Generos:  pop
+       313) Stereophonics                                               297426                                                      0.506                                                       
+Generos:  rock/pop
+       314) KT Tunstall                                                 374079                                                      1.335                                                       
+Generos:  World/Traditional/pop/Folk/Acoustic
+       315) The All                                                     387306                                                      0.938                                                       
+Generos:  rock/pop
+       316) Toby Keith                                                  227840                                                      0.68                                                        
+Generos:  country
+       317) Foo Fighters                                                524999                                                      0.799                                                       
+Generos:  rock/metal
+       318) Amy Winehouse                                               713185                                                      1.515                                                       
+Generos:  R&B
+       319) Gnarls Barkley                                              177466                                                      0.855                                                       
+Generos:  hip hop/R&B
+       320) Bob Sinclar                                                 453079                                                      1.608                                                       
+Generos:  pop/Dance/Electronic
+       321) Chamillionaire                                              303053                                                      0.787                                                       
+Generos:  hip hop/pop
+       322) Fedde Le Grand                                              301066                                                      1.641                                                       
+Generos:  pop/Dance/Electronic
+       323) Cherish                                                     226293                                                      0.826                                                       
+Generos:  hip hop/pop/R&B
+       324) Muse                                                        517279                                                      1.27                                                        
+Generos:  rock
+       325) Infernal                                                    209666                                                      0.741                                                       
+Generos:  pop
+       326) Cassie                                                      192213                                                      0.803                                                       
+Generos:  pop/R&B
+       327) E                                                           202720                                                      0.858                                                       
+Generos:  hip hop/pop
+       328) Lil Jon                                                     274386                                                      0.835                                                       
+Generos:  hip hop/pop
+       329) Armand Van Helden                                           190000                                                      0.678                                                       
+Generos:  pop/Dance/Electronic
+       330) The Notorious B.I.G.                                        286186                                                      0.833                                                       
+Generos:  hip hop
+       331) Yung Joc                                                    241840                                                      0.888                                                       
+Generos:  hip hop/pop
+       332) Take That                                                   931251                                                      1.489                                                       
+Generos:  pop
+       333) Fergie                                                      1288825                                                     3.925                                                       
+Generos:  pop/R&B
+       334) Cascada                                                     406320                                                      1.402                                                       
+Generos:  hip hop/pop/Dance/Electronic
+       335) Meck                                                        189800                                                      0.679                                                       
+Generos:  pop
+       336) Dem Franchize Boyz                                          229813                                                      0.886                                                       
+Generos:  hip hop/pop
+       337) Fall Out Boy                                                1010998                                                     2.467                                                       
+Generos:  rock
+       338) Leona Lewis                                                 1068652                                                     1.768                                                       
+Generos:  pop/R&B
+       339) Nick Lachey                                                 244613                                                      0.42                                                        
+Generos:  pop
+       340) Jibbs                                                       207586                                                      0.792                                                       
+Generos:  hip hop/pop
+       341) Rascal Flatts                                               490879                                                      1.098                                                       
+Generos:  country
+       342) Keyshia Cole                                                749399                                                      2.414                                                       
+Generos:  hip hop/pop/R&B
+       343) Lily Allen                                                  605226                                                      2.012                                                       
+Generos:  pop
+       344) Ne                                                          1918971                                                     5.429                                                       
+Generos:  pop/R&B
+       345) Bubba Sparxxx                                               252653                                                      0.64                                                        
+Generos:  hip hop/pop/country
+       346) Hinder                                                      484586                                                      0.925                                                       
+Generos:  pop/rock/metal
+       347) The Raconteurs                                              215266                                                      0.525                                                       
+Generos:  rock
+       348) The Fratellis                                               215306                                                      0.511                                                       
+Generos:  rock
+       349) Panic! At The Disco                                         376532                                                      1.145                                                       
+Generos:  rock
+       350) Keane                                                       186173                                                      0.489                                                       
+Generos:  pop
+       351) Orson                                                       167493                                                      0.656                                                       
+Generos:  pop
+       352) Natasha Bedingfield                                         462773                                                      1.432                                                       
+Generos:  pop
+       353) Razorlight                                                  472213                                                      1.063                                                       
+Generos:  rock/pop
+       354) James Morrison                                              1153448                                                     2.71                                                        
+Generos:  pop/R&B
+       355) Snow Patrol                                                 273333                                                      0.467                                                       
+Generos:  World/Traditional/rock/pop
+       356) The Fray                                                    760999                                                      1.208                                                       
+Generos:  pop
+       357) Sandi Thom                                                  151640                                                      0.7                                                         
+Generos:  World/Traditional/pop
+       358) My Chemical Romance                                         473026                                                      0.68                                                        
+Generos:  rock
+       359) The Kooks                                                   203506                                                      0.391                                                       
+Generos:  rock
+       360) Mark Ronson                                                 939491                                                      2.781                                                       
+Generos:  pop
+       361) Plain White T's                                             232533                                                      0.656                                                       
+Generos:  pop
+       362) Timbaland                                                   1122718                                                     3.542                                                       
+Generos:  hip hop/pop/R&B
+       363) Ida Corr                                                    151973                                                      0.762                                                       
+Generos:  pop
+       364) Alex Gaudino                                                223111                                                      0.627                                                       
+Generos:  Dance/Electronic
+       365) September                                                   419600                                                      1.534                                                       
+Generos:  pop/Dance/Electronic
+       366) Gym Class Heroes                                            886663                                                      2.633                                                       
+Generos:  hip hop/pop
+       367) Soulja Boy                                                  843585                                                      2.776                                                       
+Generos:  hip hop/pop
+       368) Camille Jones                                               152333                                                      0.847                                                       
+Generos:  pop
+       369) Shop Boyz                                                   253400                                                      0.619                                                       
+Generos:  hip hop/pop
+       370) Finger Eleven                                               416212                                                      1.288                                                       
+Generos:  rock/metal
+       371) MiMS                                                        253706                                                      0.621                                                       
+Generos:  hip hop/pop
+       372) Seether                                                     193893                                                      0.611                                                       
+Generos:  rock/metal
+       373) Calvin Harris                                               4546171                                                     13.719                                                      
+Generos:  hip hop/pop/Dance/Electronic
+       374) Daughtry                                                    215173                                                      0.45                                                        
+Generos:  pop/rock/metal
+       375) Unk                                                         173040                                                      0.794                                                       
+Generos:  hip hop/pop
+       376) Klaxons                                                     165120                                                      0.463                                                       
+Generos:  rock
+       377) Baby Boy Da Prince                                          324906                                                      0.88                                                        
+Generos:  hip hop/pop
+       378) Omarion                                                     483006                                                      1.508                                                       
+Generos:  hip hop/pop/R&B
+       379) All Time Low                                                182826                                                      0.459                                                       
+Generos:  rock
+       380) T2                                                          178613                                                      0.716                                                       
+Generos:  Dance/Electronic
+       381) Robyn                                                       543590                                                      1.164                                                       
+Generos:  pop/Dance/Electronic
+       382) Paramore                                                    427533                                                      1.119                                                       
+Generos:  pop/rock
+       383) Huey                                                        261026                                                      0.723                                                       
+Generos:  hip hop/pop
+       384) Plies                                                       684666                                                      1.932                                                       
+Generos:  hip hop/pop/R&B
+       385) Jim Jones                                                   236080                                                      0.685                                                       
+Generos:  hip hop/pop
+       386) The Red Jumpsuit Apparatus                                  192000                                                      0.545                                                       
+Generos:  pop
+       387) MIKA                                                        422906                                                      1.348                                                       
+Generos:  pop
+       388) Sean Kingston                                               903998                                                      3.073                                                       
+Generos:  hip hop/pop/R&B
+       389) Carrie Underwood                                            440079                                                      1.05                                                        
+Generos:  pop/country
+       390) Just Jack                                                   295933                                                      0.67                                                        
+Generos:  Dance/Electronic
+       391) Bone Thugs                                                  287480                                                      0.727                                                       
+Generos:  hip hop/pop
+       392) Rich Boy                                                    263920                                                      0.697                                                       
+Generos:  hip hop/pop
+       393) Manic Street Preachers                                      235693                                                      0.344                                                       
+Generos:  rock/pop
+       394) Elliott Yamin                                               261320                                                      0.764                                                       
+Generos:  pop
+       395) Wyclef Jean                                                 241133                                                      0.733                                                       
+Generos:  pop
+       396) Boys Like Girls                                             433226                                                      0.863                                                       
+Generos:  pop
+       397) J. Holiday                                                  495159                                                      1.142                                                       
+Generos:  hip hop/pop/R&B/Dance/Electronic
+       398) Flo Rida                                                    2398955                                                     7.895                                                       
+Generos:  hip hop/pop
+       399) Katy Perry                                                  3524211                                                     10.233                                                      
+Generos:  pop
+       400) Kardinal Offishall                                          246053                                                      0.949                                                       
+Generos:  hip hop/pop/R&B
+       401) Madcon                                                      216146                                                      0.715                                                       
+Generos:  hip hop/pop
+       402) Guru Josh Project                                           190013                                                      0.493                                                       
+Generos:  hip hop
+       403) Lil Wayne                                                   2025180                                                     4.752                                                       
+Generos:  hip hop/pop
+       404) Basshunter                                                  324639                                                      1.284                                                       
+Generos:  pop
+       405) will.i.am                                                   1169812                                                     2.892                                                       
+Generos:  hip hop/pop
+       406) Colby O'Donis                                               243013                                                      0.775                                                       
+Generos:  hip hop/pop/R&B
+       407) Miley Cyrus                                                 1013332                                                     3.117                                                       
+Generos:  pop
+       408) Alesha Dixon                                                210680                                                      0.632                                                       
+Generos:  pop
+       409) Dizzee Rascal                                               602292                                                      2.047                                                       
+Generos:  hip hop/pop/Dance/Electronic
+       410) Gabriella Cilmi                                             202133                                                      0.671                                                       
+Generos:  R&B
+       411) Jack White                                                  262240                                                      0.486                                                       
+Generos:  rock/blues
+       412) The Offspring                                               177826                                                      0.55                                                        
+Generos:  rock/pop/metal
+       413) Estelle                                                     284733                                                      0.727                                                       
+Generos:  R&B
+       414) Saving Abel                                                 222826                                                      0.512                                                       
+Generos:  rock/metal
+       415) Pendulum                                                    313346                                                      0.356                                                       
+Generos:  Dance/Electronic
+       416) Danity Kane                                                 244266                                                      0.774                                                       
+Generos:  pop/R&B
+       417) M.I.A.                                                      205200                                                      0.447                                                       
+Generos:  pop/rock
+       418) MGMT                                                        602800                                                      1.156                                                       
+Generos:  rock
+       419) The Ting Tings                                              481799                                                      1.607                                                       
+Generos:  pop/rock/Dance/Electronic
+       420) The                                                         489786                                                      1.395                                                       
+Generos:  hip hop/pop/R&B
+       421) Wiley                                                       347665                                                      1.763                                                       
+Generos:  hip hop/Dance/Electronic
+       422) Sam Sparro                                                  212360                                                      0.383                                                       
+Generos:  pop/Dance/Electronic
+       423) H two O                                                     207476                                                      0.733                                                       
+Generos:  Dance/Electronic
+       424) Metro Station                                               179946                                                      0.618                                                       
+Generos:  pop/rock
+       425) Trey Songz                                                  1119784                                                     3.608                                                       
+Generos:  hip hop/pop/R&B
+       426) OneRepublic                                                 1792493                                                     4.506                                                       
+Generos:  pop
+       427) Alexandra Burke                                             424306                                                      0.847                                                       
+Generos:  pop
+       428) Jordin Sparks                                               680546                                                      1.945                                                       
+Generos:  pop/R&B
+       429) Kings of Leon                                               406692                                                      1.084                                                       
+Generos:  rock
+       430) Duffy                                                       219920                                                      0.793                                                       
+Generos:  pop/R&B
+       431) David Archuleta                                             213520                                                      0.57                                                        
+Generos:  pop
+       432) Gavin DeGraw                                                206000                                                      0.438                                                       
+Generos:  pop/Folk/Acoustic
+       433) Jennifer Hudson                                             250106                                                      0.707                                                       
+Generos:  pop/R&B/easy listening
+       434) John Legend                                                 553746                                                      1.044                                                       
+Generos:  pop/R&B
+       435) Jonas Brothers                                              539119                                                      2.304                                                       
+Generos:  pop
+       436) Lupe Fiasco                                                 528613                                                      1.163                                                       
+Generos:  hip hop/pop
+       437) Adele                                                       1772060                                                     3.93                                                        
+Generos:  pop/R&B
+       438) Lady Gaga                                                   2784303                                                     7.91                                                        
+Generos:  pop
+       439) David Guetta                                                3614825                                                     11.089                                                      
+Generos:  hip hop/pop/Dance/Electronic
+       440) Taylor Swift                                                3575968                                                     10.105                                                      
+Generos:  pop
+       441) Pitbull                                                     2058811                                                     6.307                                                       
+Generos:  hip hop/pop/latin
+       442) Skillet                                                     178013                                                      0.64                                                        
+Generos:  rock/pop/metal
+       443) The Prodigy                                                 216026                                                      0.545                                                       
+Generos:  rock/pop/Dance/Electronic
+       444) Kid Cudi                                                    221240                                                      0.88                                                        
+Generos:  hip hop
+       445) Agnes                                                       256213                                                      0.621                                                       
+Generos:  pop/Dance/Electronic
+       446) Jeremih                                                     960119                                                      2.651                                                       
+Generos:  hip hop/pop/R&B
+       447) Kevin Rudolf                                                231173                                                      0.607                                                       
+Generos:  hip hop/pop
+       448) The xx                                                      127920                                                      0.617                                                       
+Generos:  rock
+       449) Keri Hilson                                                 818172                                                      1.915                                                       
+Generos:  pop/R&B
+       450) Cheryl                                                      223253                                                      0.739                                                       
+Generos:  pop/Dance/Electronic
+       451) Tinchy Stryder                                              212773                                                      0.581                                                       
+Generos:  pop/Dance/Electronic
+       452) Pixie Lott                                                  196520                                                      0.451                                                       
+Generos:  pop/Dance/Electronic
+       453) JLS                                                         392226                                                      1.599                                                       
+Generos:  pop
+       454) 3OH!3                                                       588106                                                      2.078                                                       
+Generos:  hip hop/pop/rock
+       455) A.R. Rahman                                                 222400                                                      0.657                                                       
+Generos:  pop
+       456) Drake                                                       5337202                                                     16.859                                                      
+Generos:  hip hop/pop/R&B
+       457) Selena Gomez & The Scene                                    586652                                                      2.145                                                       
+Generos:  pop/Dance/Electronic
+       458) The Veronicas                                               255360                                                      0.557                                                       
+Generos:  pop/Dance/Electronic
+       459) Jason Derulo                                                2652444                                                     8.719                                                       
+Generos:  hip hop/pop
+       460) Empire of the Sun                                           198440                                                      0.871                                                       
+Generos:  rock/pop/Dance/Electronic
+       461) Cobra Starship                                              412106                                                      1.262                                                       
+Generos:  pop/Dance/Electronic
+       462) La Roux                                                     454359                                                      1.303                                                       
+Generos:  pop/Dance/Electronic
+       463) Kasabian                                                    252279                                                      0.525                                                       
+Generos:  rock
+       464) Justin Bieber                                               2089329                                                     6.815                                                       
+Generos:  pop
+       465) Jamie Foxx                                                  289746                                                      0.673                                                       
+Generos:  hip hop/pop/R&B
+       466) Jason Aldean                                                433613                                                      1.294                                                       
+Generos:  country
+       467) Shinedown                                                   222066                                                      0.46                                                        
+Generos:  rock/metal
+       468) Asher Roth                                                  241933                                                      0.713                                                       
+Generos:  hip hop/pop
+       469) Mumford & Sons                                              245173                                                      0.517                                                       
+Generos:  Folk/Acoustic/rock/pop
+       470) Bruno Mars                                                  2640325                                                     8.288                                                       
+Generos:  pop
+       471) Stromae                                                     438212                                                      1.524                                                       
+Generos:  pop
+       472) Kesha                                                       1625065                                                     5.82                                                        
+Generos:  pop/Dance/Electronic
+       473) Taio Cruz                                                   591785                                                      2.03                                                        
+Generos:  hip hop/pop
+       474) INNA                                                        217036                                                      0.817                                                       
+Generos:  pop
+       475) Far East Movement                                           428146                                                      1.099                                                       
+Generos:  hip hop/pop
+       476) Duck Sauce                                                  196533                                                      0.769                                                       
+Generos:  Dance/Electronic
+       477) Lucenzo                                                     213986                                                      0.622                                                       
+Generos:  latin
+       478) DJ Fresh                                                    581555                                                      1.285                                                       
+Generos:  pop/Dance/Electronic
+       479) Edward Maya                                                 369146                                                      1.598                                                       
+Generos:  pop
+       480) Sidney Samson                                               320348                                                      0.804                                                       
+Generos:  Dance/Electronic
+       481) Swedish House Mafia                                         795905                                                      2.588                                                       
+Generos:  pop/Dance/Electronic
+       482) Iyaz                                                        182306                                                      0.706                                                       
+Generos:  hip hop/pop
+       483) Waka Flocka Flame                                           527546                                                      1.52                                                        
+Generos:  hip hop/pop
+       484) Tinie Tempah                                                671706                                                      2.265                                                       
+Generos:  hip hop/pop/Dance/Electronic
+       485) Mike Posner                                                 411226                                                      1.432                                                       
+Generos:  hip hop/pop/Dance/Electronic
+       486) Yolanda Be Cool                                             157438                                                      0.901                                                       
+Generos:  Dance/Electronic
+       487) Adam Lambert                                                435650                                                      1.141                                                       
+Generos:  pop
+       488) Tim Berg                                                    203960                                                      0.515                                                       
+Generos:  pop/Dance/Electronic
+       489) Cali Swag District                                          237480                                                      0.846                                                       
+Generos:  hip hop/pop
+       490) K'NAAN                                                      220520                                                      0.625                                                       
+Generos:  pop
+       491) DJ Khaled                                                   992825                                                      2.18                                                        
+Generos:  hip hop/pop
+       492) Aloe Blacc                                                  243053                                                      0.84                                                        
+Generos:  R&B
+       493) B.o.B                                                       644933                                                      1.897                                                       
+Generos:  hip hop/pop
+       494) Shontelle                                                   226533                                                      0.599                                                       
+Generos:  pop/R&B
+       495) Example                                                     377292                                                      1.188                                                       
+Generos:  pop/Dance/Electronic
+       496) Plan B                                                      208853                                                      0.72                                                        
+Generos:  Dance/Electronic
+       497) The Saturdays                                               428295                                                      1.343                                                       
+Generos:  pop/Dance/Electronic
+       498) The Wanted                                                  601935                                                      2.048                                                       
+Generos:  pop/Dance/Electronic
+       499) Ellie Goulding                                              1315867                                                     3.265                                                       
+Generos:  pop/rock/Dance/Electronic
+       500) Two Door Cinema Club                                        189693                                                      0.55                                                        
+Generos:  World/Traditional/rock/pop
+       501) Young Money                                                 288133                                                      0.733                                                       
+Generos:  hip hop/pop
+       502) Scouting For Girls                                          210680                                                      0.458                                                       
+Generos:  pop/rock
+       503) Travie McCoy                                                211160                                                      0.633                                                       
+Generos:  hip hop/pop
+       504) Owl City                                                    434279                                                      1.072                                                       
+Generos:  rock/pop
+       505) Lady A                                                      455280                                                      1.174                                                       
+Generos:  pop/country
+       506) Neon Trees                                                  212306                                                      0.482                                                       
+Generos:  rock/pop
+       507) Kris Allen                                                  212506                                                      0.589                                                       
+Generos:  pop
+       508) Matt Cardle                                                 226000                                                      0.443                                                       
+Generos:  pop
+       509) The Band Perry                                              445546                                                      1.212                                                       
+Generos:  country
+       510) LMFAO                                                       661106                                                      2.165                                                       
+Generos:  hip hop/pop/Dance/Electronic
+       511) Alexandra Stan                                              195105                                                      0.726                                                       
+Generos:  pop/Dance/Electronic
+       512) Lykke Li                                                    281106                                                      0.786                                                       
+Generos:  pop/Dance/Electronic
+       513) Wiz Khalifa                                                 893990                                                      2.683                                                       
+Generos:  hip hop/pop
+       514) Sak Noel                                                    215624                                                      0.926                                                       
+Generos:  Dance/Electronic
+       515) Olly Murs                                                   1004158                                                     3.594                                                       
+Generos:  pop/Dance/Electronic
+       516) Jessie J                                                    849519                                                      2.763                                                       
+Generos:  hip hop/pop
+       517) M83                                                         243960                                                      0.507                                                       
+Generos:  rock/pop/metal/Dance/Electronic
+       518) Labrinth                                                    274600                                                      0.54                                                        
+Generos:  pop
+       519) Nicole Scherzinger                                          197440                                                      0.66                                                        
+Generos:  pop/Dance/Electronic
+       520) Mann                                                        224333                                                      0.687                                                       
+Generos:  hip hop/pop
+       521) Miguel                                                      195373                                                      0.684                                                       
+Generos:  pop/R&B
+       522) Professor Green                                             235735                                                      0.656                                                       
+Generos:  Dance/Electronic
+       523) Chase & Status                                              233666                                                      0.45                                                        
+Generos:  Dance/Electronic
+       524) Chip                                                        237293                                                      0.415                                                       
+Generos:  hip hop/Dance/Electronic
+       525) Rizzle Kicks                                                186851                                                      0.753                                                       
+Generos:  hip hop
+       526) Nicki Minaj                                                 1146465                                                     3.875                                                       
+Generos:  hip hop/pop
+       527) Mac Miller                                                  165908                                                      0.636                                                       
+Generos:  hip hop
+       528) Foster The People                                           239600                                                      0.733                                                       
+Generos:  rock/pop
+       529) Bad Meets Evil                                              303813                                                      0.676                                                       
+Generos:  hip hop/pop
+       530) Blake Shelton                                               426440                                                      1.057                                                       
+Generos:  country
+       531) Hot Chelle Rae                                              200466                                                      0.686                                                       
+Generos:  hip hop/pop/rock
+       532) Grouplove                                                   218013                                                      0.56                                                        
+Generos:  pop/rock/Folk/Acoustic
+       533) Christina Perri                                             782413                                                      1.209                                                       
+Generos:  pop
+       534) Charlene Soraia                                             197577                                                      0.597                                                       
+Generos:  pop
+       535) Carly Rae Jepsen                                            193400                                                      0.783                                                       
+Generos:  pop/Dance/Electronic
+       536) fun.                                                        250626                                                      0.378                                                       
+Generos:  rock/pop
+       537) DEV                                                         226226                                                      0.736                                                       
+Generos:  pop/Dance/Electronic
+       538) Skrillex                                                    215253                                                      0.716                                                       
+Generos:  hip hop/pop/Dance/Electronic
+       539) Kendrick Lamar                                              1472438                                                     4.243                                                       
+Generos:  hip hop
+       540) MARINA                                                      442568                                                      1.35                                                        
+Generos:  pop/Dance/Electronic
+       541) PSY                                                         219493                                                      0.727                                                       
+Generos:  pop
+       542) Avicii                                                      2050578                                                     6                                                           
+Generos:  pop/Dance/Electronic
+       543) Asaf Avidan & the Mojos                                     212360                                                      0.821                                                       
+Generos:  pop
+       544) Florence + The Machine                                      218190                                                      0.578                                                       
+Generos:  rock/pop/Dance/Electronic
+       545) Azealia Banks                                               204956                                                      0.847                                                       
+Generos:  hip hop/pop/R&B
+       546) James Arthur                                                209440                                                      0.376                                                       
+Generos:  pop
+       547) Michel Telo                                                 166866                                                      0.676                                                       
+Generos:  country/latin
+       548) Otto Knows                                                  192866                                                      0.582                                                       
+Generos:  pop/Dance/Electronic
+       549) Icona Pop                                                   313925                                                      1.421                                                       
+Generos:  pop/Dance/Electronic
+       550) Tyga                                                        642825                                                      2.644                                                       
+Generos:  hip hop/pop
+       551) Grimes                                                      251266                                                      0.697                                                       
+Generos:  pop/rock/Dance/Electronic
+       552) Frank Ocean                                                 418609                                                      1.457                                                       
+Generos:  hip hop/pop/R&B
+       553) The Script                                                  447999                                                      0.911                                                       
+Generos:  pop/rock
+       554) ScHoolboy Q                                                 713104                                                      2.215                                                       
+Generos:  hip hop/pop
+       555) Rita Ora                                                    893582                                                      2.722                                                       
+Generos:  hip hop/pop/Dance/Electronic
+       556) Alex Clare                                                  256613                                                      0.588                                                       
+Generos:  rock
+       557) Alesso                                                      405346                                                      0.891                                                       
+Generos:  pop/Dance/Electronic
+       558) Guy Sebastian                                               250080                                                      0.61                                                        
+Generos:  pop
+       559) Gotye                                                       244884                                                      0.863                                                       
+Generos:  pop
+       560) One Direction                                               1880250                                                     5.71                                                        
+Generos:  pop
+       561) Lana Del Rey                                                1514021                                                     2.801                                                       
+Generos:  pop
+       562) Emeli Sande                                                 283706                                                      0.63                                                        
+Generos:  pop/R&B
+       563) Disclosure                                                  788949                                                      1.671                                                       
+Generos:  pop/Dance/Electronic
+       564) alt                                                         227080                                                      0.616                                                       
+Generos:  rock
+       565) Rudimental                                                  537772                                                      0.933                                                       
+Generos:  pop/Dance/Electronic
+       566) Demi Lovato                                                 836677                                                      2.335                                                       
+Generos:  pop
+       567) Little Mix                                                  677746                                                      2.288                                                       
+Generos:  pop
+       568) Cher Lloyd                                                  214013                                                      0.696                                                       
+Generos:  pop/Dance/Electronic
+       569) Lorde                                                       790555                                                      2.836                                                       
+Generos:  pop/Dance/Electronic
+       570) Robin Thicke                                                263053                                                      0.861                                                       
+Generos:  pop/R&B
+       571) Imagine Dragons                                             1146517                                                     3.708                                                       
+Generos:  rock
+       572) Macklemore & Ryan Lewis                                     493955                                                      1.422                                                       
+Generos:  hip hop/pop
+       573) Bingo Players                                               166933                                                      0.801                                                       
+Generos:  pop/Dance/Electronic
+       574) Naughty Boy                                                 220779                                                      0.754                                                       
+Generos:  Dance/Electronic
+       575) Tom Odell                                                   244360                                                      0.445                                                       
+Generos:  pop
+       576) 2 Chainz                                                    438106                                                      1.385                                                       
+Generos:  hip hop/pop
+       577) Martin Garrix                                               592706                                                      1.678                                                       
+Generos:  pop/Dance/Electronic
+       578) John Newman                                                 239894                                                      0.495                                                       
+Generos:  pop
+       579) The Neighbourhood                                           500573                                                      1.2                                                         
+Generos:  rock/pop
+       580) Sebastian Ingrosso                                          221272                                                      0.485                                                       
+Generos:  pop/Dance/Electronic
+       581) Capital Cities                                              192693                                                      0.652                                                       
+Generos:  pop
+       582) Selena Gomez                                                1968450                                                     5.911                                                       
+Generos:  pop
+       583) Klangkarussell                                              238120                                                      0.579                                                       
+Generos:  pop/Dance/Electronic
+       584) A$AP Rocky                                                  233786                                                      0.853                                                       
+Generos:  hip hop
+       585) Ylvis                                                       213708                                                      0.703                                                       
+Generos:  hip hop
+       586) Baauer                                                      196664                                                      0.452                                                       
+Generos:  Dance/Electronic
+       587) AWOLNATION                                                  259102                                                      0.825                                                       
+Generos:  pop/rock
+       588) Duke Dumont                                                 460449                                                      1.317                                                       
+Generos:  pop/Dance/Electronic
+       589) Storm Queen                                                 150400                                                      0.832                                                       
+Generos:  Dance/Electronic
+       590) Wale                                                        238826                                                      0.807                                                       
+Generos:  hip hop/pop/R&B
+       591) Birdy                                                       532863                                                      0.857                                                       
+Generos:  pop
+       592) Bastille                                                    634845                                                      2.079                                                       
+Generos:  pop/rock
+       593) Bridgit Mendler                                             200946                                                      0.715                                                       
+Generos:  pop
+       594) Zedd                                                        912304                                                      2.433                                                       
+Generos:  hip hop/pop/Dance/Electronic
+       595) Armin van Buuren                                            204360                                                      0.551                                                       
+Generos:  pop/Dance/Electronic
+       596) Of Monsters and Men                                         266600                                                      0.457                                                       
+Generos:  pop/rock/Folk/Acoustic
+       597) J. Cole                                                     454753                                                      1.504                                                       
+Generos:  hip hop
+       598) Childish Gambino                                            235662                                                      0.681                                                       
+Generos:  hip hop
+       599) Passenger                                                   252866                                                      0.509                                                       
+Generos:  pop
+       600) Ariana Grande                                               2970515                                                     8.717                                                       
+Generos:  pop
+       601) Florida Georgia Line                                        208960                                                      0.457                                                       
+Generos:  country
+       602) Iggy Azalea                                                 409361                                                      1.655                                                       
+Generos:  hip hop/pop
+       603) Sam Smith                                                   1385678                                                     3.922                                                       
+Generos:  pop
+       604) MAGIC!                                                      224840                                                      0.773                                                       
+Generos:  pop
+       605) Sia                                                         908359                                                      2.08                                                        
+Generos:  pop
+       606) ZHU                                                         223386                                                      0.861                                                       
+Generos:  Dance/Electronic
+       607) Meghan Trainor                                              584092                                                      2.139                                                       
+Generos:  pop
+       608) Tove Lo                                                     883827                                                      2.879                                                       
+Generos:  pop/Dance/Electronic
+       609) Oliver Heldens                                              165440                                                      0.609                                                       
+Generos:  pop/Dance/Electronic
+       610) DJ Snake                                                    1559784                                                     4.576                                                       
+Generos:  hip hop/pop/Dance/Electronic
+       611) Tinashe                                                     227000                                                      0.742                                                       
+Generos:  hip hop/pop/R&B/Dance/Electronic
+       612) Route 94                                                    259934                                                      0.814                                                       
+Generos:  pop/Dance/Electronic
+       613) O.T. Genasis                                                239573                                                      0.886                                                       
+Generos:  hip hop/pop
+       614) Lilly Wood and The Prick                                    189399                                                      0.76                                                        
+Generos:  pop/rock
+       615) Bobby Shmurda                                               194561                                                      0.794                                                       
+Generos:  hip hop/pop
+       616) Nico & Vinz                                                 245866                                                      0.729                                                       
+Generos:  hip hop/pop
+       617) Becky G                                                     394726                                                      1.49                                                        
+Generos:  pop/latin
+       618) Sigma                                                       189720                                                      0.441                                                       
+Generos:  pop/Dance/Electronic
+       619) The Chainsmokers                                            1723633                                                     5.29                                                        
+Generos:  pop/Dance/Electronic
+       620) Rixton                                                      193733                                                      0.545                                                       
+Generos:  pop
+       621) Klingande                                                   201626                                                      0.686                                                       
+Generos:  pop/Dance/Electronic
+       622) Mr. Probz                                                   208133                                                      0.829                                                       
+Generos:  hip hop/Dance/Electronic
+       623) Paloma Faith                                                232893                                                      0.566                                                       
+Generos:  pop/R&B/Dance/Electronic
+       624) Kiesza                                                      251986                                                      0.838                                                       
+Generos:  pop/Dance/Electronic
+       625) Kid Ink                                                     217800                                                      0.711                                                       
+Generos:  hip hop/pop
+       626) Peking Duk                                                  228000                                                      0.525                                                       
+Generos:  Dance/Electronic
+       627) Milky Chance                                                313684                                                      0.885                                                       
+Generos:  pop
+       628) Ed Sheeran                                                  2092399                                                     6.757                                                       
+Generos:  pop
+       629) Gorgon City                                                 198880                                                      0.677                                                       
+Generos:  pop/Dance/Electronic
+       630) MKTO                                                        175426                                                      0.72                                                        
+Generos:  hip hop/pop
+       631) Charli XCX                                                  169866                                                      0.659                                                       
+Generos:  pop/Dance/Electronic
+       632) Tiesto                                                      668020                                                      2.045                                                       
+Generos:  pop/Dance/Electronic
+       633) 5 Seconds of Summer                                         563405                                                      1.595                                                       
+Generos:  pop
+       634) G.R.L.                                                      198306                                                      0.65                                                        
+Generos:  pop
+       635) Clean Bandit                                                1142354                                                     3.579                                                       
+Generos:  pop/Dance/Electronic
+       636) Alex & Sierra                                               185200                                                      0.5                                                         
+Generos:  pop
+       637) Echosmith                                                   237626                                                      0.719                                                       
+Generos:  pop
+       638) Natalie La Rose                                             189906                                                      0.83                                                        
+Generos:  pop
+       639) Vance Joy                                                   204280                                                      0.484                                                       
+Generos:  rock/pop
+       640) Ella Henderson                                              213213                                                      0.68                                                        
+Generos:  pop/Dance/Electronic
+       641) Sheppard                                                    218227                                                      0.707                                                       
+Generos:  pop/rock/Dance/Electronic
+       642) Nick Jonas                                                  456426                                                      1.339                                                       
+Generos:  pop
+       643) Major Lazer                                                 528050                                                      2.077                                                       
+Generos:  hip hop/pop/Dance/Electronic
+       644) The Weeknd                                                  1883104                                                     5.079                                                       
+Generos:  pop/R&B
+       645) Deorro                                                      211975                                                      0.699                                                       
+Generos:  pop/Dance/Electronic
+       646) Rae Sremmurd                                                1032393                                                     3.079                                                       
+Generos:  hip hop/pop
+       647) Robin Schulz                                                219043                                                      0.636                                                       
+Generos:  pop/Dance/Electronic
+       648) Philip George                                               177560                                                      0.654                                                       
+Generos:  pop/Dance/Electronic
+       649) Rob $tone                                                   354368                                                      1.772                                                       
+Generos:  hip hop
+       650) Lost Frequencies                                            138842                                                      0.776                                                       
+Generos:  pop/Dance/Electronic
+       651) Twenty One Pilots                                           612759                                                      2.111                                                       
+Generos:  rock
+       652) Fifth Harmony                                               649626                                                      2.376                                                       
+Generos:  pop
+       653) KALEO                                                       219560                                                      0.59                                                        
+Generos:  rock/classical
+       654) Martin Solveig                                              159693                                                      0.8                                                         
+Generos:  pop/Dance/Electronic
+       655) Felix Jaehn                                                 186146                                                      0.778                                                       
+Generos:  hip hop/pop/Dance/Electronic
+       656) Galantis                                                    416199                                                      1.177                                                       
+Generos:  pop/Dance/Electronic
+       657) Zara Larsson                                                866390                                                      2.303                                                       
+Generos:  pop/Dance/Electronic
+       658) Travis Scott                                                1322846                                                     3.985                                                       
+Generos:  hip hop/Dance/Electronic
+       659) Years & Years                                               470866                                                      1.226                                                       
+Generos:  pop/Dance/Electronic
+       660) Lemaitre                                                    270589                                                      0.583                                                       
+Generos:  pop
+       661) Pia Mia                                                     207746                                                      0.712                                                       
+Generos:  pop/R&B
+       662) Silento                                                     185131                                                      0.819                                                       
+Generos:  hip hop
+       663) The Strumbellas                                             203653                                                      0.556                                                       
+Generos:  rock/Folk/Acoustic/pop
+       664) Fetty Wap                                                   631839                                                      2.112                                                       
+Generos:  hip hop/pop
+       665) SAYGRACE                                                    400807                                                      0.668                                                       
+Generos:  pop/R&B
+       666) X Ambassadors                                               390400                                                      1.052                                                       
+Generos:  hip hop/rock/pop
+       667) R. City                                                     227480                                                      0.509                                                       
+Generos:  pop
+       668) Kygo                                                        938419                                                      2.662                                                       
+Generos:  pop/Dance/Electronic
+       669) Tame Impala                                                 216320                                                      0.64                                                        
+Generos:  metal
+       670) Hozier                                                      241688                                                      0.566                                                       
+Generos:  Folk/Acoustic/pop
+       671) Alessia Cara                                                629132                                                      1.074                                                       
+Generos:  pop/R&B
+       672) Meek Mill                                                   404495                                                      1.478                                                       
+Generos:  hip hop/pop
+       673) Big Sean                                                    506746                                                      1.604                                                       
+Generos:  hip hop/pop
+       674) Petit Biscuit                                               237792                                                      0.783                                                       
+Generos:  Dance/Electronic
+       675) Shawn Mendes                                                1217678                                                     4.054                                                       
+Generos:  pop
+       676) Jack U                                                      250285                                                      0.432                                                       
+Generos:  pop/Dance/Electronic
+       677) Bryson Tiller                                               591199                                                      2.055                                                       
+Generos:  hip hop/pop/R&B
+       678) Rich Homie Quan                                             176674                                                      0.676                                                       
+Generos:  hip hop/pop
+       679) Joel Adams                                                  210580                                                      0.513                                                       
+Generos:  R&B
+       680) Jonas Blue                                                  997482                                                      3.271                                                       
+Generos:  pop/Dance/Electronic
+       681) BARNS                                                       218173                                                      0.373                                                       
+Generos:  rock/pop
+       682) Sigala                                                      637615                                                      2.032                                                       
+Generos:  pop/Dance/Electronic
+       683) Nicky Jam                                                   379520                                                      1.33                                                        
+Generos:  latin
+       684) Desiigner                                                   486614                                                      1.179                                                       
+Generos:  hip hop/pop
+       685) Burak Yeter                                                 241874                                                      0.841                                                       
+Generos:  Dance/Electronic
+       686) WILLOW                                                      196520                                                      0.764                                                       
+Generos:  pop/R&B/Dance/Electronic
+       687) Astrid S                                                    208728                                                      0.672                                                       
+Generos:  rock/pop/Dance/Electronic
+       688) Future                                                      518146                                                      1.555                                                       
+Generos:  hip hop/pop
+       689) Alok                                                        192846                                                      0.788                                                       
+Generos:  pop/Dance/Electronic
+       690) Jon Bellion                                                 217603                                                      0.617                                                       
+Generos:  hip hop/pop
+       691) Cheat Codes                                                 451864                                                      1.251                                                       
+Generos:  pop/Dance/Electronic
+       692) Dua Lipa                                                    801193                                                      2.925                                                       
+Generos:  pop
+       693) Alan Walker                                                 212106                                                      0.468                                                       
+Generos:  Dance/Electronic
+       694) Kevin Gates                                                 240000                                                      0.895                                                       
+Generos:  hip hop/pop
+       695) Marshmello                                                  1230956                                                     3.669                                                       
+Generos:  pop/Dance/Electronic
+       696) Fitz and The Tantrums                                       193253                                                      0.636                                                       
+Generos:  pop/rock
+       697) Anne                                                        592683                                                      2.151                                                       
+Generos:  pop/Dance/Electronic
+       698) Charlie Puth                                                1195740                                                     4.654                                                       
+Generos:  pop
+       699) AlunaGeorge                                                 209425                                                      0.734                                                       
+Generos:  pop/Dance/Electronic
+       700) MNEK                                                        213427                                                      0.583                                                       
+Generos:  Dance/Electronic
+       701) Mike Perry                                                  183414                                                      0.632                                                       
+Generos:  pop/Dance/Electronic
+       702) Tory Lanez                                                  466426                                                      1.234                                                       
+Generos:  hip hop/pop/R&B
+       703) Kungs                                                       195561                                                      0.79                                                        
+Generos:  pop/Dance/Electronic
+       704) DNCE                                                        219146                                                      0.774                                                       
+Generos:  pop
+       705) 99 Souls                                                    216613                                                      0.683                                                       
+Generos:  Dance/Electronic
+       706) Illy                                                        255889                                                      0.369                                                       
+Generos:  hip hop/pop/Dance/Electronic
+       707) Kiiara                                                      225882                                                      0.6                                                         
+Generos:  rock/pop/Dance/Electronic
+       708) ZAYN                                                        687886                                                      1.582                                                       
+Generos:  pop/Dance/Electronic
+       709) Steve Aoki                                                  198774                                                      0.647                                                       
+Generos:  hip hop/pop/Dance/Electronic
+       710) Flume                                                       495858                                                      1.024                                                       
+Generos:  Dance/Electronic
+       711) PARTYNEXTDOOR                                               202661                                                      0.598                                                       
+Generos:  hip hop/pop/R&B
+       712) Garrett Nash                                                251033                                                      0.492                                                       
+Generos:  hip hop/pop
+       713) Hilltop Hoods                                               239280                                                      0.766                                                       
+Generos:  hip hop/pop
+       714) Daya                                                        202221                                                      0.657                                                       
+Generos:  rock/pop/Dance/Electronic
+       715) Kent Jones                                                  198236                                                      0.464                                                       
+Generos:  hip hop
+       716) Mo                                                          235826                                                      0.695                                                       
+Generos:  pop/Dance/Electronic
+       717) The Lumineers                                               160097                                                      0.664                                                       
+Generos:  pop/Folk/Acoustic
+       718) Luis Fonsi                                                  401920                                                      1.393                                                       
+Generos:  pop/latin
+       719) Camila Cabello                                              650907                                                      2.145                                                       
+Generos:  pop
+       720) Billie Eilish                                               968533                                                      2.922                                                       
+Generos:  pop/Dance/Electronic
+       721) Lil Peep                                                    231546                                                      0.534                                                       
+Generos:  hip hop
+       722) A$AP Ferg                                                   173600                                                      0.797                                                       
+Generos:  hip hop/pop
+       723) French Montana                                              233901                                                      0.726                                                       
+Generos:  hip hop/pop
+       724) 21 Savage                                                   508930                                                      1.721                                                       
+Generos:  hip hop
+       725) Axwell /\ Ingrosso                                          203000                                                      0.645                                                       
+Generos:  pop/Dance/Electronic
+       726) J Balvin                                                    189029                                                      0.548                                                       
+Generos:  latin
+       727) Jax Jones                                                   798507                                                      2.905                                                       
+Generos:  hip hop/pop/Dance/Electronic
+       728) Ayo & Teo                                                   238586                                                      0.804                                                       
+Generos:  hip hop/pop
+       729) Lil Uzi Vert                                                182706                                                      0.732                                                       
+Generos:  hip hop
+       730) Playboi Carti                                               181812                                                      0.791                                                       
+Generos:  hip hop
+       731) Chord Overstreet                                            198853                                                      0.618                                                       
+Generos:  pop/Folk/Acoustic
+       732) Natti Natasha                                               232549                                                      0.814                                                       
+Generos:  pop/latin
+       733) Big Shaq                                                    186026                                                      0.905                                                       
+Generos:  pop/Dance/Electronic
+       734) Rag'n'Bone Man                                              439812                                                      1.166                                                       
+Generos:  R&B
+       735) blackbear                                                   212027                                                      0.745                                                       
+Generos:  hip hop/pop/Dance/Electronic
+       736) Lil Pump                                                    124055                                                      0.936                                                       
+Generos:  hip hop
+       737) Kodak Black                                                 496945                                                      1.358                                                       
+Generos:  hip hop
+       738) A Boogie Wit da Hoodie                                      578204                                                      2.211                                                       
+Generos:  hip hop
+       739) XXXTENTACION                                                542714                                                      3.202                                                       
+Generos:  hip hop
+       740) Migos                                                       1659109                                                     5.339                                                       
+Generos:  hip hop/pop
+       741) Yo Gotti                                                    276333                                                      0.91                                                        
+Generos:  hip hop/pop
+       742) Martin Jensen                                               174933                                                      0.744                                                       
+Generos:  pop/Dance/Electronic
+       743) The Vamps                                                   372240                                                      1.126                                                       
+Generos:  pop
+       744) Cardi B                                                     1085480                                                     4.368                                                       
+Generos:  hip hop/pop
+       745) Post Malone                                                 1819757                                                     6.184                                                       
+Generos:  hip hop
+       746) Zay Hilfigerrr                                              144244                                                      0.807                                                       
+Generos:  pop
+       747) Maggie Lindemann                                            193613                                                      0.703                                                       
+Generos:  rock/pop
+       748) Macklemore                                                  220454                                                      0.731                                                       
+Generos:  hip hop/pop
+       749) Hayden James                                                217296                                                      0.617                                                       
+Generos:  pop/Dance/Electronic
+       750) Liam Payne                                                  449955                                                      1.41                                                        
+Generos:  pop
+       751) Starley                                                     222040                                                      0.67                                                        
+Generos:  pop/Dance/Electronic
+       752) AJR                                                         201160                                                      0.673                                                       
+Generos:  rock
+       753) CNCO                                                        188786                                                      0.623                                                       
+Generos:  pop/latin
+       754) Offset                                                      378603                                                      1.799                                                       
+Generos:  hip hop/pop
+       755) Dynoro                                                      184560                                                      0.694                                                       
+Generos:  pop/Dance/Electronic
+       756) Juice WRLD                                                  479885                                                      1.196                                                       
+Generos:  hip hop
+       757) Sheck Wes                                                   183906                                                      0.729                                                       
+Generos:  hip hop
+       758) 6ix9ine                                                     337047                                                      1.591                                                       
+Generos:  hip hop
+       759) Nio Garcia                                                  417920                                                      0.903                                                       
+Generos:  latin
+       760) Machine Gun Kelly                                           202804                                                      0.653                                                       
+Generos:  hip hop/pop
+       761) Jay Rock                                                    229670                                                      0.645                                                       
+Generos:  hip hop/pop
+       762) Rich The Kid                                                175229                                                      0.876                                                       
+Generos:  hip hop/pop
+       763) Logic                                                       204746                                                      0.667                                                       
+Generos:  hip hop/pop
+       764) EO                                                          170825                                                      0.862                                                       
+Generos:  pop
+       765) Dennis Lloyd                                                156600                                                      0.6                                                         
+Generos:  pop
+       766) girl in red                                                 184153                                                      0.566                                                       
+Generos:  pop/rock/Dance/Electronic
+       767) Tom Walker                                                  185863                                                      0.586                                                       
+Generos:  rock/pop
+       768) Sofia Reyes                                                 201526                                                      0.792                                                       
+Generos:  pop/latin
+       769) Loud Luxury                                                 163216                                                      0.752                                                       
+Generos:  pop/Dance/Electronic
+       770) NF                                                          212120                                                      0.662                                                       
+Generos:  hip hop/pop
+       771) Maluma                                                      184720                                                      0.722                                                       
+Generos:  latin
+       772) Lil Baby                                                    142273                                                      0.963                                                       
+Generos:  hip hop
+       773) Ozuna                                                       176133                                                      0.754                                                       
+Generos:  latin
+       774) BlocBoy JB                                                  181263                                                      0.922                                                       
+Generos:  hip hop/pop
+       775) Dean Lewis                                                  196373                                                      0.553                                                       
+Generos:  pop
+       776) YG                                                          237240                                                      0.745                                                       
+Generos:  hip hop/pop
+       777) B Young                                                     173153                                                      0.791                                                       
+Generos:  hip hop/Dance/Electronic
+       778) Reik                                                        221653                                                      0.777                                                       
+Generos:  pop/latin
+       779) benny blanco                                                173799                                                      0.56                                                        
+Generos:  hip hop/pop
+       780) MK                                                          196489                                                      0.703                                                       
+Generos:  pop/Dance/Electronic
+       781) Banx & Ranx                                                 190920                                                      0.671                                                       
+Generos:  Dance/Electronic
+       782) Ella Mai                                                    213993                                                      0.477                                                       
+Generos:  hip hop/pop/R&B
+       783) FINNEAS                                                     190348                                                      0.737                                                       
+Generos:  rock/pop/Dance/Electronic
+       784) Hugh Jackman                                                302146                                                      0.417                                                       
+Generos:  easy listening
+       785) Halsey                                                      382939                                                      1.427                                                       
+Generos:  pop/Dance/Electronic
+       786) M.O                                                         214253                                                      0.813                                                       
+Generos:  pop/Dance/Electronic
+       787) Cashmere Cat                                                186231                                                      0.747                                                       
+Generos:  pop/rock
+       788) Bazzi                                                       131064                                                      0.71                                                        
+Generos:  pop/Dance/Electronic
+       789) Lil Dicky                                                   216631                                                      0.755                                                       
+Generos:  hip hop/pop
+       790) Lauv                                                        360018                                                      1.351                                                       
+Generos:  pop/Dance/Electronic
+       791) Khalid                                                      431119                                                      1.15                                                        
+Generos:  pop/R&B
+       792) Lil Nas X                                                   384959                                                      2.488                                                       
+Generos:  hip hop/pop
+       793) Gesaffelstein                                               202093                                                      0.658                                                       
+Generos:  Dance/Electronic
+       794) Regard                                                      157605                                                      0.88                                                        
+Generos:  pop/Dance/Electronic
+       795) Lewis Capaldi                                               182160                                                      0.501                                                       
+Generos:  pop
+       796) Mustard                                                     192470                                                      0.682                                                       
+Generos:  hip hop/pop
+       797) NLE Choppa                                                  176631                                                      0.894                                                       
+Generos:  hip hop
+       798) Alec Benjamin                                               169353                                                      0.652                                                       
+Generos:  rock/pop/Dance/Electronic
+       799) BLACKPINK                                                   189052                                                      0.738                                                       
+Generos:  pop
+       800) MEDUZA                                                      152913                                                      0.677                                                       
+Generos:  pop/Dance/Electronic
+       801) Mabel                                                       348293                                                      1.305                                                       
+Generos:  pop/Dance/Electronic
+       802) Saweetie                                                    126446                                                      0.899                                                       
+Generos:  hip hop/pop/R&B
+       803) Lil Tecca                                                   131240                                                      0.745                                                       
+Generos:  hip hop
+       804) Russ Millions                                               252906                                                      0.863                                                       
+Generos:  pop
+       805) Doja Cat                                                    202333                                                      0.786                                                       
+Generos:  pop
+       806) iann dior                                                   267781                                                      1.307                                                       
+Generos:  hip hop/pop
+       807) Paulo Londra                                                256971                                                      0.767                                                       
+Generos:  hip hop/latin/Dance/Electronic
+       808) Bad Bunny                                                   460900                                                      1.427                                                       
+Generos:  latin
+       809) Polo G                                                      166560                                                      0.772                                                       
+Generos:  hip hop
+       810) Young Thug                                                  200106                                                      0.796                                                       
+Generos:  hip hop/pop
+       811) Anuel AA                                                    560514                                                      1.593                                                       
+Generos:  latin
+       812) Flipp Dinero                                                195637                                                      0.792                                                       
+Generos:  hip hop/pop
+       813) Dave                                                        241293                                                      0.812                                                       
+Generos:  hip hop
+       814) Ava Max                                                     370462                                                      1.401                                                       
+Generos:  pop
+       815) Young T & Bugsey                                            214203                                                      0.531                                                       
+Generos:  hip hop
+       816) Stormzy                                                     196266                                                      0.682                                                       
+Generos:  hip hop/Dance/Electronic
+       817) Tones And I                                                 209438                                                      0.824                                                       
+Generos:  pop
+       818) Pedro Capo                                                  238200                                                      0.826                                                       
+Generos:  pop/latin
+       819) Lunay                                                       266086                                                      0.795                                                       
+Generos:  pop/latin
+       820) Blueface                                                    129264                                                      0.906                                                       
+Generos:  hip hop
+       821) DaBaby                                                      163320                                                      0.876                                                       
+Generos:  hip hop
+       822) AJ Tracey                                                   190537                                                      0.903                                                       
+Generos:  hip hop/Dance/Electronic
+       823) BTS                                                         229773                                                      0.645                                                       
+Generos:  pop
+       824) Tyler - The Creator                                         190066                                                      0.554                                                       
+Generos:  hip hop
+       825) Ashley O                                                    154447                                                      0.736                                                       
+Generos:  pop
+       826) Dominic Fike                                                177666                                                      0.815                                                       
+Generos:  rock/pop
+       827) Megan Thee Stallion                                         199427                                                      0.872                                                       
+Generos:  hip hop/pop/R&B
+       828) Sam Feldt                                                   174444                                                      0.59                                                        
+Generos:  pop/Dance/Electronic
+       829) Kehlani                                                     201787                                                      0.61                                                        
+Generos:  hip hop/pop/R&B
+       830) Sech                                                        225933                                                      0.746                                                       
+Generos:  latin
+       831) NSG                                                         240081                                                      0.836                                                       
+Generos:  World/Traditional/hip hop
+       832) Normani                                                     193837                                                      0.599                                                       
+Generos:  pop/R&B
+       833) Joel Corry                                                  188640                                                      0.744                                                       
+Generos:  pop/Dance/Electronic
+       834) Blanco Brown                                                200593                                                      0.847                                                       
+Generos:  hip hop/country

@@ -1,0 +1,696 @@
+ PACIENTE : 61061535 - ROCIO YOLANDA ACUNA YINO                 Ano de nacimiento :2015   %Descuento: 2.6
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+02/08/2023                    02:53:35                      WALTER JOLAY CHUMPITAZ                  Traumatologia                 775.97                        
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+15/12/2023                    01:12:27                      LOURDES CARMELA YALLICO PAREDES         Oftalmologia                  604.786                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+20/08/2023                    00:52:24                      GUSTAVO ALONSO DEL CASTILLO MEJIA       Geriatria                     831.48                        
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+18/08/2023                    02:01:01                      DELIA ZARATE URBINA                     Gastroenterologia             1013.77                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/08/2023                    00:09:31                      VICTORIA FIORELLA CUBA POMAJAMBO        Gastroenterologia             665.73                        
+ PACIENTE : 57182371 - GONZALO  VEGA MUNOZ                      Ano de nacimiento :1955   %Descuento: 35.11
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+05/04/2024                    02:55:12                      LUZ SOFIA JAUREGUI BRAVO                Dermatologia                  26559                         
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+26/10/2023                    00:39:14                      YLIANA FLOR ORTIZ GUEVARA               Ginecologia                   1947.9                        
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+21/11/2023                    01:27:24                      LUZ SOFIA JAUREGUI BRAVO                Dermatologia                  26559                         
+ PACIENTE : 52313890 - EVERT  FIGUEROA COLLADO                  Ano de nacimiento :1986   %Descuento: 12.96
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+27/11/2023                    00:16:35                      HUMBERTO ALBERTO VARGAS GUEVARA         Gastroenterologia             10115.2                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+16/08/2023                    01:20:26                      ROSARIO MARIBEL YEP ZAVALETA            Ginecologia                   12926                         
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/08/2023                    01:47:44                      ALFONSO WALDEMAR CABELLO LAM            Cardiologia                   2390.6                        
+ PACIENTE : 68114999 - MARIA HELI ARROYO GORDILLO               Ano de nacimiento :1955   %Descuento: 24.26
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+19/08/2023                    02:20:37                      EDGAR MUNOZ VERGEL                      Urologia                      8176.35                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+26/08/2023                    02:13:44                      HUMBERTO ALBERTO VARGAS GUEVARA         Gastroenterologia             18934.7                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+14/08/2023                    02:03:24                      DELIA ESTEFANIA CABRERA MORENO          Urologia                      18950.7                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+25/10/2023                    02:16:45                      JAVIER EDGARD LANDA CABRERA             Pediatria                     21773.4                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/09/2023                    00:00:43                      GLENDA CABRERA MORI                     Oncologia                     22826.5                       
+ PACIENTE : 93961840 - MARIA MADELEINE SOLIS NARVAEZ            Ano de nacimiento :1985   %Descuento: 15.57
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+14/09/2023                    01:06:04                      RAUL COLLADO VILLA                      Cardiologia                   2278.67                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/08/2023                    00:55:31                      FRANCISCO ZIMIC SALAS                   Endocrinologia                13311.3                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+02/10/2023                    02:13:26                      WILMER SAENZ ARANDA                     Ginecologia                   2749.66                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/08/2023                    01:59:49                      MILENA CINTHIA ZARATE ACUNA             Traumatologia                 12332.5                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/10/2023                    02:27:13                      YLIANA FLOR ORTIZ GUEVARA               Ginecologia                   863.824                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+13/11/2023                    00:18:00                      VICTORIA FIORELLA CUBA POMAJAMBO        Gastroenterologia             3986.7                        
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+13/08/2023                    00:40:30                      JAIME JULIAN SHIRAKAWA FLORIAN          Neumologia                    2638.18                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+06/02/2024                    01:34:09                      HUMBERTO ALBERTO VARGAS GUEVARA         Gastroenterologia             12152.2                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/09/2023                    02:59:13                      DELIA ZARATE URBINA                     Gastroenterologia             6070.9                        
+ PACIENTE : 31284904 - MAGALI SILVANA DIAZ ANTEZANO             Ano de nacimiento :1957   %Descuento: 85.19
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+06/03/2024                    01:34:29                      JAIME JULIAN SHIRAKAWA FLORIAN          Neumologia                    14434.6                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+27/08/2023                    01:26:33                      ALFONSO WALDEMAR CABELLO LAM            Cardiologia                   15714.1                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+26/08/2023                    00:33:13                      ROSARIO MARIBEL YEP ZAVALETA            Ginecologia                   84966.8                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/11/2023                    02:10:07                      DELICIA ROSA ARCA LEIVA                 Oftalmologia                  34560.7                       
+ PACIENTE : 43704548 - LOURDES DIANA SUELDO MARTINEZ            Ano de nacimiento :1993   %Descuento: 84.78
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+27/01/2024                    00:27:50                      ESTEFANIA ZEGARRA CASANOVA              Pediatria                     22399.7                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+09/09/2023                    01:09:01                      CINTHIA MILENA ZEGARRA CABELLO          Ginecologia                   76503.8                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/08/2023                    01:29:19                      LOURDES CARMELA YALLICO PAREDES         Oftalmologia                  19720.7                       
+ PACIENTE : 86988155 - MILAGROS NATALIA BACA CAMACHO            Ano de nacimiento :2024   %Descuento: 21.32
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+14/09/2023                    01:02:51                      YLIANA FLOR ORTIZ GUEVARA               Ginecologia                   1182.83                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/09/2023                    02:54:52                      EMILIO EMIGDIO GONZALES AGUIRRE         Urologia                      20921.1                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/12/2023                    01:46:40                      LOURDES CARMELA YALLICO PAREDES         Oftalmologia                  4959.25                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+22/11/2023                    01:51:56                      BLANCA LUZ ACUNA AYLLON                 Oftalmologia                  13953.1                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+13/08/2023                    00:35:16                      ROSARIO MARIBEL YEP ZAVALETA            Ginecologia                   21264.1                       
+ PACIENTE : 54149342 - SANDRO ARTURO PISCOYA LEE                Ano de nacimiento :1978   %Descuento: 62.1
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+20/08/2023                    02:37:51                      ROSARIO TABORI ARIAS                    Oftalmologia                  60732.6                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+04/08/2023                    02:16:32                      ROSARIO TABORI ARIAS                    Oftalmologia                  60732.6                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+11/03/2024                    00:08:31                      DELIA ESTEFANIA CABRERA MORENO          Urologia                      48509.4                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+26/08/2023                    00:11:54                      VICTORIA MILAGROS SHIRAKAWA SAONA       Pediatria                     1197.91                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/03/2024                    00:18:46                      CARMEN ZAMORA CABRERA                   Endocrinologia                30855.6                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+30/08/2023                    02:28:39                      BLANCA LUZ ACUNA AYLLON                 Oftalmologia                  40642                         
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+09/03/2024                    00:21:21                      JAVIER EDGARD LANDA CABRERA             Pediatria                     55734.8                       
+ PACIENTE : 34571095 - JOHAN  CHAVEZ BERROCAL                   Ano de nacimiento :1961   %Descuento: 34.67
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/04/2024                    00:39:06                      HUMBERTO ALFONSO AMEZQUITA CONTRERAS    Dermatologia                  30139.7                       
+ PACIENTE : 62287143 - JOSE ROLANDO CERNA HIJAR                 Ano de nacimiento :2017   %Descuento: 15.02
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+04/08/2023                    02:02:07                      BLANCA LUZ ACUNA AYLLON                 Oftalmologia                  9829.99                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+16/09/2023                    01:55:35                      CARMEN ZAMORA CABRERA                   Endocrinologia                7462.99                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+27/11/2023                    00:06:41                      VALENTINA PAULA URBINA ANTEZANO         Pediatria                     6163.76                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+11/03/2024                    00:56:34                      EMILIO EMIGDIO GONZALES AGUIRRE         Urologia                      14739                         
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+12/02/2024                    00:50:53                      EDGAR MUNOZ VERGEL                      Urologia                      5062.19                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+18/08/2023                    00:22:56                      RAUL COLLADO VILLA                      Cardiologia                   2198.18                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+20/10/2023                    00:01:03                      LUZ SOFIA JAUREGUI BRAVO                Dermatologia                  11361.9                       
+ PACIENTE : 94683380 - ENRIQUE JORGE DURAND VALVERDE            Ano de nacimiento :1985   %Descuento: 58.66
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+09/09/2023                    01:30:38                      YLIANA FLOR ORTIZ GUEVARA               Ginecologia                   3254.46                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/08/2023                    00:56:20                      FIORELLA ERIKA FLORENCIO POLO           Dermatologia                  27612.4                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+06/09/2023                    02:43:42                      HUMBERTO ALBERTO VARGAS GUEVARA         Gastroenterologia             45783.5                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/02/2024                    00:00:50                      SURAMI HELI PRECIADO PINTO              Traumatologia                 43343.9                       
+ PACIENTE : 93231760 - JAVIER DANIEL AURIS ZIMIC                Ano de nacimiento :1996   %Descuento: 22.25
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+27/10/2023                    02:16:32                      CARMEN ZAMORA CABRERA                   Endocrinologia                11055.4                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+26/03/2024                    02:19:13                      CARMEN ZAMORA CABRERA                   Endocrinologia                11055.4                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/03/2024                    02:35:54                      WALTER JOLAY CHUMPITAZ                  Traumatologia                 6640.51                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+16/08/2023                    01:39:49                      CINTHIA MILENA ZEGARRA CABELLO          Ginecologia                   20078                         
+ PACIENTE : 35606314 - MARTIN JUVENAL VILLA SEDANO              Ano de nacimiento :1954   %Descuento: 70.47
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+03/04/2024                    01:06:22                      FRANCISCO ZIMIC SALAS                   Endocrinologia                60246.9                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+02/04/2024                    00:57:32                      GUSTAVO ALONSO DEL CASTILLO MEJIA       Geriatria                     22536.3                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+27/01/2024                    01:07:32                      MIGUEL ALEX LANDEO ESTRADA              Cardiologia                   62953.7                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+11/01/2024                    02:49:23                      BLANCA LUZ ACUNA AYLLON                 Oftalmologia                  46119.8                       
+ PACIENTE : 59561864 - EDWARD  REYES TANG                       Ano de nacimiento :2019   %Descuento: 11.25
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+03/08/2023                    01:16:21                      BLANCA LUZ ACUNA AYLLON                 Oftalmologia                  7362.68                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/12/2023                    01:33:25                      ESTEFANIA ZEGARRA CASANOVA              Pediatria                     2972.36                       
+ PACIENTE : 51465986 - EMIGDIO FRANCISCO ESCALANTE ESPINO       Ano de nacimiento :1971   %Descuento: 7.8
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+05/08/2023                    00:44:14                      ROSARIO TABORI ARIAS                    Oftalmologia                  7628.24                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+15/12/2023                    00:35:19                      DELIA ESTEFANIA CABRERA MORENO          Urologia                      6092.97                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+09/09/2023                    00:54:23                      VICTORIA FIORELLA CUBA POMAJAMBO        Gastroenterologia             1997.19                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/08/2023                    00:20:21                      CARMEN ZAMORA CABRERA                   Endocrinologia                3875.59                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+27/08/2023                    01:04:55                      FIORELLA ERIKA FLORENCIO POLO           Dermatologia                  3671.62                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+22/10/2023                    02:06:15                      CINTHIA MILENA ZEGARRA CABELLO          Ginecologia                   7038.56                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/03/2024                    01:55:55                      MARINA NATALIA GARCIA INGA              Cardiologia                   1537.07                       
+ PACIENTE : 66039166 - CAROLA TATIANA LOYOLA CASANOVA           Ano de nacimiento :2018   %Descuento: 48.69
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+25/08/2023                    00:43:49                      VALENTINA PAULA URBINA ANTEZANO         Pediatria                     19980.9                       
+ PACIENTE : 32538825 - ELIA YOLANDA SEDANO RETAMOSO             Ano de nacimiento :1982   %Descuento: 83.54
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/08/2023                    00:39:43                      EMILIO EMIGDIO GONZALES AGUIRRE         Urologia                      81977                         
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+09/03/2024                    00:07:26                      DAVID CARLOS PEREZ ANTEZANO             Endocrinologia                380.942                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+18/11/2023                    00:34:01                      OFELIA CARMEN MERCADO CARO              Neumologia                    43979.6                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/09/2023                    01:37:21                      GUSTAVO ALONSO DEL CASTILLO MEJIA       Geriatria                     26716.1                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+20/08/2023                    01:14:02                      GUSTAVO ALONSO DEL CASTILLO MEJIA       Geriatria                     26716.1                       
+ PACIENTE : 36934113 - HELI  CORONEL CHUMPITAZ                  Ano de nacimiento :1989   %Descuento: 85.27
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/09/2023                    00:11:34                      DELIA ESTEFANIA CABRERA MORENO          Urologia                      66608.7                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/08/2023                    00:41:08                      ESTEFANIA ZEGARRA CASANOVA              Pediatria                     22529.2                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+27/11/2023                    00:11:28                      DAVID CARLOS PEREZ ANTEZANO             Endocrinologia                388.831                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/08/2023                    01:29:29                      ROSARIO MARIBEL YEP ZAVALETA            Ginecologia                   85046.6                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+30/10/2023                    01:47:31                      ZKENIA IRMA CHUNG ZUNIGA                Traumatologia                 71817.8                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+04/12/2023                    01:15:37                      MIGUEL ALEX LANDEO ESTRADA              Cardiologia                   76175.1                       
+ PACIENTE : 20371464 - JORGE  ALFARO AYALA                      Ano de nacimiento :1996   %Descuento: 42.96
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+28/08/2023                    00:30:19                      WALTER JOLAY CHUMPITAZ                  Traumatologia                 12821.4                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+06/04/2024                    02:43:59                      OFELIA BEATRIZ MONTERO BOLANOS          Gastroenterologia             22579.3                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/03/2024                    02:51:48                      DELIA ZARATE URBINA                     Gastroenterologia             16750.5                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/10/2023                    01:37:08                      VICTORIA FIORELLA CUBA POMAJAMBO        Gastroenterologia             10999.9                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+04/08/2023                    02:36:31                      DELICIA ROSA ARCA LEIVA                 Oftalmologia                  17428.4                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+30/08/2023                    00:24:36                      DELIA ZARATE URBINA                     Gastroenterologia             16750.5                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+13/09/2023                    01:47:09                      LUZ SOFIA JAUREGUI BRAVO                Dermatologia                  32497.1                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+12/08/2023                    00:01:39                      WALTER JOLAY CHUMPITAZ                  Traumatologia                 12821.4                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/11/2023                    02:52:08                      OFELIA BEATRIZ MONTERO BOLANOS          Gastroenterologia             22579.3                       
+ PACIENTE : 12484697 - FRANCISCO  ARANA RONDON                  Ano de nacimiento :1959   %Descuento: 44.25
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+16/09/2023                    02:30:25                      OFELIA BEATRIZ MONTERO BOLANOS          Gastroenterologia             23257.4                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+12/08/2023                    00:47:03                      VICTORIA FIORELLA CUBA POMAJAMBO        Gastroenterologia             11330.2                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+13/09/2023                    02:45:29                      MARINA NATALIA GARCIA INGA              Cardiologia                   8719.91                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+10/08/2023                    01:11:24                      EDGAR MUNOZ VERGEL                      Urologia                      14913.6                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+14/01/2024                    00:29:06                      DELICIA ROSA ARCA LEIVA                 Oftalmologia                  17951.8                       
+ PACIENTE : 72973662 - MADELEINE  SHIRAKAWA MIRANDA             Ano de nacimiento :2009   %Descuento: 4.87
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+09/02/2024                    00:37:58                      OFELIA BEATRIZ MONTERO BOLANOS          Gastroenterologia             2559.62                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+19/08/2023                    01:07:55                      YLIANA FLOR ORTIZ GUEVARA               Ginecologia                   270.188                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/12/2023                    00:36:50                      OFELIA BEATRIZ MONTERO BOLANOS          Gastroenterologia             2559.62                       
+ PACIENTE : 45914393 - FELICITA  VILLEGAS LEIVA                 Ano de nacimiento :1978   %Descuento: 5.05
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+21/08/2023                    02:26:47                      DELIA ZARATE URBINA                     Gastroenterologia             1969.05                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+19/08/2023                    01:21:26                      ZKENIA IRMA CHUNG ZUNIGA                Traumatologia                 4253.31                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+24/01/2024                    02:26:38                      LOURDES CARMELA YALLICO PAREDES         Oftalmologia                  1174.68                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+20/12/2023                    02:15:16                      CINTHIA MILENA ZEGARRA CABELLO          Ginecologia                   4557.02                       
+ PACIENTE : 80694546 - MARITZA  CARBAJAL SALAMANCA              Ano de nacimiento :1966   %Descuento: 4.19
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/04/2024                    02:48:39                      BLANCA LUZ ACUNA AYLLON                 Oftalmologia                  2742.19                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+02/08/2023                    00:03:15                      VICTORIA FIORELLA CUBA POMAJAMBO        Gastroenterologia             1072.85                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/08/2023                    02:38:55                      ROSARIO TABORI ARIAS                    Oftalmologia                  4097.74                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+30/08/2023                    02:02:26                      DELIA ZARATE URBINA                     Gastroenterologia             1633.72                       
+ PACIENTE : 51642949 - JUAN  PRADO VERA                         Ano de nacimiento :1979   %Descuento: 27.79
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/03/2024                    00:48:21                      HUMBERTO ALFONSO AMEZQUITA CONTRERAS    Dermatologia                  24158.7                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+09/02/2024                    02:03:23                      LOURDES CARMELA YALLICO PAREDES         Oftalmologia                  6464.23                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+12/02/2024                    02:32:48                      MIGUEL ALEX LANDEO ESTRADA              Cardiologia                   24825.9                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+27/11/2023                    00:11:07                      EDGAR MUNOZ VERGEL                      Urologia                      9366.06                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+18/12/2023                    00:39:10                      ALFONSO WALDEMAR CABELLO LAM            Cardiologia                   5126.14                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+16/02/2024                    00:57:03                      JAIME JULIAN SHIRAKAWA FLORIAN          Neumologia                    4708.74                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+03/08/2023                    01:22:29                      FIORELLA ERIKA FLORENCIO POLO           Dermatologia                  13081.3                       
+ PACIENTE : 75100362 - ROBERTO  INFANTES HERNANDEZ              Ano de nacimiento :1949   %Descuento: 6.22
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+30/08/2023                    01:57:05                      VICTORIA FIORELLA CUBA POMAJAMBO        Gastroenterologia             1592.63                       
+ PACIENTE : 45201670 - WILVER ALFONSO RIVERO CORTEZ             Ano de nacimiento :1991   %Descuento: 84.79
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+21/08/2023                    00:03:16                      OFELIA CARMEN MERCADO CARO              Neumologia                    44637.7                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/03/2024                    01:08:04                      VICTORIA MILAGROS SHIRAKAWA SAONA       Pediatria                     1635.6                        
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+14/08/2023                    00:54:20                      LUZ SOFIA JAUREGUI BRAVO                Dermatologia                  64139.4                       
+ PACIENTE : 90367684 - ROLANDO  SOLIS CHUNG                     Ano de nacimiento :1957   %Descuento: 25.37
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+27/11/2023                    00:53:29                      MILENA CINTHIA ZARATE ACUNA             Traumatologia                 20094.8                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+26/10/2023                    01:59:23                      ZKENIA IRMA CHUNG ZUNIGA                Traumatologia                 21367.6                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+04/08/2023                    01:16:29                      HUMBERTO ALFONSO AMEZQUITA CONTRERAS    Dermatologia                  22054.9                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+26/03/2024                    00:48:34                      GIOVANA MEJIA ZEGARRA                   Traumatologia                 19243.4                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+14/03/2024                    02:18:55                      MILENA CINTHIA ZARATE ACUNA             Traumatologia                 20094.8                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/09/2023                    02:21:29                      HUMBERTO ALFONSO AMEZQUITA CONTRERAS    Dermatologia                  22054.9                       
+ PACIENTE : 35852072 - ELOY JAIME ORTEGA LANDEO                 Ano de nacimiento :1981   %Descuento: 44.29
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+16/01/2024                    02:10:35                      LUZ SOFIA JAUREGUI BRAVO                Dermatologia                  33503.2                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+06/12/2023                    01:10:53                      JAIME JULIAN SHIRAKAWA FLORIAN          Neumologia                    7504.5                        
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+03/04/2024                    01:43:55                      CARMEN ZAMORA CABRERA                   Endocrinologia                22006.4                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/03/2024                    02:47:35                      OFELIA BEATRIZ MONTERO BOLANOS          Gastroenterologia             23278.4                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+19/08/2023                    02:08:33                      DELICIA ARCA AQUINO                     Dermatologia                  23187.1                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+14/12/2023                    00:42:08                      VALENTINA PAULA URBINA ANTEZANO         Pediatria                     18175.3                       
+ PACIENTE : 13731806 - ALBERTO  DE LA HAZA CABRERA              Ano de nacimiento :2018   %Descuento: 26.18
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+24/08/2023                    02:12:47                      WALTER JOLAY CHUMPITAZ                  Traumatologia                 7813.42                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+16/11/2023                    01:58:16                      OFELIA CARMEN MERCADO CARO              Neumologia                    13782.5                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+08/11/2023                    00:00:56                      ESTEFANIA ZEGARRA CASANOVA              Pediatria                     6917.02                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+08/08/2023                    02:42:17                      EMILIO EMIGDIO GONZALES AGUIRRE         Urologia                      25690.2                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+08/08/2023                    01:50:14                      ESTEFANIA ZEGARRA CASANOVA              Pediatria                     6917.02                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+11/01/2024                    01:08:57                      LOURDES CARMELA YALLICO PAREDES         Oftalmologia                  6089.73                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+24/08/2023                    01:21:10                      DAVID CARLOS PEREZ ANTEZANO             Endocrinologia                119.381                       
+ PACIENTE : 22598563 - MADELEINE YLIANA MIYAKE MEREL            Ano de nacimiento :2024   %Descuento: 81.22
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+08/11/2023                    02:06:54                      YLIANA FLOR ORTIZ GUEVARA               Ginecologia                   4506.09                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+10/08/2023                    01:39:21                      DAVID CARLOS PEREZ ANTEZANO             Endocrinologia                370.363                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/08/2023                    00:13:18                      DELIA ESTEFANIA CABRERA MORENO          Urologia                      63445                         
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/08/2023                    00:36:45                      OFELIA CARMEN MERCADO CARO              Neumologia                    42758.3                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+28/02/2024                    01:42:44                      DELIA ESTEFANIA CABRERA MORENO          Urologia                      63445                         
+ PACIENTE : 66091742 - ERICKA VICTORIA JUSTINO FORZANI          Ano de nacimiento :1998   %Descuento: 35.49
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+23/09/2023                    00:44:03                      GLENDA CABRERA MORI                     Oncologia                     33392.9                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+03/08/2023                    01:04:58                      DELICIA ROSA ARCA LEIVA                 Oftalmologia                  14397.9                       
+ PACIENTE : 54815159 - MILAGROS  VILCARA GAVIDIA                Ano de nacimiento :1970   %Descuento: 52.58
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+27/10/2023                    01:56:54                      GIOVANA MEJIA ZEGARRA                   Traumatologia                 39882.5                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+23/02/2024                    01:34:06                      BLANCA LUZ ACUNA AYLLON                 Oftalmologia                  34411.5                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+12/02/2024                    00:43:13                      WALTER JOLAY CHUMPITAZ                  Traumatologia                 15692.5                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/08/2023                    02:45:57                      HUMBERTO ALBERTO VARGAS GUEVARA         Gastroenterologia             41038.2                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/03/2024                    02:46:25                      VALENTINA PAULA URBINA ANTEZANO         Pediatria                     21577.3                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+22/11/2023                    00:57:27                      FRANCISCO ZIMIC SALAS                   Endocrinologia                44952.2                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+03/08/2023                    01:08:46                      WALTER JOLAY CHUMPITAZ                  Traumatologia                 15692.5                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/09/2023                    02:10:03                      BLANCA LUZ ACUNA AYLLON                 Oftalmologia                  34411.5                       
+ PACIENTE : 81647285 - EDGARD HENRY VELASQUEZ HUAYANAY          Ano de nacimiento :1961   %Descuento: 24.13
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/08/2023                    00:20:51                      FIORELLA ERIKA FLORENCIO POLO           Dermatologia                  11358.5                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+04/04/2024                    00:19:53                      YLIANA FLOR ORTIZ GUEVARA               Ginecologia                   1338.73                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+16/01/2024                    01:53:42                      DAVID CARLOS PEREZ ANTEZANO             Endocrinologia                110.033                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+14/03/2024                    01:50:41                      GLENDA CABRERA MORI                     Oncologia                     22704.2                       
+ PACIENTE : 41964357 - CHRISTIAN  PAREDES PATINO                Ano de nacimiento :1955   %Descuento: 58.3
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+14/03/2024                    01:38:57                      DELIA ZARATE URBINA                     Gastroenterologia             22731.8                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+16/08/2023                    01:58:29                      CINTHIA MILENA ZEGARRA CABELLO          Ginecologia                   52608.8                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/09/2023                    00:38:44                      SURAMI HELI PRECIADO PINTO              Traumatologia                 43077.9                       
+ PACIENTE : 37282858 - BEATRIZ  HENRIQUEZ ESPINO                Ano de nacimiento :2011   %Descuento: 79.54
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+11/01/2024                    02:42:37                      VICTORIA MILAGROS SHIRAKAWA SAONA       Pediatria                     1534.33                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/08/2023                    02:22:09                      RAUL COLLADO VILLA                      Cardiologia                   11640.7                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+09/02/2024                    00:11:38                      DELIA ESTEFANIA CABRERA MORENO          Urologia                      62132.7                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+13/09/2023                    02:34:07                      EDGAR MUNOZ VERGEL                      Urologia                      26807.4                       
+ PACIENTE : 17299012 - ANNIE OFELIA ASMAD ACUNA                 Ano de nacimiento :2008   %Descuento: 29.98
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+27/10/2023                    00:56:43                      CINTHIA MILENA ZEGARRA CABELLO          Ginecologia                   27053.4                       
+ PACIENTE : 15290194 - ROLANDO  CASTRO SUAREZ                   Ano de nacimiento :1988   %Descuento: 88.17
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+18/08/2023                    01:40:50                      ROSARIO TABORI ARIAS                    Oftalmologia                  86228.5                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+05/04/2024                    00:14:35                      DELICIA ARCA AQUINO                     Dermatologia                  46159.6                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+06/09/2023                    02:43:33                      ROSARIO MARIBEL YEP ZAVALETA            Ginecologia                   87939                         
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+03/04/2024                    00:36:34                      JAVIER EDGARD LANDA CABRERA             Pediatria                     79132.6                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+09/02/2024                    01:52:02                      ESTEFANIA ZEGARRA CASANOVA              Pediatria                     23295.4                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+14/08/2023                    00:23:53                      VICTORIA FIORELLA CUBA POMAJAMBO        Gastroenterologia             22575.9                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+09/08/2023                    01:15:17                      EMILIO EMIGDIO GONZALES AGUIRRE         Urologia                      86520.3                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/08/2023                    02:06:02                      DAVID CARLOS PEREZ ANTEZANO             Endocrinologia                402.055                       
+ PACIENTE : 68269451 - ANTONIO  SUELDO RUIZ                     Ano de nacimiento :1947   %Descuento: 77.3
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+16/08/2023                    02:21:28                      VICTORIA MILAGROS SHIRAKAWA SAONA       Pediatria                     1491.12                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+18/08/2023                    02:10:02                      ZKENIA IRMA CHUNG ZUNIGA                Traumatologia                 65105.2                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+25/08/2023                    00:01:40                      RAUL COLLADO VILLA                      Cardiologia                   11312.9                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/08/2023                    00:49:17                      ESTEFANIA ZEGARRA CASANOVA              Pediatria                     20423.4                       
+ PACIENTE : 30246960 - VIRGINIA IRMA BENAVENTE AYALA            Ano de nacimiento :1947   %Descuento: 4.44
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/11/2023                    02:36:07                      BLANCA LUZ ACUNA AYLLON                 Oftalmologia                  2905.8                        
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/08/2023                    00:11:03                      LOURDES CARMELA YALLICO PAREDES         Oftalmologia                  1032.79                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/09/2023                    02:52:38                      CINTHIA MILENA ZEGARRA CABELLO          Ginecologia                   4006.57                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/09/2023                    00:16:02                      VALENTINA PAULA URBINA ANTEZANO         Pediatria                     1822.04                       
+ PACIENTE : 22679759 - RONAL  CORTEZ MERCADO                    Ano de nacimiento :1968   %Descuento: 0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+06/03/2024                    02:45:07                      WALTER JOLAY CHUMPITAZ                  Traumatologia                 0                             
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+21/01/2024                    02:08:46                      EDGAR MUNOZ VERGEL                      Urologia                      0                             
+ PACIENTE : 51873364 - ALEXANDER  ZARATE PEREZ                  Ano de nacimiento :1985   %Descuento: 9.49
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+22/10/2023                    00:40:01                      VICTORIA FIORELLA CUBA POMAJAMBO        Gastroenterologia             2429.91                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/12/2023                    00:04:45                      DELIA ESTEFANIA CABRERA MORENO          Urologia                      7413.11                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+03/08/2023                    01:34:59                      DAVID CARLOS PEREZ ANTEZANO             Endocrinologia                43.2744                       
+ PACIENTE : 62126128 - RICHARD SANDRO PEREZ FARFAN              Ano de nacimiento :1974   %Descuento: 22.47
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+06/02/2024                    02:38:45                      DELICIA ROSA ARCA LEIVA                 Oftalmologia                  9115.85                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/08/2023                    00:56:17                      ALFONSO WALDEMAR CABELLO LAM            Cardiologia                   4144.82                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+28/02/2024                    01:10:00                      GUSTAVO ALONSO DEL CASTILLO MEJIA       Geriatria                     7185.91                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/08/2023                    00:19:25                      VICTORIA MILAGROS SHIRAKAWA SAONA       Pediatria                     433.446                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+27/08/2023                    01:51:38                      VICTORIA FIORELLA CUBA POMAJAMBO        Gastroenterologia             5753.44                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/08/2023                    02:06:42                      FIORELLA ERIKA FLORENCIO POLO           Dermatologia                  10577.1                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/10/2023                    02:30:12                      GLENDA CABRERA MORI                     Oncologia                     21142.2                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/08/2023                    00:33:08                      HUMBERTO ALBERTO VARGAS GUEVARA         Gastroenterologia             17537.6                       
+ PACIENTE : 53420926 - CARMELA TERESA VEGA VILCARA              Ano de nacimiento :1946   %Descuento: 39.11
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+06/08/2023                    00:50:31                      CINTHIA MILENA ZEGARRA CABELLO          Ginecologia                   35292.1                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/08/2023                    02:43:50                      YLIANA FLOR ORTIZ GUEVARA               Ginecologia                   2169.82                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+22/12/2023                    01:49:03                      HUMBERTO ALBERTO VARGAS GUEVARA         Gastroenterologia             30525                         
+ PACIENTE : 93282118 - ANGEL  SHIRAKAWA ORTEGA                  Ano de nacimiento :1960   %Descuento: 63.25
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/03/2024                    01:31:34                      JAIME JULIAN SHIRAKAWA FLORIAN          Neumologia                    10717.1                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+06/08/2023                    01:41:51                      DELIA ZARATE URBINA                     Gastroenterologia             24661.8                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+26/10/2023                    00:41:12                      RAUL COLLADO VILLA                      Cardiologia                   9256.64                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+30/08/2023                    00:45:09                      DELICIA ROSA ARCA LEIVA                 Oftalmologia                  25659.9                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+19/09/2023                    02:28:01                      LUZ SOFIA JAUREGUI BRAVO                Dermatologia                  47845.5                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/08/2023                    01:58:18                      FRANCISCO ZIMIC SALAS                   Endocrinologia                54074.3                       
+ PACIENTE : 71422479 - ANNIE LOURDES MEREL SALAZAR              Ano de nacimiento :1994   %Descuento: 79.07
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/08/2023                    02:29:44                      JAIME JULIAN SHIRAKAWA FLORIAN          Neumologia                    13397.6                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+23/09/2023                    02:21:30                      GIOVANA MEJIA ZEGARRA                   Traumatologia                 59975.4                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+22/08/2023                    00:39:47                      FIORELLA ERIKA FLORENCIO POLO           Dermatologia                  37219.8                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+19/08/2023                    02:51:48                      DELICIA ROSA ARCA LEIVA                 Oftalmologia                  32077.9                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/10/2023                    02:06:54                      WILMER SAENZ ARANDA                     Ginecologia                   13963.8                       
+ PACIENTE : 14956687 - GUILLERMO EDRIC CABRERA CANALES          Ano de nacimiento :1951   %Descuento: 28.09
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+21/08/2023                    01:41:48                      JAVIER EDGARD LANDA CABRERA             Pediatria                     25210.8                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+04/04/2024                    00:00:18                      FIORELLA ERIKA FLORENCIO POLO           Dermatologia                  13222.5                       
+ PACIENTE : 35347567 - MARIBEL  VIZCARDO SINCHE                 Ano de nacimiento :2009   %Descuento: 72.1
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+23/08/2023                    01:17:14                      WALTER JOLAY CHUMPITAZ                  Traumatologia                 21518.2                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+06/04/2024                    02:02:13                      GLENDA CABRERA MORI                     Oncologia                     67839.6                       
+ PACIENTE : 28992638 - ALEX MARTIN VASQUEZ PAZ                  Ano de nacimiento :2016   %Descuento: 6.95
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/08/2023                    01:17:26                      ROSARIO TABORI ARIAS                    Oftalmologia                  6796.96                       
+ PACIENTE : 85395219 - INES ADRIA ESCALANTE ROJAS               Ano de nacimiento :1966   %Descuento: 29.81
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+26/01/2024                    02:10:43                      GLENDA CABRERA MORI                     Oncologia                     28048.5                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+26/01/2024                    00:06:15                      DAVID CARLOS PEREZ ANTEZANO             Endocrinologia                135.934                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/08/2023                    00:37:57                      DELIA ZARATE URBINA                     Gastroenterologia             11623.2                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/12/2023                    00:27:51                      WILMER SAENZ ARANDA                     Ginecologia                   5264.45                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+06/02/2024                    01:27:28                      DELICIA ROSA ARCA LEIVA                 Oftalmologia                  12093.6                       
+ PACIENTE : 58643376 - ANNIE  MONTERO MONTERO                   Ano de nacimiento :2008   %Descuento: 20.23
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+26/08/2023                    00:27:14                      RAUL COLLADO VILLA                      Cardiologia                   2960.66                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+02/03/2024                    02:54:40                      MIGUEL ALEX LANDEO ESTRADA              Cardiologia                   18072.3                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+27/08/2023                    02:25:05                      DAVID CARLOS PEREZ ANTEZANO             Endocrinologia                92.2488                       
+ PACIENTE : 93939698 - ALONSO  FLORENCIO CORONADO               Ano de nacimiento :1993   %Descuento: 14.49
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+15/09/2023                    00:23:00                      OFELIA BEATRIZ MONTERO BOLANOS          Gastroenterologia             7615.8                        
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+03/04/2024                    01:12:26                      RAUL COLLADO VILLA                      Cardiologia                   2120.61                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/08/2023                    02:49:05                      DAVID CARLOS PEREZ ANTEZANO             Endocrinologia                66.0744                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/11/2023                    00:03:46                      ROSARIO MARIBEL YEP ZAVALETA            Ginecologia                   14452                         
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/08/2023                    02:32:14                      LUZ SOFIA JAUREGUI BRAVO                Dermatologia                  10961                         
+ PACIENTE : 63640178 - WILLIAMS  JUSTINO CRUZ                   Ano de nacimiento :2006   %Descuento: 11.46
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+09/08/2023                    01:17:37                      JAIME JULIAN SHIRAKAWA FLORIAN          Neumologia                    1941.78                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+04/10/2023                    01:49:59                      GUSTAVO ALONSO DEL CASTILLO MEJIA       Geriatria                     3664.91                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+14/01/2024                    02:49:49                      DAVID CARLOS PEREZ ANTEZANO             Endocrinologia                52.2576                       
+ PACIENTE : 99891737 - ALONSO  FORZANI CARO                     Ano de nacimiento :1945   %Descuento: 0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+06/12/2023                    01:31:20                      EDGAR MUNOZ VERGEL                      Urologia                      0                             
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+06/03/2024                    00:34:37                      VALENTINA PAULA URBINA ANTEZANO         Pediatria                     0                             
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+15/08/2023                    02:19:42                      CINTHIA MILENA ZEGARRA CABELLO          Ginecologia                   0                             
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+03/04/2024                    02:39:09                      ESTEFANIA ZEGARRA CASANOVA              Pediatria                     0                             
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+09/09/2023                    00:46:09                      ZKENIA IRMA CHUNG ZUNIGA                Traumatologia                 0                             
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+02/04/2024                    00:47:39                      LUZ SOFIA JAUREGUI BRAVO                Dermatologia                  0                             
+ PACIENTE : 77440060 - ALEX  HENRIQUEZ PORTUGAL                 Ano de nacimiento :2011   %Descuento: 42.13
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+22/10/2023                    01:11:50                      VICTORIA FIORELLA CUBA POMAJAMBO        Gastroenterologia             10787.4                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+05/04/2024                    00:56:33                      VALENTINA PAULA URBINA ANTEZANO         Pediatria                     17288.9                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+26/08/2023                    00:28:16                      JAIME JULIAN SHIRAKAWA FLORIAN          Neumologia                    7138.51                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+20/08/2023                    01:33:43                      DELICIA ARCA AQUINO                     Dermatologia                  22056.3                       
+ PACIENTE : 77324146 - DAVID EDRIC CERNA IPARRAGUIRRE           Ano de nacimiento :1981   %Descuento: 23.1
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/12/2023                    01:01:29                      WALTER JOLAY CHUMPITAZ                  Traumatologia                 6894.19                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+25/10/2023                    00:01:07                      VICTORIA MILAGROS SHIRAKAWA SAONA       Pediatria                     445.599                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/12/2023                    00:28:36                      OFELIA CARMEN MERCADO CARO              Neumologia                    12161                         
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+22/11/2023                    00:18:32                      HUMBERTO ALFONSO AMEZQUITA CONTRERAS    Dermatologia                  20081.5                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+27/03/2024                    01:04:37                      OFELIA BEATRIZ MONTERO BOLANOS          Gastroenterologia             12141.1                       
+ PACIENTE : 34697743 - CARLOS JULIAN PRADO VERGEL               Ano de nacimiento :2000   %Descuento: 53.14
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/09/2023                    01:34:46                      OFELIA BEATRIZ MONTERO BOLANOS          Gastroenterologia             27929.9                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+04/08/2023                    00:58:09                      MARINA NATALIA GARCIA INGA              Cardiologia                   10471.8                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+05/08/2023                    02:41:11                      MIGUEL ALEX LANDEO ESTRADA              Cardiologia                   47472.1                       
+ PACIENTE : 65912822 - WALDEMAR EDGARD DURAND MEZA              Ano de nacimiento :1978   %Descuento: 77.02
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+06/08/2023                    00:03:37                      ESTEFANIA ZEGARRA CASANOVA              Pediatria                     20349.5                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+16/01/2024                    01:54:21                      HUMBERTO ALBERTO VARGAS GUEVARA         Gastroenterologia             60113.3                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/03/2024                    02:19:51                      ALFONSO WALDEMAR CABELLO LAM            Cardiologia                   14207.1                       
+ PACIENTE : 91187814 - JESUS RAFAEL NARVAEZ CASTILLO            Ano de nacimiento :2017   %Descuento: 59.8
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+16/08/2023                    02:38:53                      LOURDES CARMELA YALLICO PAREDES         Oftalmologia                  13910.1                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+27/08/2023                    01:09:08                      RAUL COLLADO VILLA                      Cardiologia                   8751.73                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+15/10/2023                    00:03:56                      CINTHIA MILENA ZEGARRA CABELLO          Ginecologia                   53962.3                       
+ PACIENTE : 49357767 - DELIA  LOZADA FORZANI                    Ano de nacimiento :2017   %Descuento: 77.12
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+11/03/2024                    00:59:55                      BLANCA LUZ ACUNA AYLLON                 Oftalmologia                  50472                         
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+04/08/2023                    01:16:18                      SURAMI HELI PRECIADO PINTO              Traumatologia                 56984                         
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+02/10/2023                    01:11:18                      VICTORIA MILAGROS SHIRAKAWA SAONA       Pediatria                     1487.64                       
+ PACIENTE : 92275859 - IRMA LOURDES CORRALES TSUKAZAN           Ano de nacimiento :1963   %Descuento: 38.99
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+02/08/2023                    01:40:34                      DELIA ESTEFANIA CABRERA MORENO          Urologia                      30457                         
+ PACIENTE : 27709566 - LOURDES SONIA SOMA PINTO                 Ano de nacimiento :1969   %Descuento: 22.82
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+27/03/2024                    02:59:22                      DELIA ZARATE URBINA                     Gastroenterologia             8897.75                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+17/03/2024                    00:25:58                      DELIA ESTEFANIA CABRERA MORENO          Urologia                      17825.8                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+23/08/2023                    01:56:32                      JAIME JULIAN SHIRAKAWA FLORIAN          Neumologia                    3866.62                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/12/2023                    01:26:00                      VALENTINA PAULA URBINA ANTEZANO         Pediatria                     9364.64                       
+ PACIENTE : 95656771 - FELICITA VALENTINA LOZADA ARGUEDAS       Ano de nacimiento :1952   %Descuento: 64.08
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+06/02/2024                    01:45:57                      VICTORIA FIORELLA CUBA POMAJAMBO        Gastroenterologia             16407.7                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+03/08/2023                    01:09:39                      LOURDES CARMELA YALLICO PAREDES         Oftalmologia                  14905.6                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+24/01/2024                    02:31:46                      GLENDA CABRERA MORI                     Oncologia                     60293.5                       
+ PACIENTE : 81539774 - VIRGINIA MARTHA SALAMANCA VEGA           Ano de nacimiento :2000   %Descuento: 76.71
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+04/10/2023                    01:09:46                      CINTHIA MILENA ZEGARRA CABELLO          Ginecologia                   69221.6                       
+ PACIENTE : 72330000 - INES  SAM YALLICO                        Ano de nacimiento :1951   %Descuento: 2.07
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+29/03/2024                    02:47:28                      VALENTINA PAULA URBINA ANTEZANO         Pediatria                     849.466                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+26/10/2023                    00:01:59                      OFELIA BEATRIZ MONTERO BOLANOS          Gastroenterologia             1087.97                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+09/02/2024                    02:35:50                      CARMEN ZAMORA CABRERA                   Endocrinologia                1028.52                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/09/2023                    02:11:52                      VICTORIA MILAGROS SHIRAKAWA SAONA       Pediatria                     39.9303                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+09/08/2023                    01:00:41                      JAVIER EDGARD LANDA CABRERA             Pediatria                     1857.82                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+26/08/2023                    02:52:00                      LUZ SOFIA JAUREGUI BRAVO                Dermatologia                  1565.85                       
+ PACIENTE : 36471787 - TERESA DELIA ANTEZANO SEGURA             Ano de nacimiento :1972   %Descuento: 65.08
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+16/01/2024                    00:26:03                      MARINA NATALIA GARCIA INGA              Cardiologia                   12824.7                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+14/08/2023                    02:27:02                      VICTORIA FIORELLA CUBA POMAJAMBO        Gastroenterologia             16663.7                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+02/02/2024                    00:17:14                      ROSARIO TABORI ARIAS                    Oftalmologia                  63646.9                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+02/04/2024                    02:36:01                      RAUL COLLADO VILLA                      Cardiologia                   9524.46                       
+ PACIENTE : 59596317 - ADRIA  SUELDO SEDANO                     Ano de nacimiento :2017   %Descuento: 16.88
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+14/12/2023                    02:54:26                      OFELIA BEATRIZ MONTERO BOLANOS          Gastroenterologia             8871.96                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+05/04/2024                    00:32:37                      ROSARIO MARIBEL YEP ZAVALETA            Ginecologia                   16835.8                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+01/09/2023                    02:08:28                      JAIME JULIAN SHIRAKAWA FLORIAN          Neumologia                    2860.15                       
+Fecha                         Duracion                      Medico                                  Especialidad                  Pago por cita                 
+16/12/2023                    00:59:18                      MILENA CINTHIA ZARATE ACUNA             Traumatologia                 13370.1                       

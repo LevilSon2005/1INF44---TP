@@ -1,0 +1,3132 @@
+num: 1
+codigo: IIM5175
+titulo: Diamantes y pedernales
+autor: Jose Maria Arguedas
+cantLibrosVendidos: 2
+ranking: 2
+suma: 64
+calificacion: -0: 50
+dni: -0: 46582367
+fecha: -0: 20231114
+calificacion: -1: 14
+dni: -1: 69200503
+fecha: -1: 20231121
+-----
+num: 2
+codigo: YDK7687
+titulo: El otonio del patriarca
+autor: Gabriel Garcia Marquez
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 3
+codigo: ZOY6470
+titulo: El viejo y el mar
+autor: Hernest Hemingway
+cantLibrosVendidos: 2
+ranking: 3
+suma: 107
+calificacion: -0: 73
+dni: -0: 87804471
+fecha: -0: 20231124
+calificacion: -1: 34
+dni: -1: 42302422
+fecha: -1: 20231115
+-----
+num: 4
+codigo: ETZ8565
+titulo: Confesiones de una mascara
+autor: Yukio Mishima
+cantLibrosVendidos: 1
+ranking: 2
+suma: 33
+calificacion: -0: 33
+dni: -0: 14268463
+fecha: -0: 20231002
+-----
+num: 5
+codigo: LQL0880
+titulo: Contra el fascismo
+autor: Umberto Eco
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 6
+codigo: VFZ9435
+titulo: El olor de la Edad Media
+autor: Javier Traite
+cantLibrosVendidos: 5
+ranking: 3
+suma: 299
+calificacion: -0: 90
+dni: -0: 45834351
+fecha: -0: 20240216
+calificacion: -1: 19
+dni: -1: 48053960
+fecha: -1: 20231004
+calificacion: -2: 72
+dni: -2: 49516360
+fecha: -2: 20231027
+calificacion: -3: 64
+dni: -3: 51235238
+fecha: -3: 20230928
+calificacion: -4: 54
+dni: -4: 21344013
+fecha: -4: 20230908
+-----
+num: 7
+codigo: SFZ1256
+titulo: La Iliada
+autor: Homero
+cantLibrosVendidos: 2
+ranking: 1
+suma: 48
+calificacion: -0: 24
+dni: -0: 45181396
+fecha: -0: 20240109
+calificacion: -1: 24
+dni: -1: 85870289
+fecha: -1: 20240327
+-----
+num: 8
+codigo: EDQ0577
+titulo: Las aventuras de Pinocho
+autor: Carlo Collodi
+cantLibrosVendidos: 1
+ranking: 5
+suma: 91
+calificacion: -0: 91
+dni: -0: 65830353
+fecha: -0: 20240111
+-----
+num: 9
+codigo: YJI3961
+titulo: Cien anios de soledad
+autor: Gabriel Garcia Marquez
+cantLibrosVendidos: 2
+ranking: 3
+suma: 122
+calificacion: -0: 91
+dni: -0: 47659552
+fecha: -0: 20231023
+calificacion: -1: 31
+dni: -1: 37328103
+fecha: -1: 20240219
+-----
+num: 10
+codigo: VPN5351
+titulo: El Amante
+autor: Ana Maria Moix
+cantLibrosVendidos: 1
+ranking: 3
+suma: 67
+calificacion: -0: 67
+dni: -0: 87804471
+fecha: -0: 20240102
+-----
+num: 11
+codigo: PVS2464
+titulo: Sapiens
+autor: Yuval Noah Harari
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 12
+codigo: DVL7760
+titulo: Falco
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 2
+ranking: 3
+suma: 101
+calificacion: -0: 67
+dni: -0: 69200503
+fecha: -0: 20231001
+calificacion: -1: 34
+dni: -1: 57431952
+fecha: -1: 20240311
+-----
+num: 13
+codigo: QRH6838
+titulo: Las cronicas de Narnia
+autor: C. S. Lewis
+cantLibrosVendidos: 3
+ranking: 1
+suma: 50
+calificacion: -0: 14
+dni: -0: 81082011
+fecha: -0: 20231213
+calificacion: -1: 26
+dni: -1: 65071478
+fecha: -1: 20240205
+calificacion: -2: 10
+dni: -2: 47659552
+fecha: -2: 20240220
+-----
+num: 14
+codigo: LDL2628
+titulo: Harry Potter y el caliz de fuego (Harry Potter 4)
+autor: J.K. Rowling
+cantLibrosVendidos: 1
+ranking: 5
+suma: 90
+calificacion: -0: 90
+dni: -0: 14500753
+fecha: -0: 20231206
+-----
+num: 15
+codigo: SBU9053
+titulo: Tierra arrasada
+autor: Alfredo Gonzalez Ruibal
+cantLibrosVendidos: 1
+ranking: 1
+suma: 2
+calificacion: -0: 2
+dni: -0: 36699613
+fecha: -0: 20240430
+-----
+num: 16
+codigo: ZJM1292
+titulo: El suenio del celta
+autor: Mario Vargas Llosa
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 17
+codigo: CRA4157
+titulo: El forastero misterioso
+autor: Mark Twain
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 18
+codigo: RII8346
+titulo: Las dos Dianas
+autor: Alejandro Dumas
+cantLibrosVendidos: 1
+ranking: 5
+suma: 92
+calificacion: -0: 92
+dni: -0: 66747161
+fecha: -0: 20240109
+-----
+num: 19
+codigo: JBR9372
+titulo: El maestro de esgrima
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 2
+ranking: 1
+suma: 46
+calificacion: -0: 36
+dni: -0: 37751890
+fecha: -0: 20231111
+calificacion: -1: 10
+dni: -1: 33583840
+fecha: -1: 20240405
+-----
+num: 20
+codigo: NEO9165
+titulo: Emperador de Roma
+autor: Mary Beard
+cantLibrosVendidos: 1
+ranking: 5
+suma: 92
+calificacion: -0: 92
+dni: -0: 88080249
+fecha: -0: 20240426
+-----
+num: 21
+codigo: TBZ2657
+titulo: Olalla
+autor: Robert Louis Stevenson
+cantLibrosVendidos: 2
+ranking: 3
+suma: 104
+calificacion: -0: 11
+dni: -0: 81462164
+fecha: -0: 20240502
+calificacion: -1: 93
+dni: -1: 57431952
+fecha: -1: 20231127
+-----
+num: 22
+codigo: IBP7411
+titulo: Nunca
+autor: Ken Follett
+cantLibrosVendidos: 1
+ranking: 3
+suma: 61
+calificacion: -0: 61
+dni: -0: 54393647
+fecha: -0: 20240315
+-----
+num: 23
+codigo: GPH1575
+titulo: La gran aventura de los griegos
+autor: Javier Negrete
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 24
+codigo: XIU2628
+titulo: Cabo Trafalgar
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 3
+ranking: 2
+suma: 86
+calificacion: -0: 7
+dni: -0: 86898639
+fecha: -0: 20240321
+calificacion: -1: 29
+dni: -1: 65830353
+fecha: -1: 20240418
+calificacion: -2: 50
+dni: -2: 17750908
+fecha: -2: 20240303
+-----
+num: 25
+codigo: DDT0017
+titulo: Viaje al fin de la noche
+autor: Louis Ferdinand Celine
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 26
+codigo: ILG7766
+titulo: Iliada
+autor: Homero
+cantLibrosVendidos: 1
+ranking: 3
+suma: 70
+calificacion: -0: 70
+dni: -0: 69200503
+fecha: -0: 20240323
+-----
+num: 27
+codigo: HGQ0131
+titulo: Odisea
+autor: Homero
+cantLibrosVendidos: 1
+ranking: 2
+suma: 28
+calificacion: -0: 28
+dni: -0: 37751890
+fecha: -0: 20240315
+-----
+num: 28
+codigo: HLB4548
+titulo: Frankenstein o el moderno Prometeo
+autor: Mary W. Shelley
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 29
+codigo: SQB7146
+titulo: Cronica de una muerte anunciada
+autor: Gabriel Garcia Marquez
+cantLibrosVendidos: 3
+ranking: 3
+suma: 206
+calificacion: -0: 76
+dni: -0: 72832218
+fecha: -0: 20230928
+calificacion: -1: 43
+dni: -1: 88080249
+fecha: -1: 20230913
+calificacion: -2: 87
+dni: -2: 48053960
+fecha: -2: 20240208
+-----
+num: 30
+codigo: VHK9148
+titulo: Historia y cronologia del mundo
+autor: Isaac Asimov
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 31
+codigo: MVU0233
+titulo: La conspiracioni
+autor: Dan Brown
+cantLibrosVendidos: 1
+ranking: 1
+suma: 5
+calificacion: -0: 5
+dni: -0: 11750801
+fecha: -0: 20230906
+-----
+num: 32
+codigo: KWL0415
+titulo: 1923
+autor: Roberto Villa Garcia
+cantLibrosVendidos: 4
+ranking: 2
+suma: 197
+calificacion: -0: 62
+dni: -0: 37751890
+fecha: -0: 20230923
+calificacion: -1: 55
+dni: -1: 92240876
+fecha: -1: 20240207
+calificacion: -2: 33
+dni: -2: 72832218
+fecha: -2: 20240321
+calificacion: -3: 47
+dni: -3: 45002711
+fecha: -3: 20240101
+-----
+num: 33
+codigo: WPU8819
+titulo: Tristam Shandy
+autor: Laurence Sterne
+cantLibrosVendidos: 4
+ranking: 1
+suma: 80
+calificacion: -0: 15
+dni: -0: 42302422
+fecha: -0: 20240209
+calificacion: -1: 9
+dni: -1: 33583840
+fecha: -1: 20240207
+calificacion: -2: 16
+dni: -2: 65071478
+fecha: -2: 20240207
+calificacion: -3: 40
+dni: -3: 37751890
+fecha: -3: 20240323
+-----
+num: 34
+codigo: JTX5687
+titulo: Veinte mil leguas de viaje submarino
+autor: Julio Verne
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 35
+codigo: HCT8192
+titulo: Diario
+autor: Ana FranK
+cantLibrosVendidos: 1
+ranking: 1
+suma: 10
+calificacion: -0: 10
+dni: -0: 11750801
+fecha: -0: 20230922
+-----
+num: 36
+codigo: OMN0252
+titulo: Los hermanos Karamazov
+autor: Fiodor Dostoyevski
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 37
+codigo: CKC4095
+titulo: El Gran Gatsby
+autor: F. Scott Fitzgerald
+cantLibrosVendidos: 4
+ranking: 2
+suma: 132
+calificacion: -0: 3
+dni: -0: 34460612
+fecha: -0: 20231125
+calificacion: -1: 6
+dni: -1: 38724322
+fecha: -1: 20240130
+calificacion: -2: 91
+dni: -2: 17750908
+fecha: -2: 20240101
+calificacion: -3: 32
+dni: -3: 37751890
+fecha: -3: 20230923
+-----
+num: 38
+codigo: JLQ6546
+titulo: El retorno del Rey
+autor: J.R.R.Tolkien
+cantLibrosVendidos: 3
+ranking: 2
+suma: 103
+calificacion: -0: 31
+dni: -0: 14500753
+fecha: -0: 20231226
+calificacion: -1: 50
+dni: -1: 14500753
+fecha: -1: 20240416
+calificacion: -2: 22
+dni: -2: 14268463
+fecha: -2: 20231116
+-----
+num: 39
+codigo: MSW8176
+titulo: Todo se desmorona
+autor: Chinua Achebe
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 40
+codigo: TDY0497
+titulo: La chica del tren
+autor: Paula Hawkins
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 41
+codigo: NBL8415
+titulo: Espania con honra
+autor: Daniel Aquillue
+cantLibrosVendidos: 3
+ranking: 2
+suma: 124
+calificacion: -0: 44
+dni: -0: 49516360
+fecha: -0: 20231103
+calificacion: -1: 23
+dni: -1: 47659552
+fecha: -1: 20231021
+calificacion: -2: 57
+dni: -2: 37751890
+fecha: -2: 20240326
+-----
+num: 42
+codigo: IMC3155
+titulo: Los pilares de la tierra
+autor: Ken Follett
+cantLibrosVendidos: 1
+ranking: 5
+suma: 87
+calificacion: -0: 87
+dni: -0: 21344013
+fecha: -0: 20231206
+-----
+num: 43
+codigo: FWK6327
+titulo: El doble
+autor: Fiodor Dostoyevski
+cantLibrosVendidos: 1
+ranking: 1
+suma: 7
+calificacion: -0: 7
+dni: -0: 85870289
+fecha: -0: 20231001
+-----
+num: 44
+codigo: GQC1814
+titulo: Apocalipticos e integrados
+autor: Umberto Eco
+cantLibrosVendidos: 1
+ranking: 2
+suma: 32
+calificacion: -0: 32
+dni: -0: 11750801
+fecha: -0: 20240323
+-----
+num: 45
+codigo: PRD1648
+titulo: Relato de un naufrago
+autor: Gabriel Garcia Marquez
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 46
+codigo: SBF7018
+titulo: El handicap de la vida
+autor: Rudyard Kipling
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 47
+codigo: LVP3355
+titulo: Las aventuras de Sherlock Holmes
+autor: Arthur Conan Doyle
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 48
+codigo: FBO8724
+titulo: El pendulo de Foucault
+autor: Umberto Eco
+cantLibrosVendidos: 1
+ranking: 3
+suma: 52
+calificacion: -0: 52
+dni: -0: 58717040
+fecha: -0: 20231110
+-----
+num: 49
+codigo: WCZ0845
+titulo: El cementerio de Praga
+autor: Umberto Eco
+cantLibrosVendidos: 2
+ranking: 2
+suma: 85
+calificacion: -0: 38
+dni: -0: 38724322
+fecha: -0: 20240326
+calificacion: -1: 47
+dni: -1: 49516360
+fecha: -1: 20231216
+-----
+num: 50
+codigo: WOF6634
+titulo: El problema final
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 2
+ranking: 1
+suma: 33
+calificacion: -0: 27
+dni: -0: 15129661
+fecha: -0: 20240219
+calificacion: -1: 6
+dni: -1: 65071478
+fecha: -1: 20240124
+-----
+num: 51
+codigo: CUV7849
+titulo: Ficciones
+autor: Jorge Luis Borges
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 52
+codigo: VMW6915
+titulo: Travesuras de la ninia mala
+autor: Mario Vargas Llosa
+cantLibrosVendidos: 4
+ranking: 3
+suma: 263
+calificacion: -0: 71
+dni: -0: 92240876
+fecha: -0: 20240216
+calificacion: -1: 46
+dni: -1: 14268463
+fecha: -1: 20231125
+calificacion: -2: 86
+dni: -2: 72832218
+fecha: -2: 20231109
+calificacion: -3: 60
+dni: -3: 37751890
+fecha: -3: 20231121
+-----
+num: 53
+codigo: MBQ9495
+titulo: Tormenta de espadas
+autor: George R.R.Martin
+cantLibrosVendidos: 3
+ranking: 2
+suma: 95
+calificacion: -0: 4
+dni: -0: 37328103
+fecha: -0: 20240501
+calificacion: -1: 87
+dni: -1: 46582367
+fecha: -1: 20240310
+calificacion: -2: 4
+dni: -2: 57431952
+fecha: -2: 20240430
+-----
+num: 54
+codigo: LQA8555
+titulo: Rimas y leyendas
+autor: Gustavo Adolfo Becquer
+cantLibrosVendidos: 1
+ranking: 1
+suma: 22
+calificacion: -0: 22
+dni: -0: 49516360
+fecha: -0: 20240202
+-----
+num: 55
+codigo: IMK4892
+titulo: La tabla de Flandes
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 3
+ranking: 3
+suma: 183
+calificacion: -0: 67
+dni: -0: 37751890
+fecha: -0: 20240320
+calificacion: -1: 26
+dni: -1: 72832218
+fecha: -1: 20231210
+calificacion: -2: 90
+dni: -2: 21344013
+fecha: -2: 20231024
+-----
+num: 56
+codigo: QCA9584
+titulo: Dr. Jekyll y Mr. Hyde
+autor: Robert Louis Stevenson
+cantLibrosVendidos: 2
+ranking: 3
+suma: 149
+calificacion: -0: 68
+dni: -0: 92240876
+fecha: -0: 20231027
+calificacion: -1: 81
+dni: -1: 15129661
+fecha: -1: 20240428
+-----
+num: 57
+codigo: XJT3661
+titulo: Las aventuras de Tom Sawye
+autor: Mark Twain
+cantLibrosVendidos: 1
+ranking: 5
+suma: 91
+calificacion: -0: 91
+dni: -0: 17750908
+fecha: -0: 20240218
+-----
+num: 58
+codigo: THT4126
+titulo: Harry Potter y las reliquias de la muerte (Harry Potter 7)
+autor: J. K. Rowling
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 59
+codigo: PZP7176
+titulo: La caida de los gigantes
+autor: Ken Follett
+cantLibrosVendidos: 2
+ranking: 2
+suma: 99
+calificacion: -0: 79
+dni: -0: 83265244
+fecha: -0: 20240213
+calificacion: -1: 20
+dni: -1: 88080249
+fecha: -1: 20240318
+-----
+num: 60
+codigo: UQL8643
+titulo: Dracula
+autor: Bram Stoker
+cantLibrosVendidos: 1
+ranking: 1
+suma: 17
+calificacion: -0: 17
+dni: -0: 81082011
+fecha: -0: 20231018
+-----
+num: 61
+codigo: RLQ7170
+titulo: El tango de la guardia vieja
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 2
+ranking: 5
+suma: 171
+calificacion: -0: 97
+dni: -0: 37751890
+fecha: -0: 20231024
+calificacion: -1: 74
+dni: -1: 33583840
+fecha: -1: 20231109
+-----
+num: 62
+codigo: KTA8754
+titulo: Ulises
+autor: James Joyce
+cantLibrosVendidos: 2
+ranking: 2
+suma: 75
+calificacion: -0: 43
+dni: -0: 42302422
+fecha: -0: 20240306
+calificacion: -1: 32
+dni: -1: 37328103
+fecha: -1: 20240104
+-----
+num: 63
+codigo: TOJ1764
+titulo: Ensayo sobre la ceguera
+autor: Jose Saramago
+cantLibrosVendidos: 2
+ranking: 2
+suma: 98
+calificacion: -0: 73
+dni: -0: 65830353
+fecha: -0: 20240111
+calificacion: -1: 25
+dni: -1: 81462164
+fecha: -1: 20240131
+-----
+num: 64
+codigo: GWE4133
+titulo: El gato negro y otros cuentos
+autor: Edgar Allan Poe
+cantLibrosVendidos: 1
+ranking: 1
+suma: 5
+calificacion: -0: 5
+dni: -0: 65830353
+fecha: -0: 20240402
+-----
+num: 65
+codigo: ZPD6557
+titulo: El ruido y la furia
+autor: William Faulkner
+cantLibrosVendidos: 1
+ranking: 2
+suma: 43
+calificacion: -0: 43
+dni: -0: 87804471
+fecha: -0: 20240217
+-----
+num: 66
+codigo: IUG2294
+titulo: El proceso
+autor: Franz Kafka
+cantLibrosVendidos: 2
+ranking: 2
+suma: 63
+calificacion: -0: 55
+dni: -0: 17750908
+fecha: -0: 20240120
+calificacion: -1: 8
+dni: -1: 69200503
+fecha: -1: 20230905
+-----
+num: 67
+codigo: WGA2754
+titulo: El club Dumas
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 1
+ranking: 1
+suma: 1
+calificacion: -0: 1
+dni: -0: 37751890
+fecha: -0: 20240220
+-----
+num: 68
+codigo: YJE2497
+titulo: Progreso del peregrino
+autor: John Bunyan
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 69
+codigo: XCC4070
+titulo: El italiano
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 2
+ranking: 2
+suma: 51
+calificacion: -0: 48
+dni: -0: 34460612
+fecha: -0: 20231005
+calificacion: -1: 3
+dni: -1: 45181396
+fecha: -1: 20230920
+-----
+num: 70
+codigo: OBD2849
+titulo: El invierno del mundo
+autor: Ken Follett
+cantLibrosVendidos: 1
+ranking: 3
+suma: 58
+calificacion: -0: 58
+dni: -0: 27109544
+fecha: -0: 20230922
+-----
+num: 71
+codigo: UCJ9882
+titulo: El reino de este mundo
+autor: Alejo Carpentier
+cantLibrosVendidos: 2
+ranking: 2
+suma: 99
+calificacion: -0: 90
+dni: -0: 54393647
+fecha: -0: 20240123
+calificacion: -1: 9
+dni: -1: 45181396
+fecha: -1: 20240312
+-----
+num: 72
+codigo: QVU3526
+titulo: Vidas intrepidas
+autor: Julio Albi de la Cuesta
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 73
+codigo: VTY5195
+titulo: Un asunto de honor
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 74
+codigo: FKK6524
+titulo: Los renglones torcidos de Dios
+autor: Torcuato Luca de Tena
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 75
+codigo: KPE7420
+titulo: Jane Eyre
+autor: Charlotte Brontë
+cantLibrosVendidos: 1
+ranking: 1
+suma: 8
+calificacion: -0: 8
+dni: -0: 63602514
+fecha: -0: 20231113
+-----
+num: 76
+codigo: MWB2923
+titulo: Mudlarking
+autor: Lara Maiklem
+cantLibrosVendidos: 1
+ranking: 3
+suma: 60
+calificacion: -0: 60
+dni: -0: 65071478
+fecha: -0: 20230909
+-----
+num: 77
+codigo: ISY5671
+titulo: Harry Potter y la piedra filosofal (Harry Potter 1)
+autor: J. K. Rowling
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 78
+codigo: NBE1339
+titulo: Palmeras en la nieve
+autor: Luz Gabas
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 79
+codigo: JHP0390
+titulo: El conde de Montecristo
+autor: Alexandre Dumas
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 80
+codigo: OWU1533
+titulo: Cuatro principes
+autor: John Julius Norwich
+cantLibrosVendidos: 1
+ranking: 5
+suma: 16973987
+calificacion: -0: 23
+dni: -0: 54393647
+fecha: -0: 20231213
+-----
+num: 81
+codigo: SFR1226
+titulo: Ana la de las tejas verdes
+autor: Lucy Maud Montgomery
+cantLibrosVendidos: 1
+ranking: 5
+suma: 91
+calificacion: -0: 91
+dni: -0: 34460612
+fecha: -0: 20230902
+-----
+num: 82
+codigo: HRT0664
+titulo: Los funerales de la Mama Grande
+autor: Gabriel Garcia Marquez
+cantLibrosVendidos: 1
+ranking: 1
+suma: 5
+calificacion: -0: 5
+dni: -0: 35030611
+fecha: -0: 20231003
+-----
+num: 83
+codigo: HPP3360
+titulo: El pintor de batallas
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 4
+ranking: 3
+suma: 282
+calificacion: -0: 66
+dni: -0: 85870289
+fecha: -0: 20230926
+calificacion: -1: 80
+dni: -1: 47659552
+fecha: -1: 20231130
+calificacion: -2: 58
+dni: -2: 81082011
+fecha: -2: 20230913
+calificacion: -3: 78
+dni: -3: 65830353
+fecha: -3: 20231022
+-----
+num: 84
+codigo: DND9446
+titulo: Lo que el viento se llevo
+autor: Margaret Mitchell
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 85
+codigo: LJD9991
+titulo: Baudolino
+autor: Umberto Eco
+cantLibrosVendidos: 1
+ranking: 1
+suma: 18
+calificacion: -0: 18
+dni: -0: 37328103
+fecha: -0: 20231017
+-----
+num: 86
+codigo: XIU6076
+titulo: Rebelion en la granja
+autor: George Orwell
+cantLibrosVendidos: 2
+ranking: 1
+suma: 43
+calificacion: -0: 6
+dni: -0: 47659552
+fecha: -0: 20231222
+calificacion: -1: 37
+dni: -1: 33958767
+fecha: -1: 20231106
+-----
+num: 87
+codigo: PWX7633
+titulo: La tia Julia y el escribidor
+autor: Mario Vargas Llosa
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 88
+codigo: UXZ2187
+titulo: Los 7 habitos de la gente altamente efectiva
+autor: Stephen R. Covey
+cantLibrosVendidos: 3
+ranking: 3
+suma: 169
+calificacion: -0: 86
+dni: -0: 21344013
+fecha: -0: 20240224
+calificacion: -1: 16
+dni: -1: 69200503
+fecha: -1: 20231105
+calificacion: -2: 67
+dni: -2: 51235238
+fecha: -2: 20230907
+-----
+num: 89
+codigo: UEJ1235
+titulo: Grandes esperanzas
+autor: Charles Dickens
+cantLibrosVendidos: 2
+ranking: 3
+suma: 147
+calificacion: -0: 52
+dni: -0: 69200503
+fecha: -0: 20231207
+calificacion: -1: 95
+dni: -1: 86898639
+fecha: -1: 20240323
+-----
+num: 90
+codigo: DDQ0721
+titulo: En busca del tiempo perdido
+autor: Marcel Proust
+cantLibrosVendidos: 2
+ranking: 3
+suma: 120
+calificacion: -0: 57
+dni: -0: 32231860
+fecha: -0: 20230910
+calificacion: -1: 63
+dni: -1: 17750908
+fecha: -1: 20231220
+-----
+num: 91
+codigo: HWM4049
+titulo: Romper el circulo
+autor: Colleen Hoover
+cantLibrosVendidos: 2
+ranking: 3
+suma: 120
+calificacion: -0: 93
+dni: -0: 72832218
+fecha: -0: 20240122
+calificacion: -1: 27
+dni: -1: 38724322
+fecha: -1: 20231229
+-----
+num: 92
+codigo: EWI3090
+titulo: La seniora Dalloway
+autor: Virginia Woolf
+cantLibrosVendidos: 1
+ranking: 1
+suma: 4
+calificacion: -0: 4
+dni: -0: 92240876
+fecha: -0: 20240323
+-----
+num: 93
+codigo: JZC7527
+titulo: El tambor de hojalata
+autor: Gunter Grass
+cantLibrosVendidos: 3
+ranking: 3
+suma: 193
+calificacion: -0: 14
+dni: -0: 67066631
+fecha: -0: 20230910
+calificacion: -1: 88
+dni: -1: 20610190
+fecha: -1: 20240306
+calificacion: -2: 91
+dni: -2: 33958767
+fecha: -2: 20240508
+-----
+num: 94
+codigo: WYE2119
+titulo: El asedio
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 3
+ranking: 3
+suma: 150
+calificacion: -0: 22
+dni: -0: 11750801
+fecha: -0: 20231013
+calificacion: -1: 95
+dni: -1: 69200503
+fecha: -1: 20240424
+calificacion: -2: 33
+dni: -2: 66747161
+fecha: -2: 20240107
+-----
+num: 95
+codigo: YKQ9278
+titulo: Alicia en el pais de las maravillas
+autor: Lewis Carroll
+cantLibrosVendidos: 1
+ranking: 5
+suma: 84
+calificacion: -0: 84
+dni: -0: 49516360
+fecha: -0: 20231204
+-----
+num: 96
+codigo: ZNF2241
+titulo: El extranio caso del Dr. Jekyll y Mr. Hyde
+autor: Robert Louis Stevenson
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 97
+codigo: CTW5846
+titulo: El medievo cristiano
+autor: Mario Merlino
+cantLibrosVendidos: 2
+ranking: 3
+suma: 112
+calificacion: -0: 13
+dni: -0: 42302422
+fecha: -0: 20230915
+calificacion: -1: 99
+dni: -1: 60740809
+fecha: -1: 20240318
+-----
+num: 98
+codigo: FWP8469
+titulo: Justine o los infortunios
+autor: Charles Dickens
+cantLibrosVendidos: 1
+ranking: 3
+suma: 56
+calificacion: -0: 56
+dni: -0: 37751890
+fecha: -0: 20231108
+-----
+num: 99
+codigo: CRY6839
+titulo: Ricardo III
+autor: William Shakespeare
+cantLibrosVendidos: 5
+ranking: 2
+suma: 240
+calificacion: -0: 93
+dni: -0: 34460612
+fecha: -0: 20231015
+calificacion: -1: 37
+dni: -1: 33958767
+fecha: -1: 20231103
+calificacion: -2: 72
+dni: -2: 37751890
+fecha: -2: 20240427
+calificacion: -3: 9
+dni: -3: 11750801
+fecha: -3: 20240128
+calificacion: -4: 29
+dni: -4: 81082011
+fecha: -4: 20240325
+-----
+num: 100
+codigo: WMN3648
+titulo: Pasaje a la India
+autor: E. M. Forster
+cantLibrosVendidos: 1
+ranking: 1
+suma: 8
+calificacion: -0: 8
+dni: -0: 20449598
+fecha: -0: 20240102
+-----
+num: 101
+codigo: QBL9575
+titulo: Los miserables
+autor: Victor Hugo
+cantLibrosVendidos: 2
+ranking: 2
+suma: 98
+calificacion: -0: 49
+dni: -0: 17750908
+fecha: -0: 20240502
+calificacion: -1: 49
+dni: -1: 42302422
+fecha: -1: 20240128
+-----
+num: 102
+codigo: VOI0019
+titulo: El evangelio según Jesucristo
+autor: Jose Saramago
+cantLibrosVendidos: 1
+ranking: 5
+suma: 79
+calificacion: -0: 79
+dni: -0: 11750801
+fecha: -0: 20231018
+-----
+num: 103
+codigo: TMR5068
+titulo: Los tres mosqueteros
+autor: Alejandro Dumas
+cantLibrosVendidos: 1
+ranking: 2
+suma: 41
+calificacion: -0: 41
+dni: -0: 38724322
+fecha: -0: 20240505
+-----
+num: 104
+codigo: RWW7975
+titulo: El nombre de la rosa
+autor: Umberto Eco
+cantLibrosVendidos: 4
+ranking: 2
+suma: 183
+calificacion: -0: 10
+dni: -0: 65071478
+fecha: -0: 20231218
+calificacion: -1: 71
+dni: -1: 33583840
+fecha: -1: 20240412
+calificacion: -2: 60
+dni: -2: 32231860
+fecha: -2: 20231209
+calificacion: -3: 42
+dni: -3: 42302422
+fecha: -3: 20240402
+-----
+num: 105
+codigo: LJE6687
+titulo: El codigo Da Vinci
+autor: Dan Brown
+cantLibrosVendidos: 1
+ranking: 1
+suma: 22
+calificacion: -0: 22
+dni: -0: 83265244
+fecha: -0: 20231122
+-----
+num: 106
+codigo: PPI9259
+titulo: Revolucion
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 2
+ranking: 2
+suma: 97
+calificacion: -0: 86
+dni: -0: 60740809
+fecha: -0: 20231008
+calificacion: -1: 11
+dni: -1: 92240876
+fecha: -1: 20240324
+-----
+num: 107
+codigo: ZYF6683
+titulo: Harry Potter y la Orden del Fenix ( Harry Potter 5)
+autor: J. K. Rowling
+cantLibrosVendidos: 2
+ranking: 3
+suma: 111
+calificacion: -0: 57
+dni: -0: 17750908
+fecha: -0: 20231130
+calificacion: -1: 54
+dni: -1: 38724322
+fecha: -1: 20230918
+-----
+num: 108
+codigo: GKG6581
+titulo: Hombres buenos
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 1
+ranking: 1
+suma: 10
+calificacion: -0: 10
+dni: -0: 69200503
+fecha: -0: 20240128
+-----
+num: 109
+codigo: WWT1581
+titulo: La piel del tambor
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 3
+ranking: 3
+suma: 186
+calificacion: -0: 32
+dni: -0: 27109544
+fecha: -0: 20240429
+calificacion: -1: 89
+dni: -1: 83265244
+fecha: -1: 20240317
+calificacion: -2: 65
+dni: -2: 27109544
+fecha: -2: 20240127
+-----
+num: 110
+codigo: CMP1150
+titulo: Don Quijote de la Mancha
+autor: Miguel de Cervantes
+cantLibrosVendidos: 2
+ranking: 5
+suma: 159
+calificacion: -0: 92
+dni: -0: 81462164
+fecha: -0: 20230906
+calificacion: -1: 67
+dni: -1: 27109544
+fecha: -1: 20230920
+-----
+num: 111
+codigo: CPE5718
+titulo: Paris era una fiesta
+autor: Hernest Hemingway
+cantLibrosVendidos: 1
+ranking: 1
+suma: 19
+calificacion: -0: 19
+dni: -0: 69200503
+fecha: -0: 20230921
+-----
+num: 112
+codigo: SHF2360
+titulo: Un dia de colera
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 113
+codigo: ETV5056
+titulo: Moby Dick
+autor: Herman Melville
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 114
+codigo: USE5598
+titulo: Fortaleza digitali
+autor: Dan Brown
+cantLibrosVendidos: 2
+ranking: 2
+suma: 76
+calificacion: -0: 39
+dni: -0: 17750908
+fecha: -0: 20240213
+calificacion: -1: 37
+dni: -1: 57431952
+fecha: -1: 20240312
+-----
+num: 115
+codigo: TVR7016
+titulo: El corazon de las tinieblas
+autor: Joseph Conrad
+cantLibrosVendidos: 1
+ranking: 3
+suma: 71
+calificacion: -0: 71
+dni: -0: 45834351
+fecha: -0: 20231123
+-----
+num: 116
+codigo: BSX2922
+titulo: Una historia de Espania
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 1
+ranking: 5
+suma: 97
+calificacion: -0: 97
+dni: -0: 54393647
+fecha: -0: 20240203
+-----
+num: 117
+codigo: GXB5722
+titulo: Cumbres borrascosas
+autor: Emily Brontë
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 118
+codigo: ZLE2920
+titulo: Historia de la Edad Media
+autor: Indro Montanelli
+cantLibrosVendidos: 2
+ranking: 5
+suma: 175
+calificacion: -0: 83
+dni: -0: 35030611
+fecha: -0: 20231209
+calificacion: -1: 92
+dni: -1: 34460612
+fecha: -1: 20240314
+-----
+num: 119
+codigo: MNL3677
+titulo: El Hobbit
+autor: J.R.R. Tolkien
+cantLibrosVendidos: 2
+ranking: 3
+suma: 126
+calificacion: -0: 34
+dni: -0: 72832218
+fecha: -0: 20230925
+calificacion: -1: 92
+dni: -1: 92240876
+fecha: -1: 20240225
+-----
+num: 120
+codigo: ZAL2738
+titulo: 1984
+autor: George Orwell
+cantLibrosVendidos: 1
+ranking: 1
+suma: 12
+calificacion: -0: 12
+dni: -0: 51235238
+fecha: -0: 20240507
+-----
+num: 121
+codigo: PQZ1316
+titulo: La Eneida
+autor: Virgilio
+cantLibrosVendidos: 5
+ranking: 3
+suma: 287
+calificacion: -0: 73
+dni: -0: 34460612
+fecha: -0: 20240402
+calificacion: -1: 49
+dni: -1: 49516360
+fecha: -1: 20231010
+calificacion: -2: 75
+dni: -2: 14268463
+fecha: -2: 20240221
+calificacion: -3: 33
+dni: -3: 21344013
+fecha: -3: 20231101
+calificacion: -4: 57
+dni: -4: 14500753
+fecha: -4: 20231021
+-----
+num: 122
+codigo: DDU0764
+titulo: Dioses tumbas y sabios
+autor: C. W. Ceram
+cantLibrosVendidos: 1
+ranking: 1
+suma: 4
+calificacion: -0: 4
+dni: -0: 60740809
+fecha: -0: 20230906
+-----
+num: 123
+codigo: EEJ4830
+titulo: El Principito
+autor: Antoine de Saint-Exupery
+cantLibrosVendidos: 2
+ranking: 3
+suma: 114
+calificacion: -0: 98
+dni: -0: 66747161
+fecha: -0: 20230922
+calificacion: -1: 16
+dni: -1: 87804471
+fecha: -1: 20231104
+-----
+num: 124
+codigo: DPZ8059
+titulo: El hombre que pudo reinar
+autor: Rudyard Kipling
+cantLibrosVendidos: 1
+ranking: 5
+suma: 91
+calificacion: -0: 91
+dni: -0: 45002711
+fecha: -0: 20240323
+-----
+num: 125
+codigo: JJV7549
+titulo: Los hombres que no amaban a las mujeres
+autor: Stieg Larsson
+cantLibrosVendidos: 1
+ranking: 5
+suma: 84
+calificacion: -0: 84
+dni: -0: 33583840
+fecha: -0: 20240206
+-----
+num: 126
+codigo: JXK3142
+titulo: En el camino
+autor: Jack Kerouac
+cantLibrosVendidos: 5
+ranking: 2
+suma: 199
+calificacion: -0: 49
+dni: -0: 69200503
+fecha: -0: 20240216
+calificacion: -1: 41
+dni: -1: 87804471
+fecha: -1: 20231205
+calificacion: -2: 59
+dni: -2: 81082011
+fecha: -2: 20240111
+calificacion: -3: 20
+dni: -3: 96056368
+fecha: -3: 20240323
+calificacion: -4: 30
+dni: -4: 37328103
+fecha: -4: 20240225
+-----
+num: 127
+codigo: USM9579
+titulo: El perfume
+autor: Patrick Suskind
+cantLibrosVendidos: 1
+ranking: 1
+suma: 20
+calificacion: -0: 20
+dni: -0: 21344013
+fecha: -0: 20230923
+-----
+num: 128
+codigo: JGG5049
+titulo: El eterno marido
+autor: Fiodor Dostoyevski
+cantLibrosVendidos: 2
+ranking: 1
+suma: 22
+calificacion: -0: 4
+dni: -0: 61212473
+fecha: -0: 20240109
+calificacion: -1: 18
+dni: -1: 57431952
+fecha: -1: 20240213
+-----
+num: 129
+codigo: MIK5358
+titulo: La transformacion del mundo
+autor: Jürgen Osterhammel
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 130
+codigo: BDK4183
+titulo: La isla del tesoro
+autor: Robert Louis Stevenson
+cantLibrosVendidos: 2
+ranking: 2
+suma: 88
+calificacion: -0: 4
+dni: -0: 65830353
+fecha: -0: 20230930
+calificacion: -1: 84
+dni: -1: 72832218
+fecha: -1: 20240309
+-----
+num: 131
+codigo: ECT0289
+titulo: Juego de tronos
+autor: George R.R.Martin
+cantLibrosVendidos: 1
+ranking: 3
+suma: 63
+calificacion: -0: 63
+dni: -0: 27109544
+fecha: -0: 20231010
+-----
+num: 132
+codigo: DVR5984
+titulo: Mil soles esplendidos
+autor: Khaled Hosseini
+cantLibrosVendidos: 2
+ranking: 1
+suma: 34
+calificacion: -0: 2
+dni: -0: 63602514
+fecha: -0: 20231205
+calificacion: -1: 32
+dni: -1: 67066631
+fecha: -1: 20230917
+-----
+num: 133
+codigo: EBE0042
+titulo: Capitanes intrepidos
+autor: Rudyard Kipling
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 134
+codigo: CXW5879
+titulo: Los barcos se pierden en tierra
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 2
+ranking: 2
+suma: 95
+calificacion: -0: 10
+dni: -0: 81082011
+fecha: -0: 20240318
+calificacion: -1: 85
+dni: -1: 87804471
+fecha: -1: 20240326
+-----
+num: 135
+codigo: GOG7446
+titulo: El guardian entre el centeno
+autor: J. D. Salinger
+cantLibrosVendidos: 1
+ranking: 1
+suma: 24
+calificacion: -0: 24
+dni: -0: 96056368
+fecha: -0: 20231111
+-----
+num: 136
+codigo: QYH7021
+titulo: Historia del siglo XX: 1914-1991
+autor: Eric Hobsbawm
+cantLibrosVendidos: 1
+ranking: 5
+suma: 90
+calificacion: -0: 90
+dni: -0: 46582367
+fecha: -0: 20240108
+-----
+num: 137
+codigo: KCI5219
+titulo: El Maestro y Margarita
+autor: Mijail Bulgakov
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 138
+codigo: FMX8255
+titulo: Las aventuras de Huckleberry Finn
+autor: Mark Twain
+cantLibrosVendidos: 2
+ranking: 2
+suma: 67
+calificacion: -0: 7
+dni: -0: 86898639
+fecha: -0: 20230901
+calificacion: -1: 60
+dni: -1: 15129661
+fecha: -1: 20240328
+-----
+num: 139
+codigo: ZQY9966
+titulo: El suenio del tio
+autor: Fiodor Dostoyevski
+cantLibrosVendidos: 2
+ranking: 2
+suma: 75
+calificacion: -0: 28
+dni: -0: 11750801
+fecha: -0: 20231018
+calificacion: -1: 47
+dni: -1: 69200503
+fecha: -1: 20240304
+-----
+num: 140
+codigo: DXP8640
+titulo: El retrato de Dorian Gray
+autor: Oscar Wilde
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 141
+codigo: LRV5687
+titulo: La guerra del fin del mundo
+autor: Mario Vargas Llosa
+cantLibrosVendidos: 1
+ranking: 3
+suma: 62
+calificacion: -0: 62
+dni: -0: 33958767
+fecha: -0: 20231006
+-----
+num: 142
+codigo: EBT7258
+titulo: Linea de fuego
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 3
+ranking: 2
+suma: 145
+calificacion: -0: 20
+dni: -0: 46582367
+fecha: -0: 20240222
+calificacion: -1: 63
+dni: -1: 49516360
+fecha: -1: 20231217
+calificacion: -2: 62
+dni: -2: 81462164
+fecha: -2: 20240318
+-----
+num: 143
+codigo: ELC8965
+titulo: Las aventuras de Rocambole
+autor: Ponson Du Terrail
+cantLibrosVendidos: 1
+ranking: 5
+suma: 78
+calificacion: -0: 78
+dni: -0: 87804471
+fecha: -0: 20240105
+-----
+num: 144
+codigo: ULM8751
+titulo: La sumisa
+autor: Fiodor Dostoyevski
+cantLibrosVendidos: 1
+ranking: 5
+suma: 99
+calificacion: -0: 99
+dni: -0: 81462164
+fecha: -0: 20240220
+-----
+num: 145
+codigo: PGK5617
+titulo: El Rey Lear
+autor: William Shakespeare
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 146
+codigo: QFG6515
+titulo: El libro de la selva
+autor: Rudyard Kipling
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 147
+codigo: QVX9089
+titulo: Madame Bovary
+autor: Gustave Flaubert
+cantLibrosVendidos: 1
+ranking: 2
+suma: 30
+calificacion: -0: 30
+dni: -0: 37751890
+fecha: -0: 20230929
+-----
+num: 148
+codigo: QMI4747
+titulo: La isla de los amores infinitos
+autor: Daina Chaviano
+cantLibrosVendidos: 1
+ranking: 1
+suma: 1
+calificacion: -0: 1
+dni: -0: 47659552
+fecha: -0: 20240225
+-----
+num: 149
+codigo: SMW0186
+titulo: La sombra del viento
+autor: Carlos Ruiz Zafon
+cantLibrosVendidos: 2
+ranking: 1
+suma: 22
+calificacion: -0: 19
+dni: -0: 36699613
+fecha: -0: 20231025
+calificacion: -1: 3
+dni: -1: 65830353
+fecha: -1: 20240504
+-----
+num: 150
+codigo: HSE3213
+titulo: Por quien doblan las campanas
+autor: Hernest Hemingway
+cantLibrosVendidos: 1
+ranking: 1
+suma: 3
+calificacion: -0: 3
+dni: -0: 27109544
+fecha: -0: 20240129
+-----
+num: 151
+codigo: RZX8790
+titulo: El senior de las moscas
+autor: William Golding
+cantLibrosVendidos: 3
+ranking: 2
+suma: 100
+calificacion: -0: 43
+dni: -0: 33958767
+fecha: -0: 20240211
+calificacion: -1: 18
+dni: -1: 92240876
+fecha: -1: 20240509
+calificacion: -2: 39
+dni: -2: 42302422
+fecha: -2: 20231221
+-----
+num: 152
+codigo: XMT1768
+titulo: Los diarios de Adan y Eva
+autor: Mark Twain
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 153
+codigo: HGN9910
+titulo: La ciudad y los perros
+autor: Mario Vargas Llosa
+cantLibrosVendidos: 2
+ranking: 3
+suma: 120
+calificacion: -0: 42
+dni: -0: 38724322
+fecha: -0: 20230926
+calificacion: -1: 78
+dni: -1: 76693511
+fecha: -1: 20230909
+-----
+num: 154
+codigo: JNC0786
+titulo: Mi isla
+autor: Elisabet Benavent
+cantLibrosVendidos: 1
+ranking: 3
+suma: 54
+calificacion: -0: 54
+dni: -0: 14268463
+fecha: -0: 20231007
+-----
+num: 155
+codigo: HHR5161
+titulo: El francotirador paciente
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 1
+ranking: 1
+suma: 4
+calificacion: -0: 4
+dni: -0: 96056368
+fecha: -0: 20231208
+-----
+num: 156
+codigo: FNM6936
+titulo: Divina comedia
+autor: Dante Alighieri
+cantLibrosVendidos: 2
+ranking: 3
+suma: 101
+calificacion: -0: 65
+dni: -0: 27109544
+fecha: -0: 20240201
+calificacion: -1: 36
+dni: -1: 37751890
+fecha: -1: 20240420
+-----
+num: 157
+codigo: HVZ1228
+titulo: El húsar
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 1
+ranking: 3
+suma: 62
+calificacion: -0: 62
+dni: -0: 83265244
+fecha: -0: 20240216
+-----
+num: 158
+codigo: MKB4184
+titulo: Napoleon
+autor: Alejandro Dumas
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 159
+codigo: KBF4088
+titulo: Harry Potter y el prisionero de Azkaban (Harry Potter 3)
+autor: J.K. Rowling
+cantLibrosVendidos: 1
+ranking: 3
+suma: 67
+calificacion: -0: 67
+dni: -0: 81082011
+fecha: -0: 20240307
+-----
+num: 160
+codigo: ZQD4253
+titulo: Harry Potter y el misterio del principe ( Harry Potter 6)
+autor: J. K. Rowling
+cantLibrosVendidos: 1
+ranking: 5
+suma: 75
+calificacion: -0: 75
+dni: -0: 21344013
+fecha: -0: 20240115
+-----
+num: 161
+codigo: PHL4155
+titulo: El idiota
+autor: Fiodor Dostoyevski
+cantLibrosVendidos: 1
+ranking: 1
+suma: 2
+calificacion: -0: 2
+dni: -0: 57431952
+fecha: -0: 20240509
+-----
+num: 162
+codigo: EYV0597
+titulo: Cuentos de la selva
+autor: Horacio Quiroga
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 163
+codigo: AKU9740
+titulo: Conversacion en La Catedral
+autor: Mario Vargas Llosa
+cantLibrosVendidos: 1
+ranking: 2
+suma: 35
+calificacion: -0: 35
+dni: -0: 45002711
+fecha: -0: 20240220
+-----
+num: 164
+codigo: ACM9578
+titulo: Amadis de gaula
+autor: Garci Rodriguez Montalvo
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 165
+codigo: OCI8959
+titulo: David Copperfield
+autor: Charles Dickens
+cantLibrosVendidos: 2
+ranking: 3
+suma: 115
+calificacion: -0: 96
+dni: -0: 47659552
+fecha: -0: 20231018
+calificacion: -1: 19
+dni: -1: 92240876
+fecha: -1: 20240424
+-----
+num: 166
+codigo: EJE8138
+titulo: Yawar fiesta
+autor: Jose Maria Arguedas
+cantLibrosVendidos: 2
+ranking: 5
+suma: 170
+calificacion: -0: 90
+dni: -0: 79743481
+fecha: -0: 20240224
+calificacion: -1: 80
+dni: -1: 83265244
+fecha: -1: 20240413
+-----
+num: 167
+codigo: WHU1288
+titulo: La hija italiana
+autor: Soraya Lane
+cantLibrosVendidos: 1
+ranking: 3
+suma: 65
+calificacion: -0: 65
+dni: -0: 42302422
+fecha: -0: 20231225
+-----
+num: 168
+codigo: ICU6090
+titulo: La fiesta del chivo
+autor: Mario Vargas Llosa
+cantLibrosVendidos: 1
+ranking: 3
+suma: 50
+calificacion: -0: 50
+dni: -0: 87804471
+fecha: -0: 20231210
+-----
+num: 169
+codigo: BUC5125
+titulo: El faro de Stalingrado
+autor: Iain MacGregor
+cantLibrosVendidos: 1
+ranking: 1
+suma: 24
+calificacion: -0: 24
+dni: -0: 14500753
+fecha: -0: 20240125
+-----
+num: 170
+codigo: BUY4915
+titulo: La sombra del aguila
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 1
+ranking: 1
+suma: 14
+calificacion: -0: 14
+dni: -0: 76693511
+fecha: -0: 20231101
+-----
+num: 171
+codigo: USK1312
+titulo: Un mundo sin fin
+autor: Ken Follett
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 172
+codigo: VFO4193
+titulo: La catedral del mar
+autor: Ildefonso Falcones
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 173
+codigo: OWO8918
+titulo: Origen
+autor: Dan Brown
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 174
+codigo: YZV6954
+titulo: Corazon de las tinieblas
+autor: Joseph Conrad
+cantLibrosVendidos: 3
+ranking: 3
+suma: 184
+calificacion: -0: 59
+dni: -0: 42302422
+fecha: -0: 20240311
+calificacion: -1: 56
+dni: -1: 58717040
+fecha: -1: 20240212
+calificacion: -2: 69
+dni: -2: 48053960
+fecha: -2: 20230925
+-----
+num: 175
+codigo: CLG5566
+titulo: Pantaleon y las visitadoras
+autor: Mario Vargas Llosa
+cantLibrosVendidos: 1
+ranking: 3
+suma: 65
+calificacion: -0: 65
+dni: -0: 81462164
+fecha: -0: 20231127
+-----
+num: 176
+codigo: IUI3314
+titulo: El coronel no tiene quien le escriba
+autor: Gabriel Garcia Marquez
+cantLibrosVendidos: 1
+ranking: 3
+suma: 58
+calificacion: -0: 58
+dni: -0: 47659552
+fecha: -0: 20231129
+-----
+num: 177
+codigo: EFD3949
+titulo: La divina comedia
+autor: Dante Alighieri
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 178
+codigo: FVV9246
+titulo: Matar a un ruisenior
+autor: Harper Lee
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 179
+codigo: SPM4763
+titulo: Eva
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 1
+ranking: 2
+suma: 49
+calificacion: -0: 49
+dni: -0: 54393647
+fecha: -0: 20231006
+-----
+num: 180
+codigo: BHD6079
+titulo: Zorba el griego
+autor: Nikos Kazantzakis
+cantLibrosVendidos: 1
+ranking: 3
+suma: 74
+calificacion: -0: 74
+dni: -0: 14268463
+fecha: -0: 20230923
+-----
+num: 181
+codigo: RYI5447
+titulo: El corazon es un cazador solitario
+autor: Carson Mccullers
+cantLibrosVendidos: 1
+ranking: 1
+suma: 23
+calificacion: -0: 23
+dni: -0: 17750908
+fecha: -0: 20231113
+-----
+num: 182
+codigo: BUB3833
+titulo: Otelo
+autor: William Shakespeare
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 183
+codigo: EUO8195
+titulo: El jardin del Eden
+autor: Hernest Hemingway
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 184
+codigo: KSX7995
+titulo: El simbolo perdidoi
+autor: Dan Brown
+cantLibrosVendidos: 2
+ranking: 3
+suma: 104
+calificacion: -0: 29
+dni: -0: 33583840
+fecha: -0: 20240411
+calificacion: -1: 75
+dni: -1: 67066631
+fecha: -1: 20240124
+-----
+num: 185
+codigo: MTZ2227
+titulo: Hamlet
+autor: William Shakespeare
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 186
+codigo: JSM8271
+titulo: La Odisea
+autor: Homero
+cantLibrosVendidos: 3
+ranking: 5
+suma: 235
+calificacion: -0: 81
+dni: -0: 15129661
+fecha: -0: 20240131
+calificacion: -1: 79
+dni: -1: 65830353
+fecha: -1: 20231223
+calificacion: -2: 75
+dni: -2: 72832218
+fecha: -2: 20240206
+-----
+num: 187
+codigo: KVL6246
+titulo: La edad media - barbaros - cristianos y musulmanes
+autor: Umberto Eco
+cantLibrosVendidos: 2
+ranking: 5
+suma: 194
+calificacion: -0: 99
+dni: -0: 81462164
+fecha: -0: 20230919
+calificacion: -1: 95
+dni: -1: 47659552
+fecha: -1: 20240420
+-----
+num: 188
+codigo: QMJ4188
+titulo: Emma
+autor: Jane Austen
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 189
+codigo: QKH2262
+titulo: Fiesta
+autor: Hernest Hemingway
+cantLibrosVendidos: 2
+ranking: 3
+suma: 121
+calificacion: -0: 88
+dni: -0: 42302422
+fecha: -0: 20231228
+calificacion: -1: 33
+dni: -1: 63602514
+fecha: -1: 20231228
+-----
+num: 190
+codigo: HXB2949
+titulo: El medico
+autor: Noah Gordon
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 191
+codigo: OBH4691
+titulo: Crimen y castigo
+autor: Fiodor Dostoyevski
+cantLibrosVendidos: 1
+ranking: 2
+suma: 37
+calificacion: -0: 37
+dni: -0: 37328103
+fecha: -0: 20231109
+-----
+num: 192
+codigo: IPE3429
+titulo: Sidi
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 1
+ranking: 3
+suma: 70
+calificacion: -0: 70
+dni: -0: 65071478
+fecha: -0: 20230929
+-----
+num: 193
+codigo: ILA4795
+titulo: La ladrona de libros
+autor: Markus ZusaK
+cantLibrosVendidos: 1
+ranking: 2
+suma: 36
+calificacion: -0: 36
+dni: -0: 14500753
+fecha: -0: 20231224
+-----
+num: 194
+codigo: EFQ0297
+titulo: Trampa 22
+autor: Joseph Heller
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 195
+codigo: BRG4234
+titulo: La telarania de Carlota
+autor: E. B. White
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 196
+codigo: EZP0333
+titulo: La Reina del Sur
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 2
+ranking: 2
+suma: 92
+calificacion: -0: 63
+dni: -0: 81462164
+fecha: -0: 20240427
+calificacion: -1: 29
+dni: -1: 37328103
+fecha: -1: 20240103
+-----
+num: 197
+codigo: MBB0685
+titulo: El capitan Alatriste
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 1
+ranking: 5
+suma: 97
+calificacion: -0: 97
+dni: -0: 88080249
+fecha: -0: 20231113
+-----
+num: 198
+codigo: CST1133
+titulo: Inferno
+autor: Dan Brown
+cantLibrosVendidos: 2
+ranking: 5
+suma: 160
+calificacion: -0: 60
+dni: -0: 37328103
+fecha: -0: 20240110
+calificacion: -1: 100
+dni: -1: 67066631
+fecha: -1: 20240401
+-----
+num: 199
+codigo: RNG2321
+titulo: El Aleph
+autor: Jorge Luis Borges
+cantLibrosVendidos: 2
+ranking: 2
+suma: 65
+calificacion: -0: 58
+dni: -0: 87804471
+fecha: -0: 20240404
+calificacion: -1: 7
+dni: -1: 58717040
+fecha: -1: 20230926
+-----
+num: 200
+codigo: RSK1164
+titulo: El amor en los tiempos del colera
+autor: Gabriel Garcia Marquez
+cantLibrosVendidos: 3
+ranking: 3
+suma: 198
+calificacion: -0: 100
+dni: -0: 38724322
+fecha: -0: 20231218
+calificacion: -1: 38
+dni: -1: 33583840
+fecha: -1: 20240406
+calificacion: -2: 60
+dni: -2: 83265244
+fecha: -2: 20240508
+-----
+num: 201
+codigo: WYS2674
+titulo: Secuestrado
+autor: Robert Louis Stevenson
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 202
+codigo: CRR5443
+titulo: Un mundo feliz
+autor: Aldous Huxley
+cantLibrosVendidos: 3
+ranking: 2
+suma: 101
+calificacion: -0: 40
+dni: -0: 57431952
+fecha: -0: 20240224
+calificacion: -1: 10
+dni: -1: 66747161
+fecha: -1: 20240128
+calificacion: -2: 51
+dni: -2: 81082011
+fecha: -2: 20231002
+-----
+num: 203
+codigo: JEN0751
+titulo: Ana Karenina
+autor: Leon Tolstoi
+cantLibrosVendidos: 1
+ranking: 1
+suma: 5
+calificacion: -0: 5
+dni: -0: 21344013
+fecha: -0: 20240301
+-----
+num: 204
+codigo: IGT8523
+titulo: Una columna de fuego
+autor: Ken Follett
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 205
+codigo: FYV9055
+titulo: Macbeth
+autor: William Shakespeare
+cantLibrosVendidos: 2
+ranking: 2
+suma: 80
+calificacion: -0: 58
+dni: -0: 65071478
+fecha: -0: 20231202
+calificacion: -1: 22
+dni: -1: 14268463
+fecha: -1: 20240413
+-----
+num: 206
+codigo: LGB2311
+titulo: Decameron
+autor: Giovanni Boccaccio
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 207
+codigo: MEH2993
+titulo: Hijos de un tiempo perdido
+autor: Jose Maria Bermúdez de Castro
+cantLibrosVendidos: 1
+ranking: 3
+suma: 58
+calificacion: -0: 58
+dni: -0: 88080249
+fecha: -0: 20230920
+-----
+num: 208
+codigo: CJN4376
+titulo: Harry Potter y la camara secreta (Harry Potter 2)
+autor: J. K. Rowling
+cantLibrosVendidos: 1
+ranking: 5
+suma: 78
+calificacion: -0: 78
+dni: -0: 86898639
+fecha: -0: 20240209
+-----
+num: 209
+codigo: ION3794
+titulo: Crepúsculo
+autor: Stephenie Meyer
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 210
+codigo: HDA2333
+titulo: Lituma en los Andes
+autor: Mario Vargas Llosa
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 211
+codigo: CKR6798
+titulo: El lobo estepario
+autor: Hermann Hesse
+cantLibrosVendidos: 1
+ranking: 5
+suma: 77
+calificacion: -0: 77
+dni: -0: 21344013
+fecha: -0: 20231013
+-----
+num: 212
+codigo: GDA4236
+titulo: Gente normal
+autor: Sally Rooney
+cantLibrosVendidos: 1
+ranking: 3
+suma: 56
+calificacion: -0: 56
+dni: -0: 65830353
+fecha: -0: 20240324
+-----
+num: 213
+codigo: BAP2859
+titulo: El túnel
+autor: Ernesto Sabato
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 214
+codigo: EHX6253
+titulo: La isla de las tormentas
+autor: Ken Follett
+cantLibrosVendidos: 1
+ranking: 2
+suma: 39
+calificacion: -0: 39
+dni: -0: 14268463
+fecha: -0: 20231226
+-----
+num: 215
+codigo: OUU5470
+titulo: La carta esferica
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 216
+codigo: PQB0775
+titulo: El diablo de la botella y otros cuentos
+autor: Robert Louis Stevenson
+cantLibrosVendidos: 2
+ranking: 2
+suma: 57
+calificacion: -0: 13
+dni: -0: 83265244
+fecha: -0: 20231022
+calificacion: -1: 44
+dni: -1: 17750908
+fecha: -1: 20240103
+-----
+num: 217
+codigo: DEF7625
+titulo: Las uvas de la ira
+autor: John SteinbecK
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 218
+codigo: UDS2730
+titulo: Los Nibelungos
+autor: Anonimo
+cantLibrosVendidos: 2
+ranking: 3
+suma: 146
+calificacion: -0: 57
+dni: -0: 50860318
+fecha: -0: 20240324
+calificacion: -1: 89
+dni: -1: 76693511
+fecha: -1: 20230909
+-----
+num: 219
+codigo: DTH6788
+titulo: Los perros duros no bailan
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 220
+codigo: KLV1872
+titulo: Orgullo y prejuicio
+autor: Jane Austen
+cantLibrosVendidos: 1
+ranking: 5
+suma: 98
+calificacion: -0: 98
+dni: -0: 11750801
+fecha: -0: 20231119
+-----
+num: 221
+codigo: BUT4998
+titulo: Lolita
+autor: Vladimir Nabokov
+cantLibrosVendidos: 1
+ranking: 2
+suma: 44
+calificacion: -0: 44
+dni: -0: 35030611
+fecha: -0: 20240418
+-----
+num: 222
+codigo: XBC5847
+titulo: Tiempos recios
+autor: Mario Vargas Llosa
+cantLibrosVendidos: 1
+ranking: 1
+suma: 12
+calificacion: -0: 12
+dni: -0: 14268463
+fecha: -0: 20231118
+-----
+num: 223
+codigo: AZL1098
+titulo: El extranjero
+autor: Albert Camus
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 224
+codigo: BZY0235
+titulo: Fausto
+autor: Johann Wolfgang Von Goethe
+cantLibrosVendidos: 5
+ranking: 3
+suma: 262
+calificacion: -0: 5
+dni: -0: 14268463
+fecha: -0: 20230924
+calificacion: -1: 61
+dni: -1: 45834351
+fecha: -1: 20231228
+calificacion: -2: 44
+dni: -2: 45181396
+fecha: -2: 20240326
+calificacion: -3: 92
+dni: -3: 58717040
+fecha: -3: 20240103
+calificacion: -4: 60
+dni: -4: 65830353
+fecha: -4: 20240106
+-----
+num: 225
+codigo: QQQ4712
+titulo: Nuestra Seniora de Paris
+autor: Victor Hugo
+cantLibrosVendidos: 1
+ranking: 3
+suma: 53
+calificacion: -0: 53
+dni: -0: 21344013
+fecha: -0: 20231231
+-----
+num: 226
+codigo: BTX3816
+titulo: El jugador
+autor: Fiodor Dostoyevski
+cantLibrosVendidos: 3
+ranking: 2
+suma: 149
+calificacion: -0: 68
+dni: -0: 92240876
+fecha: -0: 20240323
+calificacion: -1: 80
+dni: -1: 37751890
+fecha: -1: 20240410
+calificacion: -2: 1
+dni: -2: 57431952
+fecha: -2: 20240422
+-----
+num: 227
+codigo: MLC7198
+titulo: Los rios profundos
+autor: Jose Maria Arguedas
+cantLibrosVendidos: 1
+ranking: 1
+suma: 23
+calificacion: -0: 23
+dni: -0: 20449598
+fecha: -0: 20231021
+-----
+num: 228
+codigo: JZU0977
+titulo: El alquimista
+autor: Paulo Coelho
+cantLibrosVendidos: 1
+ranking: 5
+suma: 82
+calificacion: -0: 82
+dni: -0: 83265244
+fecha: -0: 20231106
+-----
+num: 229
+codigo: AGQ7769
+titulo: La Flecha Negra
+autor: Robert Louis Stevenson
+cantLibrosVendidos: 1
+ranking: 2
+suma: 49
+calificacion: -0: 49
+dni: -0: 14268463
+fecha: -0: 20231018
+-----
+num: 230
+codigo: BXE0974
+titulo: Los viajes de Gulliver
+autor: Jonathan Swift
+cantLibrosVendidos: 2
+ranking: 3
+suma: 111
+calificacion: -0: 53
+dni: -0: 83265244
+fecha: -0: 20230924
+calificacion: -1: 58
+dni: -1: 21344013
+fecha: -1: 20240406
+-----
+num: 231
+codigo: UFK9792
+titulo: El psicoanalista
+autor: John Katzenbach
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 232
+codigo: XRL3393
+titulo: Le dedico mi silencio
+autor: Mario Vargas Llosa
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 233
+codigo: GUN8655
+titulo: Angeles y demoniosi
+autor: Dan Brown
+cantLibrosVendidos: 1
+ranking: 1
+suma: 13
+calificacion: -0: 13
+dni: -0: 34460612
+fecha: -0: 20240422
+-----
+num: 234
+codigo: NGQ6935
+titulo: La casa de los espiritus
+autor: Isabel Allende
+cantLibrosVendidos: 1
+ranking: 2
+suma: 25
+calificacion: -0: 25
+dni: -0: 47659552
+fecha: -0: 20240119
+-----
+num: 235
+codigo: PWB4941
+titulo: La montania magica
+autor: Thomas Mann
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 236
+codigo: NEW1762
+titulo: Territorio comanche
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 2
+ranking: 3
+suma: 105
+calificacion: -0: 40
+dni: -0: 20449598
+fecha: -0: 20240119
+calificacion: -1: 65
+dni: -1: 37751890
+fecha: -1: 20240301
+-----
+num: 237
+codigo: QHZ8547
+titulo: Adios a las armas
+autor: Hernest Hemingway
+cantLibrosVendidos: 1
+ranking: 5
+suma: 89
+calificacion: -0: 89
+dni: -0: 57431952
+fecha: -0: 20230916
+-----
+num: 238
+codigo: PCS8992
+titulo: Y no quedo ninguno
+autor: Agatha Christie
+cantLibrosVendidos: 1
+ranking: 1
+suma: 3
+calificacion: -0: 3
+dni: -0: 21344013
+fecha: -0: 20240304
+-----
+num: 239
+codigo: VFI8064
+titulo: A sangre fria
+autor: Truman Capote
+cantLibrosVendidos: 2
+ranking: 5
+suma: 172
+calificacion: -0: 85
+dni: -0: 47659552
+fecha: -0: 20231208
+calificacion: -1: 87
+dni: -1: 14268463
+fecha: -1: 20230905
+-----
+num: 240
+codigo: XTM9385
+titulo: El mundo
+autor: Simon Sebag Montefiore
+cantLibrosVendidos: 1
+ranking: 2
+suma: 29
+calificacion: -0: 29
+dni: -0: 60740809
+fecha: -0: 20230911
+-----
+num: 241
+codigo: VDL9379
+titulo: Los juegos del hambre
+autor: Suzanne Collins
+cantLibrosVendidos: 1
+ranking: 5
+suma: 93
+calificacion: -0: 93
+dni: -0: 11750801
+fecha: -0: 20240225
+-----
+num: 242
+codigo: IFL0150
+titulo: Romeo y Julieta
+autor: William Shakespeare
+cantLibrosVendidos: 3
+ranking: 3
+suma: 155
+calificacion: -0: 99
+dni: -0: 14268463
+fecha: -0: 20240507
+calificacion: -1: 45
+dni: -1: 14268463
+fecha: -1: 20240319
+calificacion: -2: 11
+dni: -2: 60740809
+fecha: -2: 20230913
+-----
+num: 243
+codigo: JZQ8143
+titulo: Suenios de robot
+autor: Isaac Asimov
+cantLibrosVendidos: 3
+ranking: 2
+suma: 129
+calificacion: -0: 81
+dni: -0: 57431952
+fecha: -0: 20240331
+calificacion: -1: 4
+dni: -1: 51235238
+fecha: -1: 20231002
+calificacion: -2: 44
+dni: -2: 42302422
+fecha: -2: 20240125
+-----
+num: 244
+codigo: SXT1015
+titulo: Mientras agonizo
+autor: William Faulkner
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 245
+codigo: KGO1734
+titulo: Una historia del mundo
+autor: Andrew Marr
+cantLibrosVendidos: 3
+ranking: 3
+suma: 161
+calificacion: -0: 72
+dni: -0: 11750801
+fecha: -0: 20230928
+calificacion: -1: 47
+dni: -1: 66747161
+fecha: -1: 20231001
+calificacion: -2: 42
+dni: -2: 69200503
+fecha: -2: 20231030
+-----
+num: 246
+codigo: SMI7078
+titulo: Los cachorros
+autor: Mario Vargas Llosa
+cantLibrosVendidos: 1
+ranking: 1
+suma: 24
+calificacion: -0: 24
+dni: -0: 92240876
+fecha: -0: 20240212
+-----
+num: 247
+codigo: RAO4129
+titulo: Stalingrado
+autor: Jonathan Trigg
+cantLibrosVendidos: 1
+ranking: 1
+suma: 21
+calificacion: -0: 21
+dni: -0: 15129661
+fecha: -0: 20231103
+-----
+num: 248
+codigo: VYG3594
+titulo: Los demonios
+autor: Fiodor Dostoyevski
+cantLibrosVendidos: 1
+ranking: 1
+suma: 22
+calificacion: -0: 22
+dni: -0: 34460612
+fecha: -0: 20231004
+-----
+num: 249
+codigo: HLC2748
+titulo: El senior de los anillos (Trilogia)
+autor: J.R.R.Tolkien
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 250
+codigo: GJM4671
+titulo: Origenes
+autor: Lewis Dartnell
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 251
+codigo: VYK6352
+titulo: Armas germenes y acero
+autor: Jared Diamond
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 252
+codigo: VSG3432
+titulo: Bajo bandera negra
+autor: David Cordingly
+cantLibrosVendidos: 4
+ranking: 3
+suma: 266
+calificacion: -0: 83
+dni: -0: 57431952
+fecha: -0: 20230917
+calificacion: -1: 79
+dni: -1: 60740809
+fecha: -1: 20231221
+calificacion: -2: 51
+dni: -2: 92240876
+fecha: -2: 20240227
+calificacion: -3: 53
+dni: -3: 65830353
+fecha: -3: 20231210
+-----
+num: 253
+codigo: OQK1590
+titulo: Cometas en el cielo
+autor: Khaled Hosseini
+cantLibrosVendidos: 1
+ranking: 3
+suma: 61
+calificacion: -0: 61
+dni: -0: 14500753
+fecha: -0: 20231024
+-----
+num: 254
+codigo: JXC1015
+titulo: Robinson Crusoe
+autor: Daniel Defoe
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 255
+codigo: TAB4639
+titulo: El color que cayo del cielo
+autor: H. P. Lovecraft
+cantLibrosVendidos: 2
+ranking: 1
+suma: 49
+calificacion: -0: 18
+dni: -0: 42302422
+fecha: -0: 20230929
+calificacion: -1: 31
+dni: -1: 88080249
+fecha: -1: 20240113
+-----
+num: 256
+codigo: YXF2137
+titulo: En agosto nos vemos
+autor: Gabriel Garcia Marquez
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 257
+codigo: SIR3963
+titulo: Memorias de una geisha
+autor: Arthur Golden
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 258
+codigo: ALH8812
+titulo: Guerra y Paz
+autor: Leon Tolstoi
+cantLibrosVendidos: 2
+ranking: 3
+suma: 144
+calificacion: -0: 46
+dni: -0: 14500753
+fecha: -0: 20231224
+calificacion: -1: 98
+dni: -1: 83265244
+fecha: -1: 20231219
+-----
+num: 259
+codigo: UCA0857
+titulo: SPQR: una historia de la antigua Roma
+autor: Mary Beard
+cantLibrosVendidos: 1
+ranking: 1
+suma: 12
+calificacion: -0: 12
+dni: -0: 57431952
+fecha: -0: 20231211
+-----
+num: 260
+codigo: KLO8691
+titulo: Catedral
+autor: Raymond Carver
+cantLibrosVendidos: 1
+ranking: 1
+suma: 13
+calificacion: -0: 13
+dni: -0: 45181396
+fecha: -0: 20231124
+-----
+num: 261
+codigo: HPM0950
+titulo: Fahrenheit 451
+autor: Ray Bradbury
+cantLibrosVendidos: 2
+ranking: 2
+suma: 63
+calificacion: -0: 8
+dni: -0: 37751890
+fecha: -0: 20240209
+calificacion: -1: 55
+dni: -1: 37751890
+fecha: -1: 20240111
+-----
+num: 262
+codigo: JOF6762
+titulo: Ojos azules
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 263
+codigo: DEK2757
+titulo: En llamas
+autor: Suzanne Collins
+cantLibrosVendidos: 3
+ranking: 3
+suma: 160
+calificacion: -0: 4
+dni: -0: 86898639
+fecha: -0: 20240306
+calificacion: -1: 72
+dni: -1: 92240876
+fecha: -1: 20240103
+calificacion: -2: 84
+dni: -2: 57431952
+fecha: -2: 20230902
+-----
+num: 264
+codigo: RRE8138
+titulo: Trilogia de la Fundacion
+autor: Isaac Asimov
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 265
+codigo: JKE9650
+titulo: La metamorfosis
+autor: Franz Kafka
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 266
+codigo: BZX4462
+titulo: Culpa mia
+autor: Mercedes Ron
+cantLibrosVendidos: 0
+ranking: 1
+suma: 0
+-----
+num: 267
+codigo: NFP3266
+titulo: Sabotaje
+autor: Arturo Perez-Reverte
+cantLibrosVendidos: 2
+ranking: 5
+suma: 162
+calificacion: -0: 72
+dni: -0: 88080249
+fecha: -0: 20240322
+calificacion: -1: 90
+dni: -1: 47659552
+fecha: -1: 20230914
+-----
